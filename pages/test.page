@@ -3,11 +3,13 @@
 
 <div class="test-card-wrapper">
     <div class="test-card">
-        <h2><squarespace:block-field id="testField1"/></h2>
+        <squarespace:block-field id="testField1"/>
         <squarespace:block-field id="imgField1"/>
+        <squarespace:block-field id="parField1"/>
     </div>
     <div class="test-card">
-        <h2><squarespace:block-field id="testField2"/></h2>
+        <squarespace:block-field id="testField2"/>
         <squarespace:block-field id="imgField2"/>
+        <squarespace:block-field id="parField2"/>
     </div>
 </div>
