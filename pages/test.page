@@ -5,6 +5,7 @@
     <div class="test-card">
         <squarespace:block-field id="testField1"/>
     </div>
+    <div class="test-card">
+        <squarespace:block-field id="testField2"/>
+    </div>
 </div>
-
-<squarespace:block-field id="testField2"/>
