@@ -1,1 +1,5 @@
 <h1>Test Static Page</h1>
+
+<div class="test-card">
+    <squarespace:block-field id="testField1" columns="12"/>
+</div>
