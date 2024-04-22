@@ -2,6 +2,7 @@
 
 
 <div class="test-card-wrapper">
+    <div class="test-card-wrapper-bg"></div>
     <div class="test-card">
         <div class="padding-x-24 padding-top-24"><squarespace:block-field id="testField1"/></div>
         <div class="test-card-img"><squarespace:block-field id="imgField1"/></div>
