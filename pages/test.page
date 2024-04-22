@@ -3,7 +3,8 @@
 
 <div class="test-card-wrapper">
     <div class="test-card">
+        <squarespace:block-field id="testField1" columns="12"/>
     </div>
 </div>
-<squarespace:block-field id="testField1" columns="12"/>
 
+<squarespace:block-field id="testField2" columns="12"/>
