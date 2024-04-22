@@ -24,3 +24,9 @@
   window.addEventListener('resize', loadAllImages);
 
 }());
+
+const btnMenu = document.getElementById('nav-btn');
+const navMenu = document.querySelector('.site-navigation-wrapper');
+btnMenu.addEventListener('click', () => {
+  navMenu.classList.toggle('site-navigation-active');
+})

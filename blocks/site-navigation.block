@@ -1,5 +1,10 @@
 <nav class="site-navigation">
-  <ul class="site-navigation-list">
+
+  <div class="nav-btn" id="nav-btn">
+    <i class="fa-solid fa-bars"></i>
+  </div>
+  <div class="site-navigation-wrapper">
+    <ul class="site-navigation-list" id="nav-menu">
     {.repeated section items}
 
       <li class="site-navigation-item {.section active} active-link{.end}">
@@ -19,5 +24,6 @@
       </li>
 
     {.end}
-  </ul>
+    </ul>
+  </div>
 </nav>
