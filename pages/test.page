@@ -1,8 +1,15 @@
 <h1>Test Static Page</h1>
 
 
-<div class="test-card-wrapper">
-    <div class="test-card">
+<div class="test-card-wrapper" style="
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 100%;">
+    <div class="test-card" style="
+        display: flex;
+        flex-direction: column;
+        gap: 32px;">
         <squarespace:block-field id="testField1" columns="12"/>
     </div>
 </div>
