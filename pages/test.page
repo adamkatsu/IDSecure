@@ -8,8 +8,8 @@
         <squarespace:block-field id="testField3" columns="12"/>
     </div>
     <div class="test-card">
-        <squarespace:block-field id="testField1" columns="12"/>
-        <squarespace:block-field id="testField2" columns="12"/>
-        <squarespace:block-field id="testField3" columns="12"/>
+        <squarespace:block-field id="testField4" columns="12"/>
+        <squarespace:block-field id="testField5" columns="12"/>
+        <squarespace:block-field id="testField6" columns="12"/>
     </div>
 </div>
