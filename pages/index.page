@@ -25,7 +25,7 @@
             </div>
             <div class="grid-item">
                 <div><squarespace:block-field id="homeGridImage2"/></div>
-                <div><squarespace:block-field id="homeGridText2"/></div>
+                <div><squarespace:block-field id="homeGridText2" class="block-init"/></div>
             </div>
             <div class="grid-item">
                 <div><squarespace:block-field id="homeGridImage3"/></div>
