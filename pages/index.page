@@ -24,12 +24,12 @@
                 <div class="grid-item-p"><squarespace:block-field id="homeGridText1"/></div>
             </div>
             <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage2"/></div>
-                <div><squarespace:block-field id="homeGridText2" class="block-init"/></div>
+                <div class="grid-item-icon"><squarespace:block-field id="homeGridImage2"/></div>
+                <div class="grid-item-p"><squarespace:block-field id="homeGridText2"/></div>
             </div>
             <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage3" class="block-init"/></div>
-                <div><squarespace:block-field id="homeGridText3" class="block-init"/></div>
+                <div class="grid-item-icon"><squarespace:block-field id="homeGridImage3"/></div>
+                <div class="grid-item-p"><squarespace:block-field id="homeGridText3"/></div>
             </div>
             <div class="grid-item">
                 <div><squarespace:block-field id="homeGridImage4" class="block-init"/></div>
