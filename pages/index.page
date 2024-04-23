@@ -1,5 +1,5 @@
 
-
+<squarespace:block-field id="homeGridImage1"/>
 <section class="home-hero">
     <div class="container home-hero-cont">
         <div class="h1-wrapper">
@@ -17,7 +17,7 @@
     <div class="container">
         <div class="grid-4x4">
             <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage1"/></div>
+                <div></div>
                 <div><squarespace:block-field id="homeGridText1"/></div>
             </div>
             <div class="grid-item">
