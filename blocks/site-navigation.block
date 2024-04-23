@@ -1,7 +1,18 @@
 <nav class="site-navigation">
 
   <div class="nav-logo">
-    <squarespace:block-field id="navLogo"/>
+    <img src=""/>
+  </div>
+
+  <div class="nav-menu-default">
+    <ul class="nav-menu-list">
+      <li class="nav-menu-item">
+        <a href="/identity-biometrics"></a>
+      </li>
+      <li class="nav-menu-item">
+        <a href="/private-network"></a>
+      </li>
+    </ul>
   </div>
 
   <div class="site-navigation-wrapper">
