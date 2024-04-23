@@ -1,10 +1,10 @@
+<squarespace:block-field id="h1Text"/>
 <section class="home-hero">
     <div class="container home-hero-cont">
         <div class="h1-wrapper">
             <h1 class="h1-gradient">Configurable</h1>
             <h1>Identity, Biometric & </h1>
             <h1>Networking Solutions</h1>
-            <squarespace:block-field id="h1Text"/>
         </div>
         <div class="p-wrapper">
             <p>Innovative security solutions that empower governments and businesses to achieve the absolute of 'Trust in Transactions.</p>
