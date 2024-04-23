@@ -1,5 +1,5 @@
 
-<squarespace:block-field id="homeGridImage1"/>
+
 <section class="home-hero">
     <div class="container home-hero-cont">
         <div class="h1-wrapper">
@@ -16,9 +16,10 @@
 <section class="home-grid">
     <div class="container">
         <div class="grid-4x4">
+            <div class="grid-item"></div>
             <div class="grid-item">
-                <div></div>
-                <div><squarespace:block-field id="homeGridText1"/></div>
+                <div class="grid-item-icon"><squarespace:block-field id="homeGridImage1"/></div>
+                <div class="grid-item-p"><squarespace:block-field id="homeGridText1"/></div>
             </div>
             <div class="grid-item">
                 <div><squarespace:block-field id="homeGridImage2"/></div>
@@ -40,15 +41,6 @@
                 <div><squarespace:block-field id="homeGridImage6"/></div>
                 <div><squarespace:block-field id="homeGridText6"/></div>
             </div>
-            <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage7"/></div>
-                <div><squarespace:block-field id="homeGridText7"/></div>
-            </div>
-            <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage8"/></div>
-                <div><squarespace:block-field id="homeGridText8"/></div>
-            </div>
-           
         </div>
     </div>        
 </section>
