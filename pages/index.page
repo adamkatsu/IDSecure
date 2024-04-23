@@ -17,8 +17,8 @@
     <div class="container">
         <div class="grid-4x4">
             <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage1"/></div>
-                <div><squarespace:block-field id="homeGridText1"/></div>
+                <div></div>
+                <div></div>
             </div>
             <div class="grid-item">
                 <div><squarespace:block-field id="homeGridImage2"/></div>
