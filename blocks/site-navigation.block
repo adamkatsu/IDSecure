@@ -1,8 +1,9 @@
 <nav class="site-navigation">
 
-  <div class="nav-btn" id="nav-btn">
-    <i class="fa-solid fa-bars"></i>
+  <div class="nav-logo">
+    <squarespace:block-field id="navLogo"/>
   </div>
+
   <div class="site-navigation-wrapper">
     <ul class="site-navigation-list" id="nav-menu">
     {.repeated section items}
@@ -26,4 +27,9 @@
     {.end}
     </ul>
   </div>
+
+  <div class="nav-btn" id="nav-btn">
+    <i class="fa-solid fa-bars"></i>
+  </div>
+  
 </nav>
