@@ -28,20 +28,20 @@
                 <div><squarespace:block-field id="homeGridText2" class="block-init"/></div>
             </div>
             <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage3"/></div>
-                <div><squarespace:block-field id="homeGridText3"/></div>
+                <div><squarespace:block-field id="homeGridImage3" class="block-init"/></div>
+                <div><squarespace:block-field id="homeGridText3" class="block-init"/></div>
             </div>
             <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage4"/></div>
-                <div><squarespace:block-field id="homeGridText4"/></div>
+                <div><squarespace:block-field id="homeGridImage4" class="block-init"/></div>
+                <div><squarespace:block-field id="homeGridText4" class="block-init"/></div>
             </div>
             <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage5"/></div>
-                <div><squarespace:block-field id="homeGridText5"/></div>
+                <div><squarespace:block-field id="homeGridImage5" class="block-init"/></div>
+                <div><squarespace:block-field id="homeGridText5" class="block-init"/></div>
             </div>
             <div class="grid-item">
-                <div><squarespace:block-field id="homeGridImage6"/></div>
-                <div><squarespace:block-field id="homeGridText6"/></div>
+                <div><squarespace:block-field id="homeGridImage6" class="block-init"/></div>
+                <div><squarespace:block-field id="homeGridText6" class="block-init"/></div>
             </div>
         </div>
     </div>        
