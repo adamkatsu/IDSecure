@@ -30,6 +30,7 @@ body {
   h1, h2, h3, h4 {
     font-weight: normal;
     line-height: 1.2em;
+    margin: 0px;
   }
   h1 {
     font-size: 72px;
@@ -57,9 +58,6 @@ body {
   }
 }
 
-.site-header {
-  margin-bottom: 4vw;
-}
 
 .site-navigation { 
   width: 100%;
@@ -68,6 +66,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  position: relative;
 
   .nav-logo {
     height: 40px;
@@ -107,6 +106,10 @@ body {
 }
 .site-navigation-active {
   height: 100%;
+  position: absolute;
+  top: 0;
+  right: 48px;
+  overflow: visible;
 }
 
 .site-navigation-item {
@@ -234,4 +237,63 @@ body.collection-type-blog.view-list {
 }
 .padding-bottom-24 {
   padding-bottom: 24px;
+}
+
+/* Home
+***************************************************/
+
+section {
+  width: 100%;
+  padding: 100px 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-hero {
+  position: relative;
+
+  &-cont, .h1-wrapper, .p-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+  }
+  &-cont {
+    gap: 2rem;
+  }
+  .h1-wrapper {
+    h1{
+      font-size: 74px;
+      line-height: 110%;
+      text-transform: uppercase;
+    }
+    .h1-gradient {
+      background: linear-gradient(90deg, #0F36F6 0%, #0FF6F6 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+  .p-wrapper {
+    max-width: 615px;
+
+    p{
+      text-align: center;
+    }
+  }
+  &-bg {
+    position: absolute;
+    top: 6rem;
+    z-index: 0;
+    width: 595px;
+    height: 96px;
+    flex-shrink: 0;
+    border-radius: 595px;
+    background: #0F36F6;
+    filter: blur(100px);
+  }
 }

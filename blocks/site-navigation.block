@@ -16,27 +16,49 @@
   </div>
 
   <div class="site-navigation-wrapper">
-    <ul class="site-navigation-list" id="nav-menu">
-    {.repeated section items}
+    <nav class="site-navigation-list" id="nav-menu">
+      <ul>
 
-      <li class="site-navigation-item {.section active} active-link{.end}">
+        {.repeated section items}
+        <li class="{.section active} active-link{.end}
+          {.if folderActive} active-link active-folder{.end}">
 
-        <!-- collection link -->
-        {.section collection}
-          <a href="{fullUrl}">{navigationTitle}</a>
+          {.folder?}
+
+            <a>{collection.navigationTitle}</a>
+              <ul class="subnav">
+                {.repeated section items}
+                  {.collection?}
+                    <li class="{.section active} active-link{.end}">
+                      <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                    </li>
+                  {.end}
+                  {.section externalLink}
+                    <li class="external-link">
+                      <a href="{url}"{.section newWindow} target="_blank"{.end}>{title}</a>
+                    </li>
+                  {.end}
+                {.end}
+              </ul>
+
+          {.or}
+
+            {.section collection}
+              <a href="{fullUrl}">{navigationTitle}</a>
+            {.end}
+
+            {.section externalLink}
+              <a href="{url}"{.section newWindow} target="_blank"{.end}>{title}</a>
+            {.end}
+
+          {.end}
+
+        </li>
         {.end}
 
-        <!-- external link -->
-        {.section externalLink}
-          <a href="{url}"{.section newWindow} target="_blank"{.end}>
-            {title}
-          </a>
-        {.end}
-
-      </li>
-
-    {.end}
-    </ul>
+      </ul>
+    </nav>
+    
   </div>
 
   <div class="nav-btn" id="nav-btn">
