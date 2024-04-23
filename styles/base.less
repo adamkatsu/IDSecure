@@ -242,6 +242,36 @@ body.collection-type-blog.view-list {
 /* Home
 ***************************************************/
 
+.flex {
+  display: flex;
+
+  &-col-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  &-24 {
+    gap: 24px;
+  }
+}
+
+.eyebrow {
+  position: relative;
+  width: 32px;
+
+  &-one {
+    position: absolute;
+    z-index: 1;
+    width: 66%;
+  }
+  &-two {
+    position: absolute;
+    z-index: 2;
+    width: 33%;
+  }
+}
+
 section {
   width: 100%;
   padding: 100px 80px;
@@ -331,6 +361,11 @@ section {
       font-size: 24px;
       max-width: 200px;
       padding-left: 12px;
+    }
+    &-bg-none {
+      background: transparent;
+      border-radius: 0px;
+      padding: 30px;
     }
   }
 }

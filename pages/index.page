@@ -16,7 +16,9 @@
 <section class="home-grid">
     <div class="container">
         <div class="grid-4x4">
-            <div class="grid-item"></div>
+            <div class="grid-item grid-item-bg-none flex-col-left flex-24">
+                {@|apply test-partials.block}
+            </div>
             <div class="grid-item">
                 <div class="grid-item-icon"><squarespace:block-field id="homeGridImage1"/></div>
                 <div class="grid-item-p"><squarespace:block-field id="homeGridText1"/></div>
