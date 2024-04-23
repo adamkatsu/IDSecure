@@ -1,16 +1,16 @@
 <nav class="site-navigation">
 
   <div class="nav-logo">
-    <img src=""/>
+    <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/b3b80815-19fd-47b9-bc42-ad1223fa8595/nav-logo.png?content-type=image%2Fpng"/>
   </div>
 
   <div class="nav-menu-default">
     <ul class="nav-menu-list">
       <li class="nav-menu-item">
-        <a href="/identity-biometrics"></a>
+        <a href="/identity-biometrics">Identity & Biometrics</a>
       </li>
       <li class="nav-menu-item">
-        <a href="/private-network"></a>
+        <a href="/private-network">Private Network</a>
       </li>
     </ul>
   </div>
