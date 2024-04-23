@@ -7,7 +7,6 @@
         <div class="padding-x-24 padding-top-24"><squarespace:block-field id="testField1"/></div>
         <div class="test-card-img"><squarespace:block-field id="imgField1"/></div>
         <div class="padding-x-24 padding-bottom-24"><squarespace:block-field id="parField1"/></div>
-        
     </div>
     <div class="test-card">
         <div class="padding-x-24 padding-top-24"><squarespace:block-field id="testField2"/></div>
