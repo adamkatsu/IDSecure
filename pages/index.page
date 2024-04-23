@@ -15,37 +15,38 @@
     <div class="container">
         <div class="grid-4x4">
             <div class="grid-item">
-                <squarespace:block-field id="homeGridImage1"/>
-                <squarespace:block-field id="homeGridText1"/>
+                <div><squarespace:block-field id="homeGridImage1"/></div>
+                <div><squarespace:block-field id="homeGridText1"/></div>
             </div>
             <div class="grid-item">
-                <squarespace:block-field id="homeGridImage2"/>
-                <squarespace:block-field id="homeGridText2"/>
+                <div><squarespace:block-field id="homeGridImage2"/></div>
+                <div><squarespace:block-field id="homeGridText2"/></div>
             </div>
             <div class="grid-item">
-                <squarespace:block-field id="homeGridImage3"/>
-                <squarespace:block-field id="homeGridText3"/>
+                <div><squarespace:block-field id="homeGridImage3"/></div>
+                <div><squarespace:block-field id="homeGridText3"/></div>
             </div>
             <div class="grid-item">
-                <squarespace:block-field id="homeGridImage4"/>
-                <squarespace:block-field id="homeGridText4"/>
+                <div><squarespace:block-field id="homeGridImage4"/></div>
+                <div><squarespace:block-field id="homeGridText4"/></div>
             </div>
             <div class="grid-item">
-                <squarespace:block-field id="homeGridImage5"/>
-                <squarespace:block-field id="homeGridText5"/>
+                <div><squarespace:block-field id="homeGridImage5"/></div>
+                <div><squarespace:block-field id="homeGridText5"/></div>
             </div>
             <div class="grid-item">
-                <squarespace:block-field id="homeGridImage6"/>
-                <squarespace:block-field id="homeGridText6"/>
+                <div><squarespace:block-field id="homeGridImage6"/></div>
+                <div><squarespace:block-field id="homeGridText6"/></div>
             </div>
             <div class="grid-item">
-                <squarespace:block-field id="homeGridImage7"/>
-                <squarespace:block-field id="homeGridText7"/>
+                <div><squarespace:block-field id="homeGridImage7"/></div>
+                <div><squarespace:block-field id="homeGridText7"/></div>
             </div>
             <div class="grid-item">
-                <squarespace:block-field id="homeGridImage8"/>
-                <squarespace:block-field id="homeGridText8"/>
+                <div><squarespace:block-field id="homeGridImage8"/></div>
+                <div><squarespace:block-field id="homeGridText8"/></div>
             </div>
+           
         </div>
     </div>        
 </section>
