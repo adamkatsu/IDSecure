@@ -18,6 +18,8 @@
         <div class="grid-4x4">
             <div class="grid-item grid-item-bg-none flex-col-left flex-24">
                 {@|apply eyebrow-48.block}
+                <div class="h3"><squarespace:block-field id="homeGrid1H3" class="block-init"/></div>
+                <div class="grid-item-p"><squarespace:block-field id="homeGrid1Paragraph" class="block-init"/></div>
             </div>
             <div class="grid-item">
                 <div class="grid-item-icon"><squarespace:block-field id="homeGridImage1"/></div>
@@ -46,3 +48,4 @@
         </div>
     </div>        
 </section>
+{@|apply marquee-home.block}
