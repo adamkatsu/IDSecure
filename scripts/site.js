@@ -32,11 +32,36 @@ btnMenu.addEventListener('click', () => {
 })
 
 const navDropToggle = document.querySelectorAll('.nav-menu-toggle');
-const navDropMenu = navDropToggle.querySelector('.nav-menu-dropdown');
 
-navDropToggle.addEventListener('mouseover', () => {
-  navDropMenu.classList.add('nav-hover-active');
+
+navDropToggle.forEach((x) => {
+  const navDropMenu = x.querySelector('.nav-menu-dropdown');
+
+  let mouseIsOver = false;
+
+  x.addEventListener('mouseenter', () => {
+    mouseIsOver = true;
+    console.log(mouseIsOver);
+    mouseState()
+  });
+  x.addEventListener('mouseleave', () => {
+    mouseIsOver = false;
+    console.log(mouseIsOver);
+    mouseState()
+  });
+  navDropMenu.addEventListener('mouseleave', () => {
+    mouseIsOver = false;
+  });
+  navDropMenu.addEventListener('mouseenter', () => {
+    mouseIsOver = true;
+  });
+
+  function mouseState() {
+    if(mouseIsOver) {
+      navDropMenu.classList.add('nav-hover-active');
+    } else {
+      navDropMenu.classList.remove('nav-hover-active');
+    }
+  } 
 })
-navDropMenu.addEventListener('mouseleave', () => {
-  navDropMenu.classList.remove('nav-hover-active');
-})
+
