@@ -99,6 +99,33 @@ body {
         font-size: 14px;
       }
     }
+    .nav-menu-item {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+    }
+    .nav-menu-toggle {
+      position: relative;
+    }
+    .nav-menu-dropdown {
+      position: absolute;
+      top: 162%;
+      left: -24px;
+      z-index: 3;
+      width: 320px;
+      height: 0%;
+      overflow: hidden;
+      border-radius: 32px;
+      background: rgba(45, 63, 139, 0.20);
+      backdrop-filter: blur(25px);
+    }
+    .nav-hover-active {
+      height: auto;
+      transition: all .5s ease;
+    }
+    .nav-inner-wrapper {
+      padding: 100px 24px;
+    }
   }
 }
 

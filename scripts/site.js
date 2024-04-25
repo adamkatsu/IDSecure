@@ -30,3 +30,13 @@ const navMenu = document.querySelector('.site-navigation-wrapper');
 btnMenu.addEventListener('click', () => {
   navMenu.classList.toggle('site-navigation-active');
 })
+
+const navDropToggle = document.querySelectorAll('.nav-menu-toggle');
+const navDropMenu = navDropToggle.querySelector('.nav-menu-dropdown');
+
+navDropToggle.addEventListener('mouseover', () => {
+  navDropMenu.classList.add('nav-hover-active');
+})
+navDropMenu.addEventListener('mouseleave', () => {
+  navDropMenu.classList.remove('nav-hover-active');
+})
