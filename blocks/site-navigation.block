@@ -11,14 +11,51 @@
         <a href="/identity-biometrics">Identity & Biometrics</a>
         <svg width="8" height="4" viewBox="0 0 8 4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 4L0 0H8L4 4Z" fill="white"/></svg>
         <div class="nav-menu-dropdown">
-          <div class="nav-inner-wrapper"></div>
+          <div class="nav-inner-wrapper">
+            <div class="nav-inner-list">
+              <span class="nav-inner-title">Hardware Solution</span>
+              <ul class="nav-inner-list flex-8">
+                {.repeated section items.1.items}
+              
+                <li class="nav-menu-item">
+                  <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                </li>
+
+                {.end}
+              </ul>
+            </div>
+            <div class="nav-inner-list">
+              <span class="nav-inner-title">Software Solution</span>
+              <ul class="nav-inner-list flex-8">
+                {.repeated section items.2.items}
+              
+                <li class="nav-menu-item">
+                  <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                </li>
+
+                {.end}
+              </ul>
+            </div>
+          </div>
         </div>
       </li>
       <li class="nav-menu-item nav-menu-toggle">
         <a href="/private-network">Private Network</a>
         <svg width="8" height="4" viewBox="0 0 8 4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 4L0 0H8L4 4Z" fill="white"/></svg>
         <div class="nav-menu-dropdown">
-          <div class="nav-inner-wrapper"></div>
+          <div class="nav-inner-wrapper">
+          <div class="nav-inner-list">
+              <span class="nav-inner-title">Zero Trust Networks</span>
+              <ul class="nav-inner-list flex-8">
+              {.repeated section items.0.items}
+              
+              <li class="nav-menu-item">
+                <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+              </li>
+
+              {.end}
+              </ul>
+            </div></div>
         </div>
       </li>
       <li class="nav-menu-item">

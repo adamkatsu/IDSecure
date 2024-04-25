@@ -46,4 +46,7 @@
         </div>
     </div>        
 </section>
+
 {@|apply marquee-home.block}
+
+<section style="height: 500px;"></section>
