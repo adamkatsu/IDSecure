@@ -85,46 +85,54 @@ body {
     display: flex;
     flex-direction: row;
     width: 100%;
+    margin: auto;
     justify-content: center;
     align-items: center;
 
     .nav-menu-list {
       display: flex;
       flex-direction: row;
-      gap: 48px;
+      gap: 8px;
       align-items: center;
       text-transform: uppercase;
 
       a {
         font-size: 14px;
+        position: relative;
+        z-index: 4;
       }
     }
     .nav-menu-item {
       display: flex;
       flex-direction: row;
       align-items: center;
-    }
-    .nav-menu-toggle {
+      gap: 4px;
       position: relative;
+      z-index: 4;
+      padding: 0px 20px;
     }
+
     .nav-menu-dropdown {
       position: absolute;
-      top: 162%;
+      top: 0;
+      padding-top: 0px;
       left: -24px;
       z-index: 3;
       width: 320px;
-      height: 0%;
       overflow: hidden;
-      border-radius: 32px;
-      background: rgba(45, 63, 139, 0.20);
-      backdrop-filter: blur(25px);
+      height: 0px;
+      transition: all .3s ease;
     }
     .nav-hover-active {
-      height: auto;
-      transition: all .5s ease;
+      height: fit-content;
+      padding-top: 32px;
+      transition: all .3s ease;
     }
     .nav-inner-wrapper {
       padding: 100px 24px;
+      border-radius: 32px;
+      background: rgba(45, 63, 139, 0.20);
+      backdrop-filter: blur(25px);
     }
   }
 }

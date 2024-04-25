@@ -25,35 +25,30 @@
 
 }());
 
-const btnMenu = document.getElementById('nav-btn');
-const navMenu = document.querySelector('.site-navigation-wrapper');
-btnMenu.addEventListener('click', () => {
-  navMenu.classList.toggle('site-navigation-active');
-})
+
+// Nav Dropdown Interaction 
 
 const navDropToggle = document.querySelectorAll('.nav-menu-toggle');
 
-
 navDropToggle.forEach((x) => {
   const navDropMenu = x.querySelector('.nav-menu-dropdown');
-
   let mouseIsOver = false;
 
-  x.addEventListener('mouseenter', () => {
+  x.querySelector('a').addEventListener('mouseenter', () => {
     mouseIsOver = true;
-    console.log(mouseIsOver);
     mouseState()
   });
-  x.addEventListener('mouseleave', () => {
+  x.querySelector('a').addEventListener('mouseleave', () => {
     mouseIsOver = false;
-    console.log(mouseIsOver);
     mouseState()
   });
   navDropMenu.addEventListener('mouseleave', () => {
     mouseIsOver = false;
+    mouseState()
   });
   navDropMenu.addEventListener('mouseenter', () => {
     mouseIsOver = true;
+    mouseState()
   });
 
   function mouseState() {
