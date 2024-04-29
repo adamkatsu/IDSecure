@@ -118,10 +118,10 @@
 
   <div class="nav-btn-wrapper" id="nav-btn">
     <button type="button" class="nav-menu-item nav-button">
-      <a href="/contact">Contact</a>
+      <a href="/contact">Contact Us</a>
     </button>
     <button type="button" class="nav-menu-btn">
-      <i class="fa-solid fa-bars"></i>
+      <i class="fa-solid fa-bars" style="width: 24px;"></i>
     <button>
   </div>
   
