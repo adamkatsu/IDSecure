@@ -116,8 +116,13 @@
     
   </div>
 
-  <div class="nav-btn" id="nav-btn">
-    <i class="fa-solid fa-bars"></i>
+  <div class="nav-btn-wrapper" id="nav-btn">
+    <button type="button" class="nav-menu-item nav-button">
+      <a href="/contact">Contact</a>
+    </button>
+    <button type="button" class="nav-menu-btn">
+      <i class="fa-solid fa-bars"></i>
+    <button>
   </div>
   
 </nav>
