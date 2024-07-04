@@ -48,3 +48,20 @@
 </section>
 
 {@|apply marquee-home.block}
+
+<section class="home-main">
+    <div class="container home-main-cont">
+        <div class="home-main-item">
+            <img src="" alt="" class="home-main-image">
+            <div class="home-main-content">
+                {@| apply eyebrow-100.block}
+                <div class="uppercase"><squarespace:block-field id="homeMainSub1"/>a</div>
+                <div><squarespace:block-field id="homeMainTitle1"/>a</div>
+                <div><squarespace:block-field id="homeMainTxt1"/>a</div>
+                <button type="button" class="button-primary button-white">
+                    <a class="cl-blue uppercase" href="">"Learn More</a>
+                </button>
+            </div>
+        </div>
+    </div>
+</section>
