@@ -2,7 +2,7 @@
 <footer class="footer">
     <div class="container footer-cont">
         <div class="footer-logo">
-            <squarespace:block-field id="footerLogo"/>
+            <squarespace:block-field id="footerLogo"/>aaa
         </div>   
         <div class="footer-menu">
             <div class="footer-menu-list">
