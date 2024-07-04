@@ -84,7 +84,17 @@ body {
 .uppercase {
   text-transform: uppercase;
 }
+.icon {
+  &-48 {
+    height: 48px !important;
+    width: 48px !important;
 
+    img {
+      height: 48px !important;
+      object-fit: contain !important;
+    }
+  }
+}
 
 //
 
@@ -500,47 +510,47 @@ section, footer {
   grid-template-rows: repeat(2, 1fr);
   grid-column-gap: 8px;
   grid-row-gap: 8px;
+}
+.grid-item {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 72px;
+  padding: 20px;
+  border-radius: 32px;
+  background: rgba(45, 63, 139, 0.20);
+  backdrop-filter: blur(25px);
 
-  .grid-item {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 72px;
-    padding: 20px;
-    border-radius: 32px;
-    background: rgba(45, 63, 139, 0.20);
-    backdrop-filter: blur(25px);
+  &-icon {
+    width: 80px;
+    height: 80px;
 
-    &-icon {
-      width: 80px;
-      height: 80px;
-
-      img {
-        width: 100%;
-      }
+    img {
+      width: 100%;
     }
-    &-h3 {
-      font-size: 2rem;
-      line-height: 110%;
-      width: 200px;
-      text-transform: uppercase;
-    }
-    &-h4 {
-      font-size: 24px;
-      max-width: 200px;
-      padding-left: 12px;
-    }
-    &-bg-none {
-      background: transparent;
-      border-radius: 0px;
-      padding: 30px;
-    }
-    &-small {
-      padding: 16px;
-      gap: 16px;
-    }
+  }
+  &-h3 {
+    font-size: 2rem;
+    line-height: 110%;
+    width: 200px;
+    text-transform: uppercase;
+  }
+  &-h4 {
+    font-size: 24px;
+    max-width: 200px;
+    padding-left: 12px;
+  }
+  &-bg-none {
+    background: transparent;
+    border-radius: 0px;
+    padding: 30px;
+  }
+  &-small {
+    padding: 16px;
+    gap: 16px;
+    width: 150px;
   }
 }
 .home-main {
@@ -565,7 +575,8 @@ section, footer {
   &-content {
     display: flex;
     flex-direction: column;
-    align-items: stretch;
+    align-items: flex-start;
+    justify-content: flex-start;
     gap: 32px;
     width: 100%;
     max-width: 524px;

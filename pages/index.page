@@ -55,19 +55,19 @@
             <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/7bc961b3-aa3c-4c63-a25f-6178e7090460/home-hardware.png?content-type=image%2Fpng" alt="" class="home-main-image">
             <div class="home-main-content">
                 {@|apply eyebrow-100.block}
-                <div class="uppercase"><squarespace:block-field id="homeMainSub1"/>a</div>
-                <div><squarespace:block-field id="homeMainTitle1"/></div>
+                <div class="uppercase"><squarespace:block-field id="homeMainSub1"/></div>
+                <div class="uppercase"><squarespace:block-field id="homeMainTitle1"/></div>
                 <div class="flex-row-between flex-8">
                     <div class="grid-item grid-item-small">
-                        <squarespace:block-field id="hardwareIcon1"/>
+                        <div class="icon-48"><squarespace:block-field id="hardwareIcon1"/></div>
                         <squarespace:block-field id="hardwareText1"/>
                     </div>
                     <div class="grid-item grid-item-small">
-                        <squarespace:block-field id="hardwareIcon2"/>
+                        <div class="icon-48"><squarespace:block-field id="hardwareIcon2"/></div>
                         <squarespace:block-field id="hardwareText2"/>
                     </div>
                     <div class="grid-item grid-item-small">
-                        <squarespace:block-field id="hardwareIcon3"/>
+                        <div class="icon-48"><squarespace:block-field id="hardwareIcon3"/></div>
                         <squarespace:block-field id="hardwareText3"/>
                     </div>
                 </div>
@@ -76,6 +76,32 @@
                     <a class="uppercase" href="">Learn More</a>
                 </button>
             </div>
+        </div>
+        <div class="home-main-item">
+            <div class="home-main-content">
+                {@|apply eyebrow-100.block}
+                <div class="uppercase"><squarespace:block-field id="homeMainSub2"/>a</div>
+                <div class="uppercase"><squarespace:block-field id="homeMainTitle2"/>a</div>
+                <div class="flex-row-between flex-8">
+                    <div class="grid-item grid-item-small">
+                        <div class="icon-48"><squarespace:block-field id="softwareIcon1"/>a</div>
+                        <squarespace:block-field id="softwareText1"/>
+                    </div>
+                    <div class="grid-item grid-item-small">
+                        <div class="icon-48"><squarespace:block-field id="softwareIcon2"/>a</div>
+                        <squarespace:block-field id="softwareText2"/>
+                    </div>
+                    <div class="grid-item grid-item-small">
+                        <div class="icon-48"><squarespace:block-field id="softwareIcon3"/>a</div>
+                        <squarespace:block-field id="softwareText3"/>
+                    </div>
+                </div>
+                <div><squarespace:block-field id="homeMainTxt2"/>a</div>
+                <button type="button" class="button-primary">
+                    <a class="uppercase" href="">Learn More</a>
+                </button>
+            </div>
+            <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/7bc961b3-aa3c-4c63-a25f-6178e7090460/home-hardware.png?content-type=image%2Fpng" alt="" class="home-main-image">
         </div>
     </div>
 </section>
