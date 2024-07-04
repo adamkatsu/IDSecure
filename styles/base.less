@@ -537,6 +537,10 @@ section, footer {
       border-radius: 0px;
       padding: 30px;
     }
+    &-small {
+      padding: 16px;
+      gap: 16px;
+    }
   }
 }
 .home-main {
@@ -545,6 +549,26 @@ section, footer {
     flex-direction: column;
     align-items: stretch;
     gap: 200px;
+  }
+  &-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+
+    img {
+      width: 100%;
+      max-width: 616px;
+    }
+  }
+  &-content {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 32px;
+    width: 100%;
+    max-width: 524px;
   }
 }
 /* Marquee
