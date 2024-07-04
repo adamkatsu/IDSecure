@@ -1,4 +1,4 @@
-<script>console.log({@|json-pretty})</script>
+<!-- <script>console.log({@|json-pretty})</script> -->
 <nav class="site-navigation">
 
   <div class="nav-logo">
@@ -15,7 +15,7 @@
             <div class="nav-inner-list">
               <span class="nav-inner-title">Hardware Solution</span>
               <ul class="nav-inner-list flex-8">
-                {.repeated section items.1.items}
+                {.repeated section items.2.items}
               
                 <li class="nav-menu-item">
                   <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
@@ -27,7 +27,7 @@
             <div class="nav-inner-list">
               <span class="nav-inner-title">Software Solution</span>
               <ul class="nav-inner-list flex-8">
-                {.repeated section items.2.items}
+                {.repeated section items.3.items}
               
                 <li class="nav-menu-item">
                   <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
@@ -47,7 +47,7 @@
           <div class="nav-inner-list">
               <span class="nav-inner-title">Zero Trust Networks</span>
               <ul class="nav-inner-list flex-8">
-              {.repeated section items.0.items}
+              {.repeated section items.1.items}
               
               <li class="nav-menu-item">
                 <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
@@ -68,52 +68,6 @@
         <a href="/press">Press</a>
       </li>
     </ul>
-  </div>
-
-  <div class="site-navigation-wrapper">
-    <nav class="site-navigation-list" id="nav-menu">
-      <ul>
-
-        {.repeated section items}
-        <li class="{.section active} active-link{.end}
-          {.if folderActive} active-link active-folder{.end}">
-
-          {.folder?}
-
-            <a>{collection.navigationTitle}</a>
-              <ul class="subnav">
-                {.repeated section items}
-                  {.collection?}
-                    <li class="{.section active} active-link{.end}">
-                      <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
-                    </li>
-                  {.end}
-                  {.section externalLink}
-                    <li class="external-link">
-                      <a href="{url}"{.section newWindow} target="_blank"{.end}>{title}</a>
-                    </li>
-                  {.end}
-                {.end}
-              </ul>
-
-          {.or}
-
-            {.section collection}
-              <a href="{fullUrl}">{navigationTitle}</a>
-            {.end}
-
-            {.section externalLink}
-              <a href="{url}"{.section newWindow} target="_blank"{.end}>{title}</a>
-            {.end}
-
-          {.end}
-
-        </li>
-        {.end}
-
-      </ul>
-    </nav>
-    
   </div>
 
   <div class="nav-btn-wrapper" id="nav-btn">

@@ -58,5 +58,5 @@ navDropToggle.forEach((x) => {
       navDropMenu.classList.remove('nav-hover-active');
     }
   } 
-})
+});
 

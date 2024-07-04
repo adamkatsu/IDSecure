@@ -43,7 +43,6 @@ body {
   h4 {
     font-size: 24px;
   }
-
   a {
     color: #fff;
     text-decoration: none;
@@ -57,6 +56,22 @@ body {
   }
 }
 
+// Util
+
+.fs-14 {
+  font-size: 14px;  
+}
+.cl-grey {
+  color: #86878E
+}
+.uppercase {
+  text-transform: uppercase;
+}
+
+
+//
+
+
 .site-header {
   display: flex;
   flex-direction: row;
@@ -65,7 +80,7 @@ body {
 }
 .site-navigation { 
   width: 100%;
-  max-width: 1920px;
+  max-width: 1600px;
   padding: 24px;
   display: flex;
   flex-direction: row;
@@ -394,7 +409,7 @@ body.collection-type-blog.view-list {
   }
 }
 
-section {
+section, footer {
   width: 100%;
   padding: 100px 80px;
   display: flex;
@@ -494,9 +509,6 @@ section {
       max-width: 200px;
       padding-left: 12px;
     }
-    &-p {
-      font-size: 14px;
-    }
     &-bg-none {
       background: transparent;
       border-radius: 0px;
@@ -550,6 +562,45 @@ section {
     }
   }
 }
+
+/* Footer
+***************************************************/
+
+.footer {
+  &-cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  &-menu {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 928px;
+
+    &-list {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+      gap: 24px;
+    }
+  }
+  &-ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .foot-menu-item {
+    text-transform: uppercase;
+  }
+}
+
 @keyframes homemarquee {
   0% {
     transform: translateX(0);

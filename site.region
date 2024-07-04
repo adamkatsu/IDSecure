@@ -25,7 +25,10 @@
        {squarespace.main-content}
       </main>
 
-      {@|apply footer.block}
+      <footer>
+        <squarespace:navigation navigationId="siteNav" template="footer" />
+      </footer>
+
 
     </div>
 

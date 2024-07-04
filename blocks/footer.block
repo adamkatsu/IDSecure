@@ -1,3 +1,53 @@
-<footer>
-
+<script>console.log({@|json-pretty})</script>
+<footer class="footer">
+    <div class="container footer-cont">
+        <div class="footer-logo">
+            <squarespace:block-field id="footerLogo"/>
+        </div>   
+        <div class="footer-menu">
+            <div class="footer-menu-list">
+                <span class="fs-14 cl-grey uppercase">Navigations</span>
+                    <ul class="footer-ul">
+                        <li class="foot-menu-item">
+                        <a href="{website.internalUrl}">Home</a>
+                        </li>
+                        {.repeated section items.0.items}
+                        <li class="foot-menu-item">
+                        <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                        </li>
+                        {.end}
+                    </ul>
+            </div>
+            <div class="footer-menu-list">
+                <span class="fs-14 cl-grey uppercase">Hardware Solution</span>
+                <ul class="footer-ul">
+                        {.repeated section items.2.items}
+                        <li class="foot-menu-item">
+                        <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                        </li>
+                        {.end}
+                    </ul>
+            </div>
+            <div class="footer-menu-list">
+                <span class="fs-14 cl-grey uppercase">Software Solution</span>
+                <ul class="footer-ul">
+                        {.repeated section items.3.items}
+                        <li class="foot-menu-item">
+                        <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                        </li>
+                        {.end}
+                    </ul>
+            </div>
+            <div class="footer-menu-list">
+                <span class="fs-14 cl-grey uppercase">Zero Trust Networks</span>
+                <ul class="footer-ul">
+                        {.repeated section items.1.items}
+                        <li class="foot-menu-item">
+                        <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                        </li>
+                        {.end}
+                    </ul>
+            </div>
+        </div>
+    </div>
 </footer>
