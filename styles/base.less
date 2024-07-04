@@ -88,13 +88,6 @@ body {
   align-items: center;
   position: relative;
 
-  .nav-logo {
-    height: 40px;
-
-    img {
-      height: 100%;
-    }
-  }
   .nav-btn-wrapper {
     display: flex;
     flex-direction: row;
@@ -203,7 +196,13 @@ body {
     }
   }
 }
+.nav-logo, .footer-logo {
+    height: 40px;
 
+    img {
+      height: 100%;
+    }
+  }
 .site-navigation-list {
   padding: 0;
 }
@@ -572,6 +571,7 @@ section, footer {
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
+    gap: 32px;
   }
   &-menu {
     width: 100%;
