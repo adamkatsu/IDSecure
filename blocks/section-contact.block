@@ -1,14 +1,25 @@
 <section class="section-contact">
-    <div class="container section-contact-cont">
-        <div class="flex-col-left flex-24">
+    <div class="container section-contact-cont flex-row-between flex-32">
+        <div class="flex-col-left flex-24 contact-details">
             {@|apply eyebrow-48.block}
-            <div class="h3 uppercase"><squarespace:block-field id="secContactTitle"/>fd</div>
+            <div class="h4 uppercase" id="sec-contact-title"><squarespace:block-field id="secContactTitle"/></div>
             <div class="flex-col-left flex-16">
-                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactEmail"/>sd</div>
-                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactPhone"/>sd</div>
-                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactAddress"/>sd</div>
+                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactEmail"/></div>
+                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactPhone"/></div>
+                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactAddress"/></div>
             </div>
             
+        </div>
+        <div class="contact-banner">
+            <div class="contact-banner-top">
+                <h2 class="fs-56 uppercase">Identity, Biometric & Networking Solutions</h2>
+            </div>
+            <div class="contact-banner-bottom">
+                <squarespace:block-field id="contactBannerText"/>a
+                <button type="button" class="button-primary button-white">
+                    <a class="cl-blue uppercase" href="{items.0.items.0.collection.fullUrl}">Contact Us</a>
+                </button>
+            </div>
         </div>
     </div>
 </section>

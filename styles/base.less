@@ -51,15 +51,32 @@ body {
       color: #fff;
     }
   }
+  a.cl-blue {
+    color: #0F36F6;
+  }
   ul, li {
     list-style: none;
   }
+  
+}
+.button-primary {
+  padding: 16px 24px;
+  background-color: #0F36F6;
+  border-radius: 32px;
+  border: none;
+}
+.button-white {
+  background-color: #ffffff;
+  color: #0F36F6;
 }
 
 // Util
 
 .fs-14 {
   font-size: 14px;  
+}
+.fs-56 {
+  font-size: 56px;
 }
 .cl-grey {
   color: #86878E
@@ -99,11 +116,6 @@ body {
       font-size: 14px;
       text-wrap: nowrap;
     }
-  }
-  .nav-button {
-    padding: 16px 24px;
-    background-color: #0F36F6;
-    border-radius: 32px;
   }
   .nav-menu-btn {
     padding: 16px;
@@ -360,6 +372,14 @@ body.collection-type-blog.view-list {
     justify-content: flex-start !important;
     align-items: flex-start !important;
   }
+  &-row-between {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  &-32 {
+    gap: 32px !important;
+  }
   &-24 {
     gap: 24px !important;
   }
@@ -599,6 +619,34 @@ section, footer {
   }
   .foot-menu-item {
     text-transform: uppercase;
+  }
+}
+
+.contact {
+  &-banner {
+    border-radius: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    background-image: url(https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/1378770b-544c-4378-8730-40ba547f78a6/banner-bg.png?content-type=image%2Fpng);
+    background-color: #0F36F6;
+  }
+  &-banner-top {
+    padding: 30px 48px 56px 30px;
+    border-bottom: 1px solid #ffffff;
+  }
+  &-banner-bottom {
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  &-details {
+    max-width: 276px;
+  }
+  #sec-contact-title {
+    max-width: 200px;
   }
 }
 
