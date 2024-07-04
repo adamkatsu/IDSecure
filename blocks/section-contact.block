@@ -1,0 +1,14 @@
+<section class="section-contact">
+    <div class="container section-contact-cont">
+        <div class="flex-col-left flex-24">
+            {@|apply eyebrow-48.block}
+            <div class="h3 uppercase"><squarespace:block-field id="secContactTitle"/>fd</div>
+            <div class="flex-col-left flex-16">
+                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactEmail"/>sd</div>
+                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactPhone"/>sd</div>
+                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactAddress"/>sd</div>
+            </div>
+            
+        </div>
+    </div>
+</section>
