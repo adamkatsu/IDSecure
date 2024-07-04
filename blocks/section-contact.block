@@ -15,7 +15,7 @@
                 <h2 class="fs-56 uppercase">Identity, Biometric & Networking Solutions</h2>
             </div>
             <div class="contact-banner-bottom">
-                <squarespace:block-field id="contactBannerText"/>a
+                <div><squarespace:block-field id="contactBannerText"/>a</div>
                 <button type="button" class="button-primary button-white">
                     <a class="cl-blue uppercase" href="{items.0.items.0.collection.fullUrl}">Contact Us</a>
                 </button>
