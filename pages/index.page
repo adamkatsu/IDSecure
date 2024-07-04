@@ -56,22 +56,22 @@
             <div class="home-main-content">
                 {@|apply eyebrow-100.block}
                 <div class="uppercase"><squarespace:block-field id="homeMainSub1"/>a</div>
-                <div><squarespace:block-field id="homeMainTitle1"/>a</div>
+                <div><squarespace:block-field id="homeMainTitle1"/></div>
                 <div class="flex-row-between flex-8">
                     <div class="grid-item grid-item-small">
-                        <squarespace:block-field id="hardwareIcon1"/>a
+                        <squarespace:block-field id="hardwareIcon1"/>
                         <squarespace:block-field id="hardwareText1"/>
                     </div>
                     <div class="grid-item grid-item-small">
-                        <squarespace:block-field id="hardwareIcon2"/>a
+                        <squarespace:block-field id="hardwareIcon2"/>
                         <squarespace:block-field id="hardwareText2"/>
                     </div>
                     <div class="grid-item grid-item-small">
-                        <squarespace:block-field id="hardwareIcon3"/>a
+                        <squarespace:block-field id="hardwareIcon3"/>
                         <squarespace:block-field id="hardwareText3"/>
                     </div>
                 </div>
-                <div><squarespace:block-field id="homeMainTxt1"/>a</div>
+                <div><squarespace:block-field id="homeMainTxt1"/></div>
                 <button type="button" class="button-primary">
                     <a class="uppercase" href="">Learn More</a>
                 </button>
