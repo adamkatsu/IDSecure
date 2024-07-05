@@ -87,11 +87,11 @@
                 <div class="flex-row-between flex-8">
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="softwareIcon1"/></div>
-                        <div><squarespace:block-field id="softwareText1"/>a</div>
+                        <div><squarespace:block-field id="softwareText1"/></div>
                     </div>
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="softwareIcon2"/></div>
-                        <div><squarespace:block-field id="softwareText2"/>a</div>
+                        <div><squarespace:block-field id="softwareText2"/></div>
                     </div>
                 </div>
                 <div><squarespace:block-field id="homeMainTxt2"/></div>
@@ -105,7 +105,7 @@
         </div>
         <div class="home-main-item">
             <div class="home-main-image">
-                <squarespace:block-field id="homeImage3"/>a
+                <squarespace:block-field id="homeImage3"/>
             </div>
             <div class="home-main-content">
                 {@|apply eyebrow-100.block}
@@ -114,11 +114,11 @@
                 <div class="flex-row-between flex-8">
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="networkIcon1"/></div>
-                        <div><squarespace:block-field id="networkText1"/>a</div>
+                        <div><squarespace:block-field id="networkText1"/></div>
                     </div>
                     <div class="grid-item grid-item-small">
-                        <div class="icon-48"><squarespace:block-field id="networkIcon2"/>a</div>
-                        <div><squarespace:block-field id="networkText2"/>a</div>
+                        <div class="icon-48"><squarespace:block-field id="networkIcon2"/></div>
+                        <div><squarespace:block-field id="networkText2"/></div>
                     </div>
                 </div>
                 <div><squarespace:block-field id="homeMainTxt3"/></div>
