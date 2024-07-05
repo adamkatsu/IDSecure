@@ -53,7 +53,7 @@
     <div class="container home-main-cont">
         <div class="home-main-item">
             <div class="home-main-image">
-                <squarespace:block-field id="homeImage1"/>a
+                <squarespace:block-field id="homeImage1"/>
             </div>
             <div class="home-main-content">
                 {@|apply eyebrow-100.block}
@@ -62,15 +62,15 @@
                 <div class="flex-row-between flex-8">
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="hardwareIcon1"/></div>
-                        <squarespace:block-field id="hardwareText1"/>
+                        <div><squarespace:block-field id="hardwareText1"/></div>
                     </div>
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="hardwareIcon2"/></div>
-                        <squarespace:block-field id="hardwareText2"/>
+                        <div><squarespace:block-field id="hardwareText2"/></div>
                     </div>
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="hardwareIcon3"/></div>
-                        <squarespace:block-field id="hardwareText3"/>
+                        <div><squarespace:block-field id="hardwareText3"/></div>
                     </div>
                 </div>
                 <div><squarespace:block-field id="homeMainTxt1"/></div>
@@ -87,11 +87,11 @@
                 <div class="flex-row-between flex-8">
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="softwareIcon1"/></div>
-                        <squarespace:block-field id="softwareText1"/>a
+                        <div><squarespace:block-field id="softwareText1"/>a</div>
                     </div>
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="softwareIcon2"/></div>
-                        <squarespace:block-field id="softwareText2"/>a
+                        <div><squarespace:block-field id="softwareText2"/>a</div>
                     </div>
                 </div>
                 <div><squarespace:block-field id="homeMainTxt2"/></div>
@@ -114,11 +114,11 @@
                 <div class="flex-row-between flex-8">
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="networkIcon1"/></div>
-                        <squarespace:block-field id="networkText1"/>a
+                        <div><squarespace:block-field id="networkText1"/>a</div>
                     </div>
                     <div class="grid-item grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="networkIcon2"/>a</div>
-                        <squarespace:block-field id="networkText2"/>a
+                        <div><squarespace:block-field id="networkText2"/>a</div>
                     </div>
                 </div>
                 <div><squarespace:block-field id="homeMainTxt3"/></div>
