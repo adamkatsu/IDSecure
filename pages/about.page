@@ -2,8 +2,6 @@
     <div class="container about-hero-cont">
         <div class="h1-wrapper">
             <h1>Curiosity, creativity, and industry knowledge drive our passion and purpose. </h1>
-            <!-- <h1>industry knowledge drive our</h1>
-            <h1>passion and purpose.</h1> -->
         </div>
     </div>
 </section>
@@ -13,7 +11,7 @@
             <div class="h2 uppercase"><squarespace:block-field id="aboutUsTitle"/></div>
         </div>
         <div class="about-text-wrapper">
-            <div class="p"><squarespace:block-field id="aboutUsText"/>a
+            <div class="p"><squarespace:block-field id="aboutUsText"/>
             </div>
         </div>
     </div>

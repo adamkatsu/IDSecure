@@ -1,0 +1,94 @@
+<section class="about-hero">
+    <div class="container hero-cont about-hero-cont">
+        <div class="h1-wrapper">
+            <h1>Who’s talking about</h1>
+        </div>
+        <div class="p-wrapper">
+            <p>Recent coverage</p>
+        </div>
+    </div>
+</section>
+<section class="press-links">
+    <div class="container press-links-cont">
+        <div class="press-links-item">
+            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon1"/>icon</div>
+            <div class="press-links-text"><squarespace:block-field id="pressLinkText1"/>HQ in Australia</div>
+        </div>
+        <div class="press-links-item">
+            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon2"/>icon</div>
+            <div class="press-links-text"><squarespace:block-field id="pressLinkText2"/>Download Resource</div>
+        </div>
+        <div class="press-links-item">
+            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon3"/>icon</div>
+            <div class="press-links-text"><squarespace:block-field id="pressLinkText3"/>press@id-secure.com</div>
+        </div>
+        <div class="press-links-item">
+            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon4"/>icon</div>
+            <div class="press-links-text"><squarespace:block-field id="pressLinkText4"/>Download Media Kit</div>
+        </div>
+    </div>
+</section>
+<section class="press-grid">
+    <div class="container press-grid-cont">
+        <div class="press-grid-item">
+            <div class="press-grid-category">
+                <div class="p">Fintech</div>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M6 18L18 6M18 6H10M18 6V14" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+            <div class="press-grid-title">Open Source Needs Maintaners. But How They Can?</div>
+            <div class="press-grid-date">Sept 6, 2023</div>
+        </div>
+        <div class="press-grid-item">
+            <div class="press-grid-category">
+                <div class="p">Fintech</div>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M6 18L18 6M18 6H10M18 6V14" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+            <div class="press-grid-title">Open Source Needs Maintaners. But How They Can?</div>
+            <div class="press-grid-date">Sept 6, 2023</div>
+        </div>
+        <div class="press-grid-item">
+            <div class="press-grid-category">
+                <div class="p">Fintech</div>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M6 18L18 6M18 6H10M18 6V14" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+            <div class="press-grid-title">Open Source Needs Maintaners. But How They Can?</div>
+            <div class="press-grid-date">Sept 6, 2023</div>
+        </div>
+        <div class="press-grid-item">
+            <div class="press-grid-category">
+                <div class="p">Fintech</div>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M6 18L18 6M18 6H10M18 6V14" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+            <div class="press-grid-title">Open Source Needs Maintaners. But How They Can?</div>
+            <div class="press-grid-date">Sept 6, 2023</div>
+        </div>
+        <div class="press-grid-item">
+            <div class="press-grid-category">
+                <div class="p">Fintech</div>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M6 18L18 6M18 6H10M18 6V14" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+            <div class="press-grid-title">Open Source Needs Maintaners. But How They Can?</div>
+            <div class="press-grid-date">Sept 6, 2023</div>
+        </div>
+        <div class="press-grid-item">
+            <div class="press-grid-category">
+                <div class="p">Fintech</div>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M6 18L18 6M18 6H10M18 6V14" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </div>
+            <div class="press-grid-title">Open Source Needs Maintaners. But How They Can?</div>
+            <div class="press-grid-date">Sept 6, 2023</div>
+        </div>
+    </div>
+</section>
