@@ -1,4 +1,13 @@
-@import "base.less";
+/* Mixins
+***************************************************/
+
+.flex-box(@dir,@just, @align, @gap) {
+    display: flex;
+    flex-direction: @dir;
+    justify-content: @just;
+    align-items: @align;
+    gap: @gap;
+  }
 
 .site-header {
     display: flex;
