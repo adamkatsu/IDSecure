@@ -11,20 +11,20 @@
 <section class="press-links">
     <div class="container press-links-cont">
         <div class="press-links-item">
-            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon1"/>icon</div>
-            <div class="press-links-text"><squarespace:block-field id="pressLinkText1"/>HQ in Australia</div>
+            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon1"/></div>
+            <div class="press-links-text"><squarespace:block-field id="pressLinkText1"/></div>
         </div>
         <div class="press-links-item">
-            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon2"/>icon</div>
-            <div class="press-links-text"><squarespace:block-field id="pressLinkText2"/>Download Resource</div>
+            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon2"/></div>
+            <div class="press-links-text"><squarespace:block-field id="pressLinkText2"/></div>
         </div>
         <div class="press-links-item">
-            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon3"/>icon</div>
-            <div class="press-links-text"><squarespace:block-field id="pressLinkText3"/>press@id-secure.com</div>
+            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon3"/></div>
+            <div class="press-links-text"><squarespace:block-field id="pressLinkText3"/></div>
         </div>
         <div class="press-links-item">
-            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon4"/>icon</div>
-            <div class="press-links-text"><squarespace:block-field id="pressLinkText4"/>Download Media Kit</div>
+            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon4"/></div>
+            <div class="press-links-text"><squarespace:block-field id="pressLinkText4"/></div>
         </div>
     </div>
 </section>
