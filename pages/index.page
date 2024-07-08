@@ -1,5 +1,5 @@
 <section class="home-hero">
-    <div class="container home-hero-cont">
+    <div class="container hero-cont home-hero-cont">
         <div class="h1-wrapper">
             <h1 class="h1-gradient">Configurable</h1>
             <h1>Identity, Biometric & </h1>
@@ -46,9 +46,7 @@
         </div>
     </div>        
 </section>
-
 {@|apply marquee-home.block}
-
 <section class="home-main">
     <div class="container home-main-cont">
         <div class="home-main-item">

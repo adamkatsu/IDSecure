@@ -1,0 +1,19 @@
+// Grid
+
+.value {
+    &-grid-cont {
+        .flex-box(column, flex-start, center, 60px);
+    }
+    &-grid-wrapper {
+        .flex-box(row, center, flex-start, 8px);
+        flex-wrap: wrap;
+    }
+    &-grid-item {
+        width: 24%;
+        .flex-box(column, flex-start, flex-start, 24px);
+        padding: 30px;
+        border-radius: 32px;
+        background: radial-gradient(117.36% 77.71% at 23.77% 31.08%, rgba(34, 40, 73, 0.60) 0%, rgba(20, 24, 46, 0.60) 100%);
+        backdrop-filter: blur(25px);
+    }
+}
