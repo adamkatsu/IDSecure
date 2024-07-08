@@ -10,12 +10,10 @@
 <section class="about-main">
     <div class="container about-main-cont">
         <div class="h2-wrapper">
-            <div class="h2 uppercase"><squarespace:block-field id="aboutUsTitle"/>About Us</div>
+            <div class="h2 uppercase"><squarespace:block-field id="aboutUsTitle"/></div>
         </div>
         <div class="about-text-wrapper">
-            <div class="p"><squarespace:block-field id="aboutUsTitle"/>ID SECURE is a Defense and Security Technology Solution provider specializing in Intelligence Collection and Private Networking solutions. Focused on the Defense, Intelligence and Law Enforcement sectors, our Intelligence Collection solutions compromise custom identity technology solutions leveraged to verify biometric and biographic data against FBI watchlists. 
-            <br><br>
-            Our Private Network solutions are based on a Zero Trust architecture; authenticating, securing, and privately routing global mobile traffic regardless <br><br>of the territory or MNO from which it originates.
+            <div class="p"><squarespace:block-field id="aboutUsTitle"/>
             </div>
         </div>
     </div>
@@ -23,48 +21,48 @@
 <section class="about-vision">
     <div class="container about-vision-cont">
         <div class="about-vision-title">
-            <div class="uppercase"><squarespace:block-field id="visionTitle"/>Vision</div>
+            <div class="uppercase"><squarespace:block-field id="visionTitle"/></div>
         </div>
         <div class="about-vision-text">
-            <div class="h2 uppercase"><squarespace:block-field id="aboutVisionText"/>To be a Global Leader in Defense and Security Technology Solutions</div>
+            <div class="h2 uppercase"><squarespace:block-field id="aboutVisionText"/></div>
         </div>
     </div>
 </section>
 <section class="value-grid">
     <div class="container value-grid-cont">
         <div class="h2-wrapper">
-            <div class="h2 uppercase"><squarespace:block-field id="aboutUsTitle"/>Our Values</div>
+            <div class="h2 uppercase"><squarespace:block-field id="aboutUsTitle"/></div>
         </div>
         <div class="value-grid-wrapper">
             <div class="value-grid-item">
-                <div><squarespace:block-field id="gridImg1"/>a</div>
-                <div class="h3"><squarespace:block-field id="gridTitle1"/>Innovation</div>
-                <div class="p"><squarespace:block-field id="gridText1"/>Relentlessly improve our products, expand our capabilities, and develop new ways to deliver trusted experiences</div>
+                <div><squarespace:block-field id="gridImg1"/></div>
+                <div class="h3"><squarespace:block-field id="gridTitle1"/></div>
+                <div class="p"><squarespace:block-field id="gridText1"/></div>
             </div>
             <div class="value-grid-item">
                 <div><squarespace:block-field id="gridImg2"/>a</div>
-                <div class="h3"><squarespace:block-field id="gridTitle2"/>Innovation</div>
-                <div class="p"><squarespace:block-field id="gridText2"/>Relentlessly improve our products, expand our capabilities, and develop new ways to deliver trusted experiences</div>
+                <div class="h3"><squarespace:block-field id="gridTitle2"/></div>
+                <div class="p"><squarespace:block-field id="gridText2"/></div>
             </div>
             <div class="value-grid-item">
                 <div><squarespace:block-field id="gridImg3"/>a</div>
-                <div class="h3"><squarespace:block-field id="gridTitle3"/>Innovation</div>
-                <div class="p"><squarespace:block-field id="gridText3"/>Relentlessly improve our products, expand our capabilities, and develop new ways to deliver trusted experiences</div>
+                <div class="h3"><squarespace:block-field id="gridTitle3"/></div>
+                <div class="p"><squarespace:block-field id="gridText3"/></div>
             </div>
             <div class="value-grid-item">
                 <div><squarespace:block-field id="gridImg4"/>a</div>
-                <div class="h3"><squarespace:block-field id="gridTitle4"/>Innovation</div>
-                <div class="p"><squarespace:block-field id="gridText4"/>Relentlessly improve our products, expand our capabilities, and develop new ways to deliver trusted experiences</div>
+                <div class="h3"><squarespace:block-field id="gridTitle4"/></div>
+                <div class="p"><squarespace:block-field id="gridText4"/></div>
             </div>
             <div class="value-grid-item">
                 <div><squarespace:block-field id="gridImg5"/>a</div>
-                <div class="h3"><squarespace:block-field id="gridTitle5"/>Innovation</div>
-                <div class="p"><squarespace:block-field id="gridText5"/>Relentlessly improve our products, expand our capabilities, and develop new ways to deliver trusted experiences</div>
+                <div class="h3"><squarespace:block-field id="gridTitle5"/></div>
+                <div class="p"><squarespace:block-field id="gridText5"/></div>
             </div>
             <div class="value-grid-item">
                 <div><squarespace:block-field id="gridImg6"/>a</div>
-                <div class="h3"><squarespace:block-field id="gridTitle6"/>Innovation</div>
-                <div class="p"><squarespace:block-field id="gridText6"/>Relentlessly improve our products, expand our capabilities, and develop new ways to deliver trusted experiences</div>
+                <div class="h3"><squarespace:block-field id="gridTitle6"/></div>
+                <div class="p"><squarespace:block-field id="gridText6"/></div>
             </div>
         </div>
     </div>
@@ -72,10 +70,10 @@
 <section class="about-mission">
     <div class="container about-mission-cont">
         <div class="about-mission-title">
-            <div class="uppercase"><squarespace:block-field id="missionTitle"/>mission</div>
+            <div class="uppercase"><squarespace:block-field id="missionTitle"/></div>
         </div>
         <div class="about-mission-text">
-            <div class="h2 uppercase"><squarespace:block-field id="aboutMissionText"/>Empower our customers with value-adding technology solutions, achieving Trust in Transactions</div>
+            <div class="h2 uppercase"><squarespace:block-field id="aboutMissionText"/></div>
         </div>
     </div>
 </section>
