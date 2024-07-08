@@ -16,7 +16,7 @@
         </div>
         <div class="press-links-item">
             <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon2"/></div>
-            <div class="press-links-text"><squarespace:block-field id="pressLinkText2"/></div>
+            <div class="press-links-text link-underline"><squarespace:block-field id="pressLinkText2"/></div>
         </div>
         <div class="press-links-item">
             <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon3"/></div>
@@ -24,7 +24,7 @@
         </div>
         <div class="press-links-item">
             <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon4"/></div>
-            <div class="press-links-text"><squarespace:block-field id="pressLinkText4"/></div>
+            <div class="press-links-text link-underline"><squarespace:block-field id="pressLinkText4"/></div>
         </div>
     </div>
 </section>
