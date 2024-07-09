@@ -15,7 +15,7 @@
         .flex-box(column, flex-start, center, 60px);
     }
     &-grid-wrapper {
-        .flex-box(row, center, flex-start, 8px);
+        .flex-box(row, center, stretch, 8px);
         flex-wrap: wrap;
     }
     &-grid-item {
@@ -29,6 +29,16 @@
     &-grid-icon {
         width: 90px !important;
         height: 90px !important;
+        flex-shrink: 0 !important;
+    }
+    &-grid-3 {
+        width: 32%;
+        .flex-box(row, flex-start, flex-start, 24px);
+    }
+    &-grid-content {
+        .flex-box(column, flex-start, flex-start, 16px);
+        width: 100%;
+        max-width: 200px;
     }
 }
 
@@ -80,4 +90,43 @@
       font-weight: 600;
       line-height: 100%;
       text-transform: uppercase;
+  }
+
+  // Blue Block
+
+  .block-blue {
+    &-cont {
+        border-radius: 32px;
+        background: #0F36F6;
+        padding: 60px 32px;
+        .flex-box(column, flex-start, center, 32px);
+    }
+  }
+
+  // Reference
+
+  .reference {
+    &-cont {
+        .flex-box(column, flex-start, center, 32px);
+        width: 100%;
+    }
+    &-content {
+        .flex-box(column, flex-start, stretch, 24px);
+        width: 100%;
+    }
+    &-companies {
+        .flex-box(row, space-between, center, 48px);
+        // flex-wrap: wrap;
+
+        img {
+            height: 50px;
+            object-fit: cover;
+        }
+        
+    }
+    .companies-bottom {
+        img {
+            height: 75px;
+        }
+    }
   }
