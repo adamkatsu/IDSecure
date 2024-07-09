@@ -13,3 +13,15 @@
         <squarespace:block-field id="contactForm"/>a
     </div>
 </section>
+   
+<script>
+    
+    // Contact Form Placeholder Input
+
+    const myTimeout = setTimeout(() => {
+        document.querySelector('[name="fname"]').placeholder = "First Name";
+        document.querySelector('[name="lname"]').placeholder = "Last Name";
+        console.log("DOM fully loaded and parsed");
+    }, 800);
+    
+</script>
