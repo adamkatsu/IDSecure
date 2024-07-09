@@ -21,17 +21,17 @@
         </div>
         <div class="id-dex-content">
             <div class="id-dex-item">
-                <div><squarespace:block-field id="dexFlowIcon1"/>a</div>
+                <div class="dex-flow-icon"><squarespace:block-field id="dexFlowIcon1"/></div>
                 <div class="h3">Insert Identity Document</div>
                 <div>Insert the guest's Passport, ID Card or Driver's License into the scanner.</div>
             </div>
             <div class="id-dex-item">
-                <div><squarespace:block-field id="dexFlowIcon2"/>a</div>
+                <div class="dex-flow-icon"><squarespace:block-field id="dexFlowIcon2"/></div>
                 <div class="h3">Start Scanning</div>
                 <div>Initiate the scan directly from the guest's profile. ID-DEx will automatically recognize the document type & extract it’s data.</div>
             </div>
             <div class="id-dex-item">
-                <div><squarespace:block-field id="dexFlowIcon3"/>a</div>
+                <div class="dex-flow-icon"><squarespace:block-field id="dexFlowIcon3"/></div>
                 <div class="h3">Receive Data to PMS</div>
                 <div>The scanned data is auto-filled into the guest's profile. Return the guest’s document & continue with the check-in.</div>
             </div>
