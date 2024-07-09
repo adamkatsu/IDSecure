@@ -1,0 +1,15 @@
+<section class="contact-hero">
+    <div class="container hero-cont contact-hero-cont">
+        <div class="h1-wrapper">
+            <h1>Contact Us</h1>
+        </div>
+        <div class="p-wrapper">
+            <p>Reach out to us using this form and specify which Solution you are interested in.</p>
+        </div>
+    </div>
+</section>
+<section class="contact-main">
+    <div class="container contact-main-cont">
+        <squarespace:block-field id="contactForm"/>a
+    </div>
+</section>
