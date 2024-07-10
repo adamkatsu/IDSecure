@@ -34,32 +34,32 @@
         <div class="value-grid-wrapper">
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
-                <div class="h3"><squarespace:block-field id="gridTitle1"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle1"/></div>
                 <div class="p"><squarespace:block-field id="gridText1"/></div>
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg2"/></div>
-                <div class="h3"><squarespace:block-field id="gridTitle2"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle2"/></div>
                 <div class="p"><squarespace:block-field id="gridText2"/></div>
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg3"/></div>
-                <div class="h3"><squarespace:block-field id="gridTitle3"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle3"/></div>
                 <div class="p"><squarespace:block-field id="gridText3"/></div>
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg4"/></div>
-                <div class="h3"><squarespace:block-field id="gridTitle4"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle4"/></div>
                 <div class="p"><squarespace:block-field id="gridText4"/></div>
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg5"/></div>
-                <div class="h3"><squarespace:block-field id="gridTitle5"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle5"/></div>
                 <div class="p"><squarespace:block-field id="gridText5"/></div>
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg6"/></div>
-                <div class="h3"><squarespace:block-field id="gridTitle6"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle6"/></div>
                 <div class="p"><squarespace:block-field id="gridText6"/></div>
             </div>
         </div>

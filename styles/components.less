@@ -101,6 +101,20 @@
         padding: 60px 32px;
         .flex-box(column, flex-start, center, 32px);
     }
+    .block-content {
+        .flex-box(row, center, flex-start, 8px);
+        row-gap: 32px;
+        flex-wrap: wrap;
+        width: 100%;
+
+        &-item {
+            .flex-box(column, flex-start, flex-start, 24px);
+            min-width: 170px;
+        }
+    }
+    .block-grid-6-item {
+        width: 16%;
+    }
   }
 
   // Reference
@@ -127,6 +141,30 @@
     .companies-bottom {
         img {
             height: 75px;
+        }
+    }
+  }
+
+  // Statistics
+
+  .statistics {
+    &-cont {
+        .flex-box(column, flex-start, center, 32px);
+    }
+    &-content {
+        width: 100%;
+        .flex-box(row, space-between, flex-start, 16px);
+    }
+    &-item {
+        .flex-box(column, flex-start, center, 24px);
+        width: 25%;
+
+        &-number {
+            font-size: 56px;
+            line-height: 110%;
+        }
+        &-text {
+            font-size: 14px;
         }
     }
   }
