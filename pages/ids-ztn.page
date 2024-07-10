@@ -79,11 +79,11 @@
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg9"/><squarespace:block-field id="gridImg9"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText6"/>Fraud Prevention</div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText9"/>Fraud Prevention</div>
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg10"/><squarespace:block-field id="gridImg10"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText6"/>Fraud Prevention</div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText10"/>Fraud Prevention</div>
             </div>
         </div>
     </div>
