@@ -1,7 +1,7 @@
 <section class="about-hero">
     <div class="container hero-cont about-hero-cont">
         <div class="h1-wrapper">
-            <h1><squarespace:block-field id="idsZtnh1"/></h1>
+            <h1><squarespace:block-field id="idsZtnh1"/>ids-ztn</h1>
         </div>
         <div class="p-wrapper">
             <squarespace:block-field id="idsZtnSubTitle"/>
