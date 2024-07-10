@@ -1,38 +1,39 @@
 <section class="about-hero">
     <div class="container hero-cont about-hero-cont">
         <div class="h1-wrapper">
-            <h1>R-IDv</h1>
+            <h1><squarespace:block-field id="rIdvh1"/>R-IDv</h1>
         </div>
         <div class="p-wrapper">
+            <squarespace:block-field id="rIdvSubTitle"/>
             <p>(Remote Identity Verification)</p>    
         </div>
     </div>
 </section>
 <section class="page-desc">
     <div class="container page-desc-cont">
-        <div class="page-desc-title">R-IDv is a powerful remote identity document verification tool providing unprecedented security whilst achieving customer satisfaction.</div>
-        <div class="page-desc-text">As the digital world expands so do the risks. Our remote document reader SDK provides seamless identity document verification from any device in a matter of seconds; enabling your mobile and web apps to process ID cards, driving licenses and passports.</div>
+        <div class="page-desc-title"><squarespace:block-field id="rIdvDesc1"/>R-IDv is a powerful remote identity document verification tool providing unprecedented security whilst achieving customer satisfaction.</div>
+        <div class="page-desc-text"><squarespace:block-field id="rIdvDesc2"/>As the digital world expands so do the risks. Our remote document reader SDK provides seamless identity document verification from any device in a matter of seconds; enabling your mobile and web apps to process ID cards, driving licenses and passports.</div>
     </div>
 </section>
 <section class="statistics">
     <div class="container statistics-cont">
-        <div class="statistics-head uppercase txt-center">GLOBAL DOCUMENT DATABASE:</div>
+        <div class="statistics-head uppercase txt-center"><squarespace:block-field id="rIdvStatsTitle"/>GLOBAL DOCUMENT DATABASE:</div>
         <div class="statistics-content">
             <div class="statistics-item">
-                <div class="statistics-item-number"><span>56%</span></div>
-                <div class="statistics-item-text uppercase txt-center"><span>On-Premise</span></div>
+                <div class="statistics-item-number"><squarespace:block-field id="rIdvStatsTitle1"/><span>56%</span></div>
+                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="rIdvStatsText1"/><span>On-Premise</span></div>
             </div>
             <div class="statistics-item">
-                <div class="statistics-item-number"><span>135+</span></div>
-                <div class="statistics-item-text uppercase txt-center"><span>Languages</span></div>
+                <div class="statistics-item-number"><squarespace:block-field id="rIdvStatsTitle2"/><span>135+</span></div>
+                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="rIdvStatsText2"/><span>Languages</span></div>
             </div>
             <div class="statistics-item">
-                <div class="statistics-item-number"><span>12,500+</span></div>
-                <div class="statistics-item-text uppercase txt-center"><span>Document Templates</span></div>
+                <div class="statistics-item-number"><squarespace:block-field id="rIdvStatsTitle3"/><span>12,500+</span></div>
+                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="rIdvStatsText3"/><span>Document Templates</span></div>
             </div>
             <div class="statistics-item">
-                <div class="statistics-item-number"><span>240+</span></div>
-                <div class="statistics-item-text uppercase txt-center"><span>Countries and Territories</span></div>
+                <div class="statistics-item-number"><squarespace:block-field id="rIdvStatsTitle4"/><span>240+</span></div>
+                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="rIdvStatsText4"/><span>Countries and Territories</span></div>
             </div>
         </div>
     </div>
@@ -44,28 +45,28 @@
         </div>
         <div class="value-grid-wrapper">
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
-                <div class="h4">Data Entry Automation</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg1"/><squarespace:block-field id="gridImg1"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvGridText1"/>Data Entry Automation</div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg2"/></div>
-                <div class="h4">Customer Onboarding</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg2"/><squarespace:block-field id="gridImg2"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvGridText2"/>Customer Onboarding</div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg3"/></div>
-                <div class="h4">KYC</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg3"/><squarespace:block-field id="gridImg3"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvGridText3"/>KYC</div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg4"/></div>
-                <div class="h4">Check-In Automation</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg4"/><squarespace:block-field id="gridImg4"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvGridText4"/>Check-In Automation</div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg5"/></div>
-                <div class="h4">Age Verification</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg5"/><squarespace:block-field id="gridImg5"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvGridText5"/>Age Verification</div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg6"/></div>
-                <div class="h4">Fraud Prevention</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg6"/><squarespace:block-field id="gridImg6"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvGridText6"/>Fraud Prevention</div>
             </div>
         </div>
     </div>
@@ -77,28 +78,28 @@
         </div>
         <div class="block-content block-grid-6">
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4">MRZ Reading</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon1"/><squarespace:block-field id="dexFlowIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvBlockText1"/>MRZ Reading</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4">Barcode Reading</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/><squarespace:block-field id="dexFlowIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvBlockText2"/>Barcode Reading</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4">Credit Card Reading</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon3"/><squarespace:block-field id="dexFlowIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvBlockText3"/>Credit Card Reading</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4">SMT RFID Reading</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon4"/><squarespace:block-field id="dexFlowIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvBlockText4"/>SMT RFID Reading</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4">OCR</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon5"/><squarespace:block-field id="dexFlowIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvBlockText5"/>OCR</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4">Document Type Identification</div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon6"/><squarespace:block-field id="dexFlowIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="rIdvBlockText6"/>Document Type Identification</div>
             </div>
         </div>
     </div>
