@@ -91,7 +91,7 @@
 </section>
 <section class="advantages">
     <div class="container advantages-cont">
-        <div class="advantages-title h2 uppercase"><squarespace:block-field id="advantagesSectionTitle"/>ID-Dex <br> Advantages</div>
+        <div class="advantages-title h2 uppercase"><squarespace:block-field id="advantagesSectionTitle"/></div>
         <div class="advantages-list">
             <div class="advantages-item advantages-item-show">
                 <div class="advantages-item-head">
