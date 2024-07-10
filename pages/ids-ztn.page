@@ -1,40 +1,38 @@
 <section class="about-hero">
     <div class="container hero-cont about-hero-cont">
         <div class="h1-wrapper">
-            <h1><squarespace:block-field id="idsZtnh1"/>ids-ztn</h1>
+            <h1><squarespace:block-field id="idsZtnh1"/></h1>
         </div>
         <div class="p-wrapper">
             <squarespace:block-field id="idsZtnSubTitle"/>
-            <p>(Zero Trust Network)</p>    
         </div>
     </div>
 </section>
 <section class="page-desc">
     <div class="container page-desc-cont">
-        <div class="page-desc-title"><squarespace:block-field id="idsZtnDesc1"/>The only Global Private Network solution you will ever need. Built on a Zero Trust architecture; empowering dedicated private and secure network routing with Static IP’s delivered directly to your local network.
-</div>
-        <div class="page-desc-text"><squarespace:block-field id="idsZtnDesc2"/>IDS-ZTN is a dynamic IoT Connectivity Solution which empowers your organization to expand your local private network; globally, by converging and utilizing high-speed mobile networks around the world, including technologies such as NB-IoT, Cat-M1, 3G, LTE and 5G.</div>
+        <div class="page-desc-title"><squarespace:block-field id="idsZtnDesc1"/> </div>
+        <div class="page-desc-text"><squarespace:block-field id="idsZtnDesc2"/></div>
     </div>
 </section>
 <section class="statistics">
     <div class="container statistics-cont">
-        <div class="statistics-head uppercase txt-center"><squarespace:block-field id="idsZtnStatsTitle"/>GLOBAL PRIVATE NETWORK COVERAGE:</div>
+        <div class="statistics-head uppercase txt-center"><squarespace:block-field id="idsZtnStatsTitle"/></div>
         <div class="statistics-content">
             <div class="statistics-item">
-                <div class="statistics-item-number"><squarespace:block-field id="idsZtnStatsTitle1"/><span>1</span></div>
-                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="idsZtnStatsText1"/><span>SIM/eSIM</span></div>
+                <div class="statistics-item-number"><squarespace:block-field id="idsZtnStatsTitle1"/></div>
+                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="idsZtnStatsText1"/></div>
             </div>
             <div class="statistics-item">
-                <div class="statistics-item-number"><squarespace:block-field id="idsZtnStatsTitle2"/><span>9</span></div>
-                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="idsZtnStatsText2"/><span>Major MNO’s</span></div>
+                <div class="statistics-item-number"><squarespace:block-field id="idsZtnStatsTitle2"/></div>
+                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="idsZtnStatsText2"/></div>
             </div>
             <div class="statistics-item">
-                <div class="statistics-item-number"><squarespace:block-field id="idsZtnStatsTitle3"/><span>240+</span></div>
-                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="idsZtnStatsText3"/><span>Countries and Territories</span></div>
+                <div class="statistics-item-number"><squarespace:block-field id="idsZtnStatsTitle3"/></div>
+                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="idsZtnStatsText3"/></div>
             </div>
             <div class="statistics-item">
-                <div class="statistics-item-number"><squarespace:block-field id="idsZtnStatsTitle4"/><span>750+</span></div>
-                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="idsZtnStatsText4"/><span>Network Carriers</span></div>
+                <div class="statistics-item-number"><squarespace:block-field id="idsZtnStatsTitle4"/></div>
+                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="idsZtnStatsText4"/></div>
             </div>
         </div>
     </div>
@@ -46,44 +44,44 @@
         </div>
         <div class="value-grid-wrapper">
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg1"/><squarespace:block-field id="gridImg1"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText1"/>Data Entry Automation</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg1"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText1"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg2"/><squarespace:block-field id="gridImg2"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText2"/>Customer Onboarding</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg2"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText2"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg3"/><squarespace:block-field id="gridImg3"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText3"/>KYC</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg3"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText3"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg4"/><squarespace:block-field id="gridImg4"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText4"/>Check-In Automation</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg4"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText4"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg5"/><squarespace:block-field id="gridImg5"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText5"/>Age Verification</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg5"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText5"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg6"/><squarespace:block-field id="gridImg6"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText6"/>Fraud Prevention</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg6"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText6"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg7"/><squarespace:block-field id="gridImg6"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText7"/>Fraud Prevention</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg7"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText7"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg8"/><squarespace:block-field id="gridImg6"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText8"/>Fraud Prevention</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg8"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText8"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg9"/><squarespace:block-field id="gridImg9"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText9"/>Fraud Prevention</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg9"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText9"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg10"/><squarespace:block-field id="gridImg10"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnGridText10"/>Fraud Prevention</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnGridImg10"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnGridText10"/></div>
             </div>
         </div>
     </div>
@@ -92,40 +90,39 @@
     <div class="container block-blue-cont">
         <div class="block-blue-title">
             <squarespace:block-field id="idsZtnBlueTitle"/>
-            Embeded Technologies:
         </div>
         <div class="block-content block-grid-4">
             <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon1"/><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnBlockText1"/>MRZ Reading</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnBlockText1"/></div>
             </div>
             <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon2"/><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnBlockText2"/>Barcode Reading</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon2"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnBlockText2"/></div>
             </div>
             <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon3"/><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnBlockText3"/>Credit Card Reading</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon3"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnBlockText3"/></div>
             </div>
             <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon4"/><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnBlockText4"/>SMT RFID Reading</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon4"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnBlockText4"/></div>
             </div>
             <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon5"/><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnBlockText5"/>OCR</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnBlockText5"/></div>
             </div>
             <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon6"/><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnBlockText6"/>Document Type Identification</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon6"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnBlockText6"/></div>
             </div>
             <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon7"/><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnBlockText7"/>OCR</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon7"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnBlockText7"/></div>
             </div>
             <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon8"/><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="idsZtnBlockText8"/>Document Type Identification</div>
+                <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon8"/></div>
+                <div class="h4"><squarespace:block-field id="idsZtnBlockText8"/></div>
             </div>
         </div>
     </div>
