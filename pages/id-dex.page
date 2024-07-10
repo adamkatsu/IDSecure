@@ -41,49 +41,49 @@
 <section class="value-grid">
     <div class="container value-grid-cont">
         <div class="h2-wrapper">
-            <div class="h2 uppercase"><squarespace:block-field id="idDexValuesTitle"/></div>
+            <div class="h2 uppercase"><squarespace:block-field id="aboutValuesTitle"/></div>
         </div>
         <div class="value-grid-wrapper">
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="idDexGridImg1"/></div>
+                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg1"/></div>
                 <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="idDexGridTitle1"/></div>
-                    <div class="p"><squarespace:block-field id="idDexGridText1"/></div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle1"/></div>
+                    <div class="p"><squarespace:block-field id="aboutGridText1"/></div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="idDexGridImg2"/></div>
+                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg2"/></div>
                 <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="idDexGridTitle2"/></div>
-                    <div class="p"><squarespace:block-field id="idDexGridText2"/></div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle2"/></div>
+                    <div class="p"><squarespace:block-field id="aboutGridText2"/></div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="idDexGridImg3"/></div>
+                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg3"/></div>
                 <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="idDexGridTitle3"/></div>
-                    <div class="p"><squarespace:block-field id="idDexGridText3"/></div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle3"/></div>
+                    <div class="p"><squarespace:block-field id="aboutGridText3"/></div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="idDexGridImg4"/></div>
+                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg4"/></div>
                 <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="idDexGridTitle4"/></div>
-                    <div class="p"><squarespace:block-field id="idDexGridText4"/></div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle4"/></div>
+                    <div class="p"><squarespace:block-field id="aboutGridText4"/></div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="idDexGridImg5"/></div>
+                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg5"/></div>
                 <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="idDexGridTitle5"/></div>
-                    <div class="p"><squarespace:block-field id="idDexGridText5"/></div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle5"/></div>
+                    <div class="p"><squarespace:block-field id="aboutGridText5"/></div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="idDexGridImg6"/></div>
+                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg6"/></div>
                 <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="idDexGridTitle6"/></div>
-                    <div class="p"><squarespace:block-field id="idDexGridText6"/></div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle6"/></div>
+                    <div class="p"><squarespace:block-field id="aboutGridText6"/></div>
                 </div>
             </div>
         </div>
