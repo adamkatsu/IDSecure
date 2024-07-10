@@ -1,39 +1,41 @@
 <section class="about-hero">
     <div class="container hero-cont about-hero-cont">
         <div class="h1-wrapper">
-            <h1>ID-DEx</h1>
+            <h1><squarespace:block-field id="idDexh1"/>ID-DEx</h1>
         </div>
         <div class="p-wrapper">
+            <squarespace:block-field id="idDexSubTitle"/>
             <p>(ID Document Data Extraction)</p>    
         </div>
     </div>
 </section>
 <section class="page-desc">
     <div class="container page-desc-cont">
-        <div class="page-desc-title">ID-DEx is an all-in-one solution for automated data entry from scanned identity documents into hotel PMS. </div>
-        <div class="page-desc-text">ID-DEx is designed to integrate natively into any hotel PMS, making it easy to use. It is a must-have Front Office solution currently used by thousands of hotels, resorts, hostels, B&B, RV Parks and more.</div>
+        <div class="page-desc-title"><squarespace:block-field id="idDexDesc1"/>ID-DEx is an all-in-one solution for automated data entry from scanned identity documents into hotel PMS. </div>
+        <div class="page-desc-text"><squarespace:block-field id="idDexDesc2"/>ID-DEx is designed to integrate natively into any hotel PMS, making it easy to use. It is a must-have Front Office solution currently used by thousands of hotels, resorts, hostels, B&B, RV Parks and more.</div>
     </div>
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="block-blue-title">
+            <squarespace:block-field id="idDexBlueTitle"/>
             THE WORKFLOW OF ID-DEx IS AS SIMPLE AS 1, 2, 3!
         </div>
         <div class="id-dex-content">
             <div class="id-dex-item">
                 <div class="dex-flow-icon"><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h3">Insert Identity Document</div>
-                <div>Insert the guest's Passport, ID Card or Driver's License into the scanner.</div>
+                <div class="h3"><squarespace:block-field id="dexFlowTitle1"/>Insert Identity Document</div>
+                <div><squarespace:block-field id="dexFlowText1"/>Insert the guest's Passport, ID Card or Driver's License into the scanner.</div>
             </div>
             <div class="id-dex-item">
                 <div class="dex-flow-icon"><squarespace:block-field id="dexFlowIcon2"/></div>
-                <div class="h3">Start Scanning</div>
-                <div>Initiate the scan directly from the guest's profile. ID-DEx will automatically recognize the document type & extract it’s data.</div>
+                <div class="h3"><squarespace:block-field id="dexFlowTitle2"/>Start Scanning</div>
+                <div><squarespace:block-field id="dexFlowText2"/>Initiate the scan directly from the guest's profile. ID-DEx will automatically recognize the document type & extract it’s data.</div>
             </div>
             <div class="id-dex-item">
                 <div class="dex-flow-icon"><squarespace:block-field id="dexFlowIcon3"/></div>
-                <div class="h3">Receive Data to PMS</div>
-                <div>The scanned data is auto-filled into the guest's profile. Return the guest’s document & continue with the check-in.</div>
+                <div class="h3"><squarespace:block-field id="dexFlowTitle3"/>Receive Data to PMS</div>
+                <div><squarespace:block-field id="dexFlowText3"/>The scanned data is auto-filled into the guest's profile. Return the guest’s document & continue with the check-in.</div>
             </div>
         </div>
     </div>
@@ -45,45 +47,45 @@
         </div>
         <div class="value-grid-wrapper">
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="aboutGridImg1"/><squarespace:block-field id="gridImg1"/></div>
                 <div class="value-grid-content">
-                    <div class="h3">Check In</div>
-                    <div class="p">Reduce guest check-in time by using high speed ID scanners.</div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle1"/>Check In</div>
+                    <div class="p"><squarespace:block-field id="aboutGridText2"/>Reduce guest check-in time by using high speed ID scanners.</div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="aboutGridImg2"/><squarespace:block-field id="gridImg1"/></div>
                 <div class="value-grid-content">
-                    <div class="h3">Accuracy</div>
-                    <div class="p">Avoid typing errors and get more accurate guest data.</div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle2"/>Accuracy</div>
+                    <div class="p"><squarespace:block-field id="aboutGridText2"/>Avoid typing errors and get more accurate guest data.</div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="aboutGridImg3"/><squarespace:block-field id="gridImg1"/></div>
                 <div class="value-grid-content">
-                    <div class="h3">Digitizing</div>
-                    <div class="p">Eliminate photocopying and store digital images if needed.</div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle3"/>Digitizing</div>
+                    <div class="p"><squarespace:block-field id="aboutGridText3"/>Eliminate photocopying and store digital images if needed.</div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="aboutGridImg4"/><squarespace:block-field id="gridImg1"/></div>
                 <div class="value-grid-content">
-                    <div class="h3">Legal</div>
-                    <div class="p">Reduce guest check-in time by using high speed ID scanners.</div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle4"/>Legal</div>
+                    <div class="p"><squarespace:block-field id="aboutGridText4"/>Reduce guest check-in time by using high speed ID scanners.</div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="aboutGridImg5"/><squarespace:block-field id="gridImg1"/></div>
                 <div class="value-grid-content">
-                    <div class="h3">Hospitality</div>
-                    <div class="p">Avoid typing errors and get more accurate guest data.</div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle5"/>Hospitality</div>
+                    <div class="p"<squarespace:block-field id="aboutGridText5"/>>Avoid typing errors and get more accurate guest data.</div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="aboutGridImg6"/><squarespace:block-field id="gridImg1"/></div>
                 <div class="value-grid-content">
-                    <div class="h3">Experience</div>
-                    <div class="p">Eliminate photocopying and store digital images if needed.</div>
+                    <div class="h3"><squarespace:block-field id="aboutGridTitle6"/>Experience</div>
+                    <div class="p"><squarespace:block-field id="aboutGridText6"/>Eliminate photocopying and store digital images if needed.</div>
                 </div>
             </div>
         </div>
@@ -95,49 +97,53 @@
         <div class="advantages-list">
             <div class="advantages-item advantages-item-show">
                 <div class="advantages-item-head">
-                    <div class="advantages-item-title">Fast check-in</div>
+                    <div class="advantages-item-title"><squarespace:block-field id="advantagesTitle1"/>Fast check-in</div>
                     <div class="advantages-icon-wrapper">
                         <div class="advantages-icon advantages-icon-one"></div>
                         <div class="advantages-icon advantages-icon-two"></div>
                     </div>
                 </div>
                 <div class="advantages-item-text">
+                    <squarespace:block-field id="advantagesText2"/>
                     <p>Fast check-in is crucial for efficient hotel operations. Automated data entry with ID-DEx is 10x faster compared with manual entry.</p>
                 </div>
             </div>
             <div class="advantages-item">
                 <div class="advantages-item-head">
-                    <div class="advantages-item-title">Data Accuracy</div>
+                    <div class="advantages-item-title"><squarespace:block-field id="advantagesTitle2"/>Data Accuracy</div>
                     <div class="advantages-icon-wrapper">
                         <div class="advantages-icon advantages-icon-one"></div>
                         <div class="advantages-icon advantages-icon-two"></div>
                     </div>
                 </div>
                 <div class="advantages-item-text">
+                    <squarespace:block-field id="advantagesText2"/>
                     <p>Fast check-in is crucial for efficient hotel operations. Automated data entry with ID-DEx is 10x faster compared with manual entry.</p>
                 </div>
             </div>
             <div class="advantages-item">
                 <div class="advantages-item-head">
-                    <div class="advantages-item-title">Data Protection</div>
+                    <div class="advantages-item-title"><squarespace:block-field id="advantagesTitle3"/>Data Protection</div>
                     <div class="advantages-icon-wrapper">
                         <div class="advantages-icon advantages-icon-one"></div>
                         <div class="advantages-icon advantages-icon-two"></div>
                     </div>
                 </div>
                 <div class="advantages-item-text">
+                    <squarespace:block-field id="advantagesText3"/>
                     <p>Fast check-in is crucial for efficient hotel operations. Automated data entry with ID-DEx is 10x faster compared with manual entry.</p>
                 </div>
             </div>
             <div class="advantages-item">
                 <div class="advantages-item-head">
-                    <div class="advantages-item-title">Authenticate</div>
+                    <div class="advantages-item-title"><squarespace:block-field id="advantagesTitle4"/>Authenticate</div>
                     <div class="advantages-icon-wrapper">
                         <div class="advantages-icon advantages-icon-one"></div>
                         <div class="advantages-icon advantages-icon-two"></div>
                     </div>
                 </div>
                 <div class="advantages-item-text">
+                    <squarespace:block-field id="advantagesText4"/>
                     <p>Fast check-in is crucial for efficient hotel operations. Automated data entry with ID-DEx is 10x faster compared with manual entry.</p>
                 </div>
             </div>
