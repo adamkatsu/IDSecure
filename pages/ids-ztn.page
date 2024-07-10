@@ -89,7 +89,7 @@
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="block-blue-title">
-            <squarespace:block-field id="idsZtnBlueTitle"/>a
+            <squarespace:block-field id="idsZtnBlueTitle"/>
         </div>
         <div class="block-content block-grid-4">
             <div class="block-content-item block-grid-4-item">
