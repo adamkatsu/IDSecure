@@ -113,7 +113,7 @@
             </div>
             <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon5"/><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h4"<squarespace:block-field id="idsZtnBlockText5"/>>OCR</div>
+                <div class="h4"><squarespace:block-field id="idsZtnBlockText5"/>OCR</div>
             </div>
             <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="idsZtnBlockIcon6"/><squarespace:block-field id="dexFlowIcon1"/></div>
