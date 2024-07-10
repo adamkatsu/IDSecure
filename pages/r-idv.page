@@ -74,6 +74,7 @@
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="block-blue-title">
+            <squarespace:block-field id="rIdvBlueTitle"/>
             Multimodal Configurations:
         </div>
         <div class="block-content block-grid-6">
