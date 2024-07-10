@@ -50,7 +50,7 @@
                 <div class="value-grid-icon"><squarespace:block-field id="aboutGridImg1"/><squarespace:block-field id="gridImg1"/></div>
                 <div class="value-grid-content">
                     <div class="h3"><squarespace:block-field id="aboutGridTitle1"/>Check In</div>
-                    <div class="p"><squarespace:block-field id="aboutGridText2"/>Reduce guest check-in time by using high speed ID scanners.</div>
+                    <div class="p"><squarespace:block-field id="aboutGridText1"/>Reduce guest check-in time by using high speed ID scanners.</div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
@@ -78,7 +78,7 @@
                 <div class="value-grid-icon"><squarespace:block-field id="aboutGridImg5"/><squarespace:block-field id="gridImg1"/></div>
                 <div class="value-grid-content">
                     <div class="h3"><squarespace:block-field id="aboutGridTitle5"/>Hospitality</div>
-                    <div class="p"<squarespace:block-field id="aboutGridText5"/>>Avoid typing errors and get more accurate guest data.</div>
+                    <div class="p"><squarespace:block-field id="aboutGridText5"/>Avoid typing errors and get more accurate guest data.</div>
                 </div>
             </div>
             <div class="value-grid-item value-grid-3">
@@ -104,7 +104,7 @@
                     </div>
                 </div>
                 <div class="advantages-item-text">
-                    <squarespace:block-field id="advantagesText2"/>
+                    <squarespace:block-field id="advantagesText1"/>
                     <p>Fast check-in is crucial for efficient hotel operations. Automated data entry with ID-DEx is 10x faster compared with manual entry.</p>
                 </div>
             </div>
