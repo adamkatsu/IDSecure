@@ -38,15 +38,15 @@
             <div class="hardware-grid-img">
                 a<squarespace:block-field id="jumpKitssGridImg4"/>
             </div>
-            <div class="h4">BIOMETRIC ENROLMENT JUMPKIT<squarespace:block-field id="jumpKitssGridTitle3"/></div>
-            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.<squarespace:block-field id="jumpKitssGridText3"/></div>
+            <div class="h4">BIOMETRIC ENROLMENT JUMPKIT<squarespace:block-field id="jumpKitssGridTitle4"/></div>
+            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.<squarespace:block-field id="jumpKitssGridText4"/></div>
         </div>
         <div class="hardware-grid-item w-50">
             <div class="hardware-grid-img">
                 a<squarespace:block-field id="jumpKitssGridImg5"/>
             </div>
-            <div class="h4">BIOMETRIC Printer JUMPKIT<squarespace:block-field id="jumpKitssGridTitle3"/></div>
-            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.<squarespace:block-field id="jumpKitssGridText3"/></div>
+            <div class="h4">BIOMETRIC Printer JUMPKIT<squarespace:block-field id="jumpKitssGridTitle5"/></div>
+            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.<squarespace:block-field id="jumpKitssGridText5"/></div>
         </div>
     </div>
 </section>
