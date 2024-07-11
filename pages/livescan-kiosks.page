@@ -97,7 +97,7 @@
         </div>
         <div class="about-text-wrapper">
             <div class="p fs-20 fw-500"><squarespace:block-field id="kiosksSupportText1"/></div>
-            <div class="p"><squarespace:block-field id="kiosksSupportText2"/>a
+            <div class="p"><squarespace:block-field id="kiosksSupportText2"/>
             </div>
         </div>
     </div>
