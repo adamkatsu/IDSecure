@@ -109,28 +109,28 @@
         </div>
         <div class="block-content block-grid-6">
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="kiosksBlockIcon1"/>a</div>
-                <div class="h4">a<squarespace:block-field id="kiosksBlockText1"/>a</div>
+                <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon1"/>a</div>
+                <div class="h4">a<squarespace:block-field id="kiosksBlock2Text1"/>a</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlockIcon2"/></div>
-                <div class="h4">a<squarespace:block-field id="kiosksBlockText2"/></div>
+                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlock2Icon2"/></div>
+                <div class="h4">a<squarespace:block-field id="kiosksBlock2Text2"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlockIcon3"/></div>
-                <div class="h4">a<squarespace:block-field id="kiosksBlockText3"/></div>
+                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlock2Icon3"/></div>
+                <div class="h4">a<squarespace:block-field id="kiosksBlock2Text3"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlockIcon4"/></div>
-                <div class="h4">a<squarespace:block-field id="kiosksBlockText4"/></div>
+                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlock2Icon4"/></div>
+                <div class="h4">a<squarespace:block-field id="kiosksBlock2Text4"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlockIcon5"/></div>
-                <div class="h4">a<squarespace:block-field id="kiosksBlockText5"/></div>
+                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlock2Icon5"/></div>
+                <div class="h4">a<squarespace:block-field id="kiosksBlock2Text5"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlockIcon6"/></div>
-                <div class="h4">a<squarespace:block-field id="kiosksBlockText6"/></div>
+                <div class="value-grid-icon">a<squarespace:block-field id="kiosksBlock2Icon6"/></div>
+                <div class="h4">a<squarespace:block-field id="kiosksBlock2Text6"/></div>
             </div>
         </div>
     </div>
