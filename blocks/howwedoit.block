@@ -19,8 +19,8 @@
                             </svg>
                             
                         </div>
-                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon1"/>a</div>
-                        <div class="h4 txt-center">Concept Design</div>
+                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon1"/></div>
+                        <div class="h4 txt-center"><squarespace:block-field id="hwdText1"/></div>
                     </div>
                     <div class="hwd-timeline-item-wrapper"></div>
                 </div>
@@ -40,8 +40,8 @@
                             </svg>
                             
                         </div>
-                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon2"/>a</div>
-                        <div class="h4 txt-center">Concept Design</div>
+                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon2"/></div>
+                        <div class="h4 txt-center"><squarespace:block-field id="hwdText2"/></div>
                     </div>
                     <div class="hwd-timeline-item-wrapper"></div>
                 </div>
@@ -61,8 +61,8 @@
                             </svg>
                             
                         </div>
-                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon3"/>a</div>
-                        <div class="h4 txt-center">Concept Design</div>
+                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon3"/></div>
+                        <div class="h4 txt-center"><squarespace:block-field id="hwdText3"/></div>
                     </div>
                     <div class="hwd-timeline-item-wrapper"></div>
                 </div>
@@ -82,8 +82,8 @@
                             </svg>
                             
                         </div>
-                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon4"/>a</div>
-                        <div class="h4 txt-center">Concept Design</div>
+                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon4"/></div>
+                        <div class="h4 txt-center"><squarespace:block-field id="hwdText4"/></div>
                     </div>
                     <div class="hwd-timeline-item-wrapper"></div>
                 </div>
@@ -103,8 +103,8 @@
                             </svg>
                             
                         </div>
-                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon5"/>a</div>
-                        <div class="h4 txt-center">Concept Design</div>
+                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon5"/></div>
+                        <div class="h4 txt-center"><squarespace:block-field id="hwdText5"/></div>
                     </div>
                     <div class="hwd-timeline-item-wrapper"></div>
                 </div>
@@ -124,8 +124,8 @@
                             </svg>
                             
                         </div>
-                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon6"/>a</div>
-                        <div class="h4 txt-center">Concept Design</div>
+                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon6"/></div>
+                        <div class="h4 txt-center"><squarespace:block-field id="hwdText6"/></div>
                     </div>
                     <div class="hwd-timeline-item-wrapper"></div>
                 </div>
@@ -145,8 +145,8 @@
                             </svg>
                             
                         </div>
-                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon7"/>a</div>
-                        <div class="h4 txt-center">Concept Design</div>
+                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon7"/></div>
+                        <div class="h4 txt-center"><squarespace:block-field id="hwdText7"/></div>
                     </div>
                     <div class="hwd-timeline-item-wrapper"></div>
                 </div>
@@ -165,8 +165,8 @@
                                 </defs>
                             </svg>
                         </div>
-                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon8"/>a</div>
-                        <div class="h4 txt-center">Concept Design</div>
+                        <div class="hwd-timeline-img"><squarespace:block-field id="hwdIcon8"/></div>
+                        <div class="h4 txt-center"><squarespace:block-field id="hwdText8"/></div>
                     </div>
                     <div class="hwd-timeline-item-wrapper"></div>
                 </div>
