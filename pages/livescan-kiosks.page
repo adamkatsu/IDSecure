@@ -17,24 +17,24 @@
             <div class="hardware-grid-img">
                 <squarespace:block-field id="kiosksGridImg1"/>a
             </div>
-            <div class="h4">CRIMINAL LIVESCAN KIOSK</div>
-            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+            <div class="h4"><squarespace:block-field id="kiosksGridTitle1"/>CRIMINAL LIVESCAN KIOSK</div>
+            <div class="p"><squarespace:block-field id="kiosksGridText1"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
             <div class="hardware-grid-item-bg"></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img">
                 <squarespace:block-field id="kiosksGridImg2"/>a
             </div>
-            <div class="h4">CRIMINAL LIVESCAN KIOSK</div>
-            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+            <div class="h4"><squarespace:block-field id="kiosksGridTitle2"/>CRIMINAL LIVESCAN KIOSK</div>
+            <div class="p"><squarespace:block-field id="kiosksGridText2"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
             <div class="hardware-grid-item-bg"></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img">
                 <squarespace:block-field id="kiosksGridImg3"/>a
             </div>
-            <div class="h4">CRIMINAL LIVESCAN KIOSK</div>
-            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+            <div class="h4"><squarespace:block-field id="kiosksGridTitle2"/>CRIMINAL LIVESCAN KIOSK</div>
+            <div class="p"><squarespace:block-field id="kiosksGridText2"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
             <div class="hardware-grid-item-bg"></div>
         </div>
     </div>
