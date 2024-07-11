@@ -193,12 +193,31 @@
         border-radius: 32px;
         background: radial-gradient(117.36% 77.71% at 23.77% 31.08%, rgba(34, 40, 73, 0.60) 0%, rgba(20, 24, 46, 0.60) 100%);
         backdrop-filter: blur(25px);
+        position: relative;
 
         &.w-30 {
-            width: calc(33% - 8px);
+            width: calc(~"33% - 8px");
         }
         &.w-50 {
-            width: calc(50% - 8px);
+            width: calc(~"50% - 8px");
         }
+        &-bg {
+            width: 96px;
+            height: 96px;
+            background-color: #D9D9D9;
+            filter: blur(100px);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        .h4 {
+            max-width: 187px;
+        }
+    }
+    &-img {
+        height: 343px;
+        width: 100%;
+        object-fit: contain;
     }
   }
