@@ -96,7 +96,8 @@
             <div class="h2 uppercase"><squarespace:block-field id="kiosksSupportTitle"/>a</div>
         </div>
         <div class="about-text-wrapper">
-            <div class="p"><squarespace:block-field id="kiosksSupportText"/>a
+            <div class="page-desc-title"><squarespace:block-field id="kiosksSupportText1"/>Meeting tomorrow’s identity challenges for Law Enforcement and Public Safety agencies</div>
+            <div class="p"><squarespace:block-field id="kiosksSupportText2"/>a
             </div>
         </div>
     </div>
