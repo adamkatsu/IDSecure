@@ -1,0 +1,38 @@
+<section class="about-hero">
+    <div class="container hero-cont about-hero-cont">
+        <div class="h1-wrapper">
+            <h1><squarespace:block-field id="liveKioskh1"/>Livescan Kiosks</h1>
+        </div>
+    </div>
+</section>
+<section class="page-desc">
+    <div class="container page-desc-cont">
+        <div class="page-desc-title"><squarespace:block-field id="idsZtnDesc1"/>Meeting tomorrow’s identity challenges for Law Enforcement and Public Safety agencies</div>
+        <div class="page-desc-text"><squarespace:block-field id="idsZtnDesc2"/>Our multi-modal biometric livescan kiosks are ergonomical, configurable and secure in design. Using FBI Certified scanners; our full range of livescan kiosks accommodate federal, state, local and civil agencies for criminal arrest bookings, offender registrations, applicant background checks and other use cases that require high quality biometric and biographic data capture.</div>
+    </div>
+</section>
+<section class="hardware-grid">
+    <div class="container hardware-grid-cont">
+        <div class="hardware-grid-item w-30">
+            <div class="hardware-grid-img">
+                <squarespace:block-field id="idsZtnGridImg1"/>a
+            </div>
+            <div class="h4">CRIMINAL LIVESCAN KIOSK</div>
+            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+        </div>
+        <div class="hardware-grid-item w-30">
+            <div class="hardware-grid-img">
+                <squarespace:block-field id="idsZtnGridImg2"/>a
+            </div>
+            <div class="h4">CRIMINAL LIVESCAN KIOSK</div>
+            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+        </div>
+        <div class="hardware-grid-item w-30">
+            <div class="hardware-grid-img">
+                <squarespace:block-field id="idsZtnGridImg3"/>a
+            </div>
+            <div class="h4">CRIMINAL LIVESCAN KIOSK</div>
+            <div class="p">Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+        </div>
+    </div>
+</section>

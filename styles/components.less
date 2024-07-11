@@ -179,3 +179,26 @@
         }
     }
   }
+
+  // Hardware Grid
+
+  .hardware-grid {
+    &-cont {
+        .flex-box(row, space-between, stretch, 8px);
+        flex-wrap: wrap;
+    }
+    &-item {
+        .flex-box(column, flex-start, flex-start, 24px);
+        padding: 30px;
+        border-radius: 32px;
+        background: radial-gradient(117.36% 77.71% at 23.77% 31.08%, rgba(34, 40, 73, 0.60) 0%, rgba(20, 24, 46, 0.60) 100%);
+        backdrop-filter: blur(25px);
+
+        &.w-30 {
+            width: calc(33% - 8px);
+        }
+        &.w-50 {
+            width: calc(50% - 8px);
+        }
+    }
+  }
