@@ -100,49 +100,49 @@
         </div>
         <div class="block-content block-grid-6">
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText1"/>Realtime 
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon1"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text1"/>Realtime 
                     Cloud Portal</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon2"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText2"/>OTA
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon2"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text2"/>OTA
                     Remote Control</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon3"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText3"/>Network
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon3"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text3"/>Network
                     Aggregation</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon4"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText4"/>Network
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon4"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text4"/>Network
                     Resilience</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/>Local 
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon5"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text5"/>Local 
                     Breakout</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon6"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText6"/>Private APN</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon6"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text6"/>Private APN</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon7"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText7"/>Advanced Layered Security</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon7"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text7"/>Advanced Layered Security</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon8"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText8"/>Geo-Fencing</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon8"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text8"/>Geo-Fencing</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon9"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText9"/>LBS (Location based Service)</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon9"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text9"/>LBS (Location based Service)</div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon10"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText10"/>Custom End-Point Delivery</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon10"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text10"/>Custom End-Point Delivery</div>
             </div>
         </div>
     </div>
