@@ -46,7 +46,7 @@
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="block-blue-title">
-            a<squarespace:block-field id="handHeldBlueTitle"/>
+            <squarespace:block-field id="handHeldBlueTitle"/>
         </div>
         <div class="block-content block-grid-6">
             <div class="block-content-item block-grid-6-item">
