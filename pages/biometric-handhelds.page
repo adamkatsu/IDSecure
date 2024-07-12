@@ -67,15 +67,15 @@
             </div>
             <div class="block-content-item block-grid-6-item">
                 <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon5"/></div>
-                <div class="h4">a Scanners<squarespace:block-field id="handHeldBlockText5"/></div>
+                <div class="h4">a<squarespace:block-field id="handHeldBlockText5"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
                 <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon6"/></div>
-                <div class="h4">a Card Printers<squarespace:block-field id="handHeldBlockText6"/></div>
+                <div class="h4">a<squarespace:block-field id="handHeldBlockText6"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
                 <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon7"/></div>
-                <div class="h4">a Printers<squarespace:block-field id="handHeldBlockText7"/></div>
+                <div class="h4">a<squarespace:block-field id="handHeldBlockText7"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
                 <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon8"/></div>
