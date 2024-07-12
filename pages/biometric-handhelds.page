@@ -15,28 +15,28 @@
     <div class="container hardware-grid-cont">
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
-                a<squarespace:block-field id="handHeldGridImg1"/>
+                <squarespace:block-field id="handHeldGridImg1"/>
             </div>
             <div class="h4"><squarespace:block-field id="handHeldGridTitle1"/></div>
             <div class="p"><squarespace:block-field id="handHeldGridText1"/></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
-                a<squarespace:block-field id="handHeldGridImg2"/>
+                <squarespace:block-field id="handHeldGridImg2"/>
             </div>
             <div class="h4"><squarespace:block-field id="handHeldGridTitle2"/></div>
             <div class="p"><squarespace:block-field id="handHeldGridText2"/></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
-                a<squarespace:block-field id="handHeldGridImg3"/>
+                <squarespace:block-field id="handHeldGridImg3"/>
             </div>
             <div class="h4"><squarespace:block-field id="handHeldGridTitle3"/></div>
             <div class="p"><squarespace:block-field id="handHeldGridText3"/></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
-                a<squarespace:block-field id="handHeldGridImg4"/>
+                <squarespace:block-field id="handHeldGridImg4"/>
             </div>
             <div class="h4"><squarespace:block-field id="handHeldGridTitle4"/></div>
             <div class="p"><squarespace:block-field id="handHeldGridText4"/></div>
