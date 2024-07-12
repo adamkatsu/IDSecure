@@ -1,0 +1,105 @@
+<section class="about-hero">
+    <div class="container hero-cont about-hero-cont">
+        <div class="h1-wrapper">
+            <h1><squarespace:block-field id="jumpKitsh1"/>Biometric Handhelds</h1>
+        </div>
+    </div>
+</section>
+<section class="page-desc">
+    <div class="container page-desc-cont">
+        <div class="page-desc-title"><squarespace:block-field id="handHeldDesc1"/>Mobile biometric handhelds for large-scale Citizen ID, Border Control and Security applications</div>
+        <div class="page-desc-text"><squarespace:block-field id="handHeldDesc2"/>Our FBI certified biometric handhelds are rugged, multi-modal and truly configurable. A single Android base device with three (3) variations of FAP profile clip-on modules (FAP30, FAP45, FAP50), provide an adaptable solution that streamlines application development and mobile device management</div>
+    </div>
+</section>
+<section class="hardware-grid">
+    <div class="container hardware-grid-cont">
+        <div class="hardware-grid-item w-30">
+            <div class="hardware-grid-img grid-img-center">
+                a<squarespace:block-field id="handHeldGridImg1"/>
+            </div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle1"/>SINGLE DROP-IN CHARGER</div>
+            <div class="p"><squarespace:block-field id="handHeldGridText1"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+        </div>
+        <div class="hardware-grid-item w-30">
+            <div class="hardware-grid-img grid-img-center">
+                a<squarespace:block-field id="handHeldGridImg2"/>
+            </div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle2"/>QUAD DROP-IN CHARGER</div>
+            <div class="p"><squarespace:block-field id="handHeldGridText2"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+        </div>
+        <div class="hardware-grid-item w-30">
+            <div class="hardware-grid-img grid-img-center">
+                a<squarespace:block-field id="handHeldGridImg3"/>
+            </div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle3"/>VEHICLE CHARGING CRADLE</div>
+            <div class="p"><squarespace:block-field id="handHeldGridText3"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+        </div>
+        <div class="hardware-grid-item w-30">
+            <div class="hardware-grid-img grid-img-center">
+                a<squarespace:block-field id="handHeldGridImg4"/>
+            </div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle4"/>DIRECT AUTO CHARGER</div>
+            <div class="p"><squarespace:block-field id="handHeldGridText4"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+        </div>
+    </div>
+</section>
+<section class="block-blue">
+    <div class="container block-blue-cont">
+        <div class="block-blue-title">
+            a<squarespace:block-field id="handHeldBlueTitle"/>
+        </div>
+        <div class="block-content block-grid-6">
+            <div class="block-content-item block-grid-6-item">
+                <div class="value-grid-icon">a<squarespace:block-field id="handHeldBlockIcon1"/></div>
+                <div class="h4">a<squarespace:block-field id="handHeldBlockText1"/></div>
+            </div>
+            <div class="block-content-item block-grid-6-item">
+                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon2"/></div>
+                <div class="h4">a<squarespace:block-field id="handHeldBlockText2"/></div>
+            </div>
+            <div class="block-content-item block-grid-6-item">
+                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon3"/></div>
+                <div class="h4">a<squarespace:block-field id="handHeldBlockText3"/></div>
+            </div>
+            <div class="block-content-item block-grid-6-item">
+                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon4"/></div>
+                <div class="h4">a<squarespace:block-field id="handHeldBlockText4"/></div>
+            </div>
+            <div class="block-content-item block-grid-6-item">
+                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon5"/></div>
+                <div class="h4">a Scanners<squarespace:block-field id="handHeldBlockText5"/></div>
+            </div>
+            <div class="block-content-item block-grid-6-item">
+                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon6"/></div>
+                <div class="h4">a Card Printers<squarespace:block-field id="handHeldBlockText6"/></div>
+            </div>
+            <div class="block-content-item block-grid-6-item">
+                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon7"/></div>
+                <div class="h4">a Printers<squarespace:block-field id="handHeldBlockText7"/></div>
+            </div>
+            <div class="block-content-item block-grid-6-item">
+                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon8"/></div>
+                <div class="h4">a<squarespace:block-field id="handHeldBlockText8"/></div>
+            </div>
+        </div>
+    </div>
+</section>
+{@|apply howwedoit.block}
+<section class="reference">
+    <div class="container reference-cont">
+        <div class="reference-title uppercase">
+            Solution Certifications
+        </div>
+        <div class="reference-content">
+            <div class="reference-companies">
+                <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/b18b99b1-7aeb-40fb-9bd2-11bbd2039e19/image+17.png?content-type=image%2Fpng"/>
+                <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/ac09576e-6444-4300-ad72-8e22b6cd48a0/image+18.png?content-type=image%2Fpng"/>
+                <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/eda30e15-c28d-40b7-9a5d-1028d0db9197/image+11.png?content-type=image%2Fpng"/>
+                <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/110fd0ce-d6c4-4edb-9d28-1ee09944f8ae/image+15.png?content-type=image%2Fpng"/>
+                <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/5c37f3ef-48ed-4521-b6e6-7dcf31be5bad/image+14.png?content-type=image%2Fpng"/>
+                <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/7a588649-0db9-439a-8975-fbb8a009288b/image+12.png?content-type=image%2Fpng"/>
+                <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/d14f92eb-64da-4084-b472-88bcf98c28e2/image+16.png?content-type=image%2Fpng"/>
+            </div>
+        </div>
+    </div>
+</section>
