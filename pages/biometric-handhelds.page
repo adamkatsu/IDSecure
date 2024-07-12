@@ -1,14 +1,14 @@
 <section class="about-hero">
     <div class="container hero-cont about-hero-cont">
         <div class="h1-wrapper">
-            <h1><squarespace:block-field id="handHeldh1"/>Biometric Handhelds</h1>
+            <h1><squarespace:block-field id="handHeldh1"/></h1>
         </div>
     </div>
 </section>
 <section class="page-desc">
     <div class="container page-desc-cont">
-        <div class="page-desc-title"><squarespace:block-field id="handHeldDesc1"/>Mobile biometric handhelds for large-scale Citizen ID, Border Control and Security applications</div>
-        <div class="page-desc-text"><squarespace:block-field id="handHeldDesc2"/>Our FBI certified biometric handhelds are rugged, multi-modal and truly configurable. A single Android base device with three (3) variations of FAP profile clip-on modules (FAP30, FAP45, FAP50), provide an adaptable solution that streamlines application development and mobile device management</div>
+        <div class="page-desc-title"><squarespace:block-field id="handHeldDesc1"/></div>
+        <div class="page-desc-text"><squarespace:block-field id="handHeldDesc2"/></div>
     </div>
 </section>
 <section class="hardware-grid">
@@ -17,29 +17,29 @@
             <div class="hardware-grid-img grid-img-center">
                 a<squarespace:block-field id="handHeldGridImg1"/>
             </div>
-            <div class="h4"><squarespace:block-field id="handHeldGridTitle1"/>SINGLE DROP-IN CHARGER</div>
-            <div class="p"><squarespace:block-field id="handHeldGridText1"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle1"/></div>
+            <div class="p"><squarespace:block-field id="handHeldGridText1"/></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
                 a<squarespace:block-field id="handHeldGridImg2"/>
             </div>
-            <div class="h4"><squarespace:block-field id="handHeldGridTitle2"/>QUAD DROP-IN CHARGER</div>
-            <div class="p"><squarespace:block-field id="handHeldGridText2"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle2"/></div>
+            <div class="p"><squarespace:block-field id="handHeldGridText2"/></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
                 a<squarespace:block-field id="handHeldGridImg3"/>
             </div>
-            <div class="h4"><squarespace:block-field id="handHeldGridTitle3"/>VEHICLE CHARGING CRADLE</div>
-            <div class="p"><squarespace:block-field id="handHeldGridText3"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle3"/></div>
+            <div class="p"><squarespace:block-field id="handHeldGridText3"/></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
                 a<squarespace:block-field id="handHeldGridImg4"/>
             </div>
-            <div class="h4"><squarespace:block-field id="handHeldGridTitle4"/>DIRECT AUTO CHARGER</div>
-            <div class="p"><squarespace:block-field id="handHeldGridText4"/>Lorem ipsum dolor sit amet consectetur. Massa platea quam tellus orci lectus. At ac.</div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle4"/></div>
+            <div class="p"><squarespace:block-field id="handHeldGridText4"/></div>
         </div>
     </div>
 </section>
@@ -50,41 +50,40 @@
         </div>
         <div class="block-content block-grid-6">
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">a<squarespace:block-field id="handHeldBlockIcon1"/></div>
-                <div class="h4">a<squarespace:block-field id="handHeldBlockText1"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText1"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon2"/></div>
-                <div class="h4">a<squarespace:block-field id="handHeldBlockText2"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon2"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText2"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon3"/></div>
-                <div class="h4">a<squarespace:block-field id="handHeldBlockText3"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon3"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText3"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon4"/></div>
-                <div class="h4">a<squarespace:block-field id="handHeldBlockText4"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon4"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText4"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon5"/></div>
-                <div class="h4">a<squarespace:block-field id="handHeldBlockText5"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText5"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon6"/></div>
-                <div class="h4">a<squarespace:block-field id="handHeldBlockText6"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon6"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText6"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon7"/></div>
-                <div class="h4">a<squarespace:block-field id="handHeldBlockText7"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon7"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText7"/></div>
             </div>
             <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon">z<squarespace:block-field id="handHeldBlockIcon8"/></div>
-                <div class="h4">a<squarespace:block-field id="handHeldBlockText8"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon8"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText8"/></div>
             </div>
         </div>
     </div>
 </section>
-{@|apply howwedoit.block}
 <section class="reference">
     <div class="container reference-cont">
         <div class="reference-title uppercase">
@@ -103,3 +102,5 @@
         </div>
     </div>
 </section>
+{@|apply howwedoit.block}
+
