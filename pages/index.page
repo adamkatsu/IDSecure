@@ -13,38 +13,38 @@
 </section>
 <section class="home-grid">
     <div class="container">
-        <div class="grid-4x4">
-            <div class="grid-item grid-item-bg-none flex-col-left flex-24">
+        <div class="home-grid-wrapper">
+            <div class="home-grid-item home-grid-item-first">
                 {@|apply eyebrow-48.block}
-                <div class="grid-item-h3"><squarespace:block-field id="homeGrid1H3"/></div>
-                <div class="grid-item-p fs-14"><squarespace:block-field id="homeGrid1Paragraph"/></div>
+                <div class="home-grid-item-h3"><squarespace:block-field id="homeGrid1H3"/></div>
+                <div class="home-grid-item-p fs-14"><squarespace:block-field id="homeGrid1Paragraph"/></div>
             </div>
-            <div class="grid-item">
-                <div class="grid-item-icon"><squarespace:block-field id="homeGridImage1"/></div>
-                <div class="grid-item-h4"><squarespace:block-field id="homeGridText1"/></div>
+            <div class="home-grid-item">
+                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage1"/></div>
+                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText1"/></div>
             </div>
-            <div class="grid-item">
-                <div class="grid-item-icon"><squarespace:block-field id="homeGridImage2"/></div>
-                <div class="grid-item-h4"><squarespace:block-field id="homeGridText2"/></div>
+            <div class="home-grid-item">
+                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage2"/></div>
+                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText2"/></div>
             </div>
-            <div class="grid-item">
-                <div class="grid-item-icon"><squarespace:block-field id="homeGridImage3"/></div>
-                <div class="grid-item-h4"><squarespace:block-field id="homeGridText3"/></div>
+            <div class="home-grid-item">
+                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage3"/></div>
+                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText3"/></div>
             </div>
-            <div class="grid-item">
-                <div class="grid-item-icon"><squarespace:block-field id="homeGridImage4"/></div>
-                <div class="grid-item-h4"><squarespace:block-field id="homeGridText4"/></div>
+            <div class="home-grid-item">
+                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage4"/></div>
+                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText4"/></div>
             </div>
-            <div class="grid-item">
-                <div class="grid-item-icon"><squarespace:block-field id="homeGridImage5"/></div>
-                <div class="grid-item-h4"><squarespace:block-field id="homeGridText5"/></div>
+            <div class="home-grid-item">
+                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage5"/></div>
+                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText5"/></div>
             </div>
-            <div class="grid-item">
-                <div class="grid-item-icon"><squarespace:block-field id="homeGridImage6"/></div>
-                <div class="grid-item-h4"><squarespace:block-field id="homeGridText6"/></div>
+            <div class="home-grid-item">
+                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage6"/></div>
+                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText6"/></div>
             </div>
         </div>
-    </div>        
+    </div>
 </section>
 {@|apply marquee-home.block}
 <section class="home-main">
@@ -57,16 +57,16 @@
                 {@|apply eyebrow-100.block}
                 <div class="uppercase"><squarespace:block-field id="homeMainSub1"/></div>
                 <div class="uppercase"><squarespace:block-field id="homeMainTitle1"/></div>
-                <div class="flex-row-between flex-8">
-                    <div class="grid-item grid-item-small">
+                <div class="home-main-grid-small">
+                    <div class="home-grid-item home-grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="hardwareIcon1"/></div>
                         <div><squarespace:block-field id="hardwareText1"/></div>
                     </div>
-                    <div class="grid-item grid-item-small">
+                    <div class="home-grid-item home-grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="hardwareIcon2"/></div>
                         <div><squarespace:block-field id="hardwareText2"/></div>
                     </div>
-                    <div class="grid-item grid-item-small">
+                    <div class="home-grid-item home-grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="hardwareIcon3"/></div>
                         <div><squarespace:block-field id="hardwareText3"/></div>
                     </div>
@@ -82,12 +82,12 @@
                 {@|apply eyebrow-100.block}
                 <div class="uppercase"><squarespace:block-field id="homeMainSub2"/></div>
                 <div class="uppercase"><squarespace:block-field id="homeMainTitle2"/></div>
-                <div class="flex-row-between flex-8">
-                    <div class="grid-item grid-item-small">
+                <div class="home-main-grid-small">
+                    <div class="home-grid-item home-grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="softwareIcon1"/></div>
                         <div><squarespace:block-field id="softwareText1"/></div>
                     </div>
-                    <div class="grid-item grid-item-small">
+                    <div class="home-grid-item home-grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="softwareIcon2"/></div>
                         <div><squarespace:block-field id="softwareText2"/></div>
                     </div>
@@ -109,12 +109,12 @@
                 {@|apply eyebrow-100.block}
                 <div class="uppercase"><squarespace:block-field id="homeMainSub3"/></div>
                 <div class="uppercase"><squarespace:block-field id="homeMainTitle3"/></div>
-                <div class="flex-row-between flex-8">
-                    <div class="grid-item grid-item-small">
+                <div class="home-main-grid-small">
+                    <div class="home-grid-item home-grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="networkIcon1"/></div>
                         <div><squarespace:block-field id="networkText1"/></div>
                     </div>
-                    <div class="grid-item grid-item-small">
+                    <div class="home-grid-item home-grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="networkIcon2"/></div>
                         <div><squarespace:block-field id="networkText2"/></div>
                     </div>

@@ -10,7 +10,7 @@
 </section>
 <section class="contact-main">
     <div class="container contact-main-cont">
-        <squarespace:block-field id="contactForm"/>a
+        <squarespace:block-field id="contactForm"/>
     </div>
 </section>
    
@@ -21,7 +21,6 @@
     const myTimeout = setTimeout(() => {
         document.querySelector('[name="fname"]').placeholder = "First Name";
         document.querySelector('[name="lname"]').placeholder = "Last Name";
-        console.log("DOM fully loaded and parsed");
     }, 800);
     
 </script>
