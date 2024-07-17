@@ -442,6 +442,14 @@
             width: 32%;
         }
     }
+    .block-blue {
+        .block-content {
+            justify-content: space-between;
+            &-item {
+                width: 25%;
+            }
+        }
+    }
 }
 @media (max-width: 768px) {
     .value {
@@ -455,6 +463,23 @@
 
             &-number {
                 font-size: 40px;    
+            }
+        }
+    }
+    .hardware-grid {
+        &-cont {
+            flex-direction: column;
+        }
+        &-item {
+            width: 100% !important;
+        }
+    }
+}
+@media (max-width: 480px) {
+    .block-blue {
+        .block-content {
+            &-item {
+                width: calc(50% - 8px);
             }
         }
     }
