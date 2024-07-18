@@ -18,17 +18,10 @@
   }
 
   // The event subscription that loads images when the page is ready
-  document.addEventListener('DOMContentLoaded', loadAllImages);
+  document.addEventListener('DOMContentLoaded', ()=>{
+    loadAllImages()
 
-  // The event subscription that reloads images on resize
-  window.addEventListener('resize', loadAllImages);
-
-}());
-
-
-// Nav Dropdown Interaction 
-
-const navDropToggle = document.querySelectorAll('.nav-menu-toggle');
+    const navDropToggle = document.querySelectorAll('.nav-menu-toggle');
 
 navDropToggle.forEach((x) => {
   const navDropMenu = x.querySelector('.nav-menu-dropdown');
@@ -60,24 +53,35 @@ navDropToggle.forEach((x) => {
   } 
 });
 
+    const menuBtn = document.querySelectorAll('.nav-menu-btn');
+    const navMain = document.querySelector('.nav-main');
+    
+      for(btn of menuBtn) {
+        btn.addEventListener('click', () => {
+          console.log('click ok');
+          navMain.classList.toggle('hide');
+      
+          if(navMain.classList.contains('hide')) {
+            document.querySelector('body').style.overflow = 'unset';
+          } else {
+            document.querySelector('body').style.overflow = 'hidden';
+          }
+        })
+      }
+  });
+
+  // The event subscription that reloads images on resize
+  window.addEventListener('resize', loadAllImages);
+
+}());
+
+
+// Nav Dropdown Interaction 
+
+
+
 // Mega Menu Interaction 
 
 
 
-document.addEventListener("DOMContentLoaded", (event) => {
-  const menuBtn = document.querySelectorAll('.nav-menu-btn');
-const navMain = document.querySelector('.nav-main');
 
-  for(btn of menuBtn) {
-    btn.addEventListener('click', () => {
-      console.log('click ok');
-      navMain.classList.toggle('hide');
-  
-      if(navMain.classList.contains('hide')) {
-        document.querySelector('body').style.overflow = 'unset';
-      } else {
-        document.querySelector('body').style.overflow = 'hidden';
-      }
-    })
-  }
-});
