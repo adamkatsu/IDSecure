@@ -67,6 +67,7 @@ const navMain = document.querySelector('.nav-main');
 
 for(btn of menuBtn) {
   btn.addEventListener('click', () => {
+    console.log('click ok');
     navMain.classList.toggle('hide');
 
     if(navMain.classList.contains('hide')) {
