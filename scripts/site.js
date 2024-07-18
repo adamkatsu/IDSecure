@@ -60,3 +60,12 @@ navDropToggle.forEach((x) => {
   } 
 });
 
+// Mega Menu Interaction 
+
+const menuBtn = document.querySelectorAll('.nav-menu-btn');
+
+for(btn of menuBtn) {
+  btn.addEventListener('click', () => {
+    document.querySelector('.nav-main').classList.toggle('hide');
+  })
+}

@@ -260,13 +260,16 @@
         &-wrapper {
             height: 200px;
             .flex-box(column-reverse, flex-start, center, 24px);
+
+            .h4 {
+                text-align: center;
+            }
         }
         &:nth-child(2n) {
             flex-direction: column-reverse;
 
             .hwd-timeline-item-wrapper {
                 flex-direction: column;
-                // transform: translateY(0);
                 transform: translateY(-40px);
             }
         }
@@ -450,7 +453,58 @@
             }
         }
     }
+    .hwd-timeline {
+        &-content {
+          flex-direction: column;
+        }
+        &-line {
+            top: 0;
+            width: 2px;
+            height: 100%;
+            left: 50%;
+            transform: translatex(-50%);
+        }
+        &-item {
+            justify-content: center;
+            flex-direction: row-reverse;
+
+            &:nth-child(2n) {
+                flex-direction: row;
+
+                .hwd-timeline-item-wrapper {
+                    flex-direction: row-reverse;
+                    transform: translateX(20px);
+                }
+            }
+            &-wrapper {
+                flex-direction: row;
+                width: 50%;
+                height: 128px;
+
+                .h4 {
+                    text-align: left;
+                }
+                &:first-child {
+                    transform: translateX(-20px);
+                }
+            }
+        }
+        &-indicator {
+            width: fit-content;
+            height: 90px;
+
+            &-head {
+                width: 10px;
+                height: 100%;
+            }
+        }
+        &-img {
+            padding: 16px;
+            flex-shrink: 0;
+        }
+    }
 }
+
 @media (max-width: 768px) {
     .value {
         &-grid-item {
@@ -472,6 +526,28 @@
         }
         &-item {
             width: 100% !important;
+        }
+    }
+}
+@media (max-width: 640px) {
+    .hwd-timeline {
+        &-line {
+            left: 20px;
+        }
+        &-item {
+            flex-direction: row;
+
+            &:nth-child(2n) {
+                .hwd-timeline-item-wrapper {
+                    flex-direction: row;
+                    transform: translatex(0);
+                }
+            }
+            &-wrapper {
+                &:first-child {
+                    transform: translateX(0);
+                }
+            }
         }
     }
 }

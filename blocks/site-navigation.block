@@ -1,81 +1,192 @@
 <!-- <script>console.log({@|json-pretty})</script> -->
 <nav class="site-navigation">
 
-  <div class="nav-logo">
-    <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/b3b80815-19fd-47b9-bc42-ad1223fa8595/nav-logo.png?content-type=image%2Fpng"/>
-  </div>
-
-  <div class="nav-menu-default">
-    <ul class="nav-menu-list">
-      <li class="nav-menu-item nav-menu-toggle">
-        <a href="/identity-biometrics">Identity & Biometrics</a>
-        <svg width="8" height="4" viewBox="0 0 8 4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 4L0 0H8L4 4Z" fill="white"/></svg>
-        <div class="nav-menu-dropdown">
-          <div class="nav-inner-wrapper">
+  <div class="nav-fixed">
+    <div class="nav-logo">
+      <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/b3b80815-19fd-47b9-bc42-ad1223fa8595/nav-logo.png?content-type=image%2Fpng"/>
+    </div>
+    <div class="nav-menu-default">
+      <ul class="nav-menu-list">
+        <li class="nav-menu-item nav-menu-toggle">
+          <a href="/identity-biometrics">Identity & Biometrics</a>
+          <svg width="8" height="4" viewBox="0 0 8 4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 4L0 0H8L4 4Z" fill="white"/></svg>
+          <div class="nav-menu-dropdown">
+            <div class="nav-inner-wrapper">
+              <div class="nav-inner-list">
+                <span class="nav-inner-title">Hardware Solution</span>
+                <ul class="nav-inner-list flex-8">
+                  {.repeated section items.2.items}
+                
+                  <li class="nav-menu-item">
+                    <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                  </li>
+  
+                  {.end}
+                </ul>
+              </div>
+              <div class="nav-inner-list">
+                <span class="nav-inner-title">Software Solution</span>
+                <ul class="nav-inner-list flex-8">
+                  {.repeated section items.3.items}
+                
+                  <li class="nav-menu-item">
+                    <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                  </li>
+  
+                  {.end}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li class="nav-menu-item nav-menu-toggle">
+          <a href="/private-network">Private Network</a>
+          <svg width="8" height="4" viewBox="0 0 8 4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 4L0 0H8L4 4Z" fill="white"/></svg>
+          <div class="nav-menu-dropdown">
+            <div class="nav-inner-wrapper">
             <div class="nav-inner-list">
-              <span class="nav-inner-title">Hardware Solution</span>
-              <ul class="nav-inner-list flex-8">
-                {.repeated section items.2.items}
-              
+                <span class="nav-inner-title">Zero Trust Networks</span>
+                <ul class="nav-inner-list flex-8">
+                {.repeated section items.1.items}
+                
                 <li class="nav-menu-item">
                   <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
                 </li>
-
+  
+                {.end}
+                </ul>
+              </div></div>
+          </div>
+        </li>
+        <li class="nav-menu-item">
+          <a href="/about-us">About Us</a>
+        </li>
+        <li class="nav-menu-item">
+          <a href="/support">Support</a>
+        </li>
+        <li class="nav-menu-item">
+          <a href="/press">Press</a>
+        </li>
+      </ul>
+    </div>
+    <div class="nav-btn-wrapper" id="nav-btn">
+      <button type="button" class="nav-menu-item button-primary">
+        <a href="/contact">Contact Us</a>
+      </button>
+      <button type="button" class="nav-menu-btn">
+        <i class="fa-solid fa-bars" style="width: 24px;"></i>
+      <button>
+    </div>
+  </div> 
+  
+  <div class="nav-main hide">
+    <div class="nav-main-head">
+      <div class="nav-logo">
+        <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/e1fa2873-e517-4b06-8374-f60fe5781f13/idsecure-logo-white.png?content-type=image%2Fpng"/>
+      </div>
+      <div class="nav-btn-wrapper" id="nav-btn">
+        <button type="button" class="nav-menu-item button-primary button-main-menu">
+          <a href="/contact">Contact Us</a>
+        </button>
+        <button type="button" class="nav-menu-btn menu-close-btn">
+          <svg xmlns="http://www.w3.org/2000/svg" width="26" height="10" viewBox="0 0 26 10" fill="none">
+            <path d="M1 1L25 9" stroke="white" stroke-width="2" stroke-linecap="round"/>
+            <path d="M1 9L25 1" stroke="white" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        <button>
+      </div>
+    </div>
+    <div class="nav-main-content">
+      <div class="nav-main-menu main-menu-left">
+        <div class="main-menu-wrapper main-menu-large">
+          <a href="/">Home</a>
+          <a href="/about-us">About Us</a>
+          <a href="/login">Support</a>
+          <a href="/press">Press</a>
+        </div> 
+        <div class="main-menu-wrapper main-menu-small">
+          <span class="uppercase">Identity & Biometrics</span>
+          <div class="main-menu-line">
+            <div class="menu-line line-one"></div>
+            <div class="menu-line line-two"></div>
+            <div class="menu-line line-three"></div>
+          </div>
+          <div class="main-menu-content">
+            <div class="submenu">
+              <span class="submenu-title uppercase">Hardware Solution</span>
+              <ul class="main-menu-list">
+                {.repeated section items.2.items}
+                
+                <li class="nav-menu-item">
+                  <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                </li>
+  
                 {.end}
               </ul>
             </div>
-            <div class="nav-inner-list">
-              <span class="nav-inner-title">Software Solution</span>
-              <ul class="nav-inner-list flex-8">
+            <div class="submenu">
+              <span class="submenu-title uppercase">Software Solution</span>
+              <ul class="main-menu-list">
                 {.repeated section items.3.items}
-              
+                
                 <li class="nav-menu-item">
                   <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
                 </li>
-
+  
                 {.end}
               </ul>
             </div>
           </div>
         </div>
-      </li>
-      <li class="nav-menu-item nav-menu-toggle">
-        <a href="/private-network">Private Network</a>
-        <svg width="8" height="4" viewBox="0 0 8 4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 4L0 0H8L4 4Z" fill="white"/></svg>
-        <div class="nav-menu-dropdown">
-          <div class="nav-inner-wrapper">
-          <div class="nav-inner-list">
-              <span class="nav-inner-title">Zero Trust Networks</span>
-              <ul class="nav-inner-list flex-8">
-              {.repeated section items.1.items}
-              
-              <li class="nav-menu-item">
-                <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
-              </li>
-
-              {.end}
+      </div>
+      <div class="nav-main-menu main-menu-right">
+        <div class="main-menu-wrapper main-menu-small ">
+          <span class="uppercase">Contact Us</span>
+          <div class="main-menu-line">
+            <div class="menu-line line-one"></div>
+            <div class="menu-line line-two"></div>
+            <div class="menu-line line-three"></div>
+          </div>
+          <div class="main-menu-content">
+            <div class="submenu submenu-contact">
+              <span class="submenu-title max-full">Reach out for further information!</span>
+              <ul class="main-menu-list">
+                <li class="nav-menu-item">
+                  <span>contact@idsecure.tech</span>
+                </li>
+                <li class="nav-menu-item">
+                  <span>(+1) 99273 007 880</span>
+                </li>
+                <li class="nav-menu-item">
+                  <span>2118 Thornridge Cir. Syracuse, Connecticut 35624</span>
+                </li>
               </ul>
-            </div></div>
+            </div>
+          </div>
         </div>
-      </li>
-      <li class="nav-menu-item">
-        <a href="/about-us">About Us</a>
-      </li>
-      <li class="nav-menu-item">
-        <a href="/support">Support</a>
-      </li>
-      <li class="nav-menu-item">
-        <a href="/press">Press</a>
-      </li>
-    </ul>
-  </div>
-  <div class="nav-btn-wrapper" id="nav-btn">
-    <button type="button" class="nav-menu-item button-primary">
-      <a href="/contact">Contact Us</a>
-    </button>
-    <button type="button" class="nav-menu-btn">
-      <i class="fa-solid fa-bars" style="width: 24px;"></i>
-    <button>
-  </div>
+        <div class="main-menu-wrapper main-menu-small">
+          <span class="uppercase">Private Network</span>
+          <div class="main-menu-line">
+            <div class="menu-line line-one"></div>
+            <div class="menu-line line-two"></div>
+            <div class="menu-line line-three"></div>
+          </div>
+          <div class="main-menu-content">
+            <div class="submenu">
+              <span class="submenu-title">Hardware Solution</span>
+              <ul class="main-menu-list">
+                {.repeated section items.1.items}
+                
+                <li class="nav-menu-item">
+                  <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                </li>
   
+                {.end}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </nav>

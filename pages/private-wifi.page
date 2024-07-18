@@ -13,8 +13,11 @@
     </div>
 </section>
 <section class="ztn-img">
-    <div class="container ztn-img-cont">
+    <div class="container ztn-img-cont desktop">
         <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/4d77ec27-f879-4fd0-ad8a-59490611813c/privatenetwork.png?content-type=image%2Fpng" alt="">
+    </div>
+    <div class="container ztn-img-cont mobile">
+        <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/bd44b2b2-6787-453c-b684-4003739746ab/ztn-img-mobile.png?content-type=image%2Fpng" alt="">
     </div>
 </section>
 <section class="value-grid">

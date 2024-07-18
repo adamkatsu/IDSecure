@@ -593,6 +593,9 @@ section, footer {
 
 .ztn {
   &-img {
+    .mobile {
+      display: none;
+    }
     img {
       max-width: 100%;
     }
@@ -751,6 +754,16 @@ section, footer {
   .press {
     &-grid-title {
       font-size: 20px;
+    }
+  }
+  .ztn {
+    &-img {
+      .mobile {
+        display: block;
+      }
+      .desktop {
+        display: none;
+      }
     }
   }
 }
