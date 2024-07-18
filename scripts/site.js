@@ -62,10 +62,12 @@ navDropToggle.forEach((x) => {
 
 // Mega Menu Interaction 
 
-const menuBtn = document.querySelectorAll('.nav-menu-btn');
-const navMain = document.querySelector('.nav-main');
+
 
 document.addEventListener("DOMContentLoaded", (event) => {
+  const menuBtn = document.querySelectorAll('.nav-menu-btn');
+const navMain = document.querySelector('.nav-main');
+
   for(btn of menuBtn) {
     btn.addEventListener('click', () => {
       console.log('click ok');
