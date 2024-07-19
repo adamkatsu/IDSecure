@@ -38,6 +38,7 @@
    
 
     <!-- other scripts, and footer code injection -->
+    <script src="scripts/script.js"></script>
     {squarespace-footers}
 
   </body>
