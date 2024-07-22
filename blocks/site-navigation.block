@@ -3,7 +3,7 @@
 
   <div class="nav-fixed">
     <div class="nav-logo">
-      <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/b3b80815-19fd-47b9-bc42-ad1223fa8595/nav-logo.png?content-type=image%2Fpng"/>
+      <a href="/"><img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/b3b80815-19fd-47b9-bc42-ad1223fa8595/nav-logo.png?content-type=image%2Fpng"/></a>
     </div>
     <div class="nav-menu-default">
       <ul class="nav-menu-list">
@@ -82,7 +82,8 @@
   <div class="nav-main hide">
     <div class="nav-main-head">
       <div class="nav-logo">
-        <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/e1fa2873-e517-4b06-8374-f60fe5781f13/idsecure-logo-white.png?content-type=image%2Fpng"/>
+        <a href="/"><img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/e1fa2873-e517-4b06-8374-f60fe5781f13/idsecure-logo-white.png?content-type=image%2Fpng"/></a>
+        
       </div>
       <div class="nav-btn-wrapper" id="nav-btn">
         <button type="button" class="nav-menu-btn menu-close-btn">
