@@ -36,18 +36,18 @@ navDropToggle.forEach((x) => {
 
 
 
-  const menuBtn = document.querySelectorAll('.nav-menu-btn');
+const menuBtn = document.querySelectorAll('.nav-menu-btn');
 const navMain = document.querySelector('.nav-main');
 
-  for(btn of menuBtn) {
-    btn.addEventListener('click', () => {
-      console.log('click ok');
-      navMain.classList.toggle('hide');
-  
-      if(navMain.classList.contains('hide')) {
-        document.querySelector('body').style.overflow = 'unset';
-      } else {
-        document.querySelector('body').style.overflow = 'hidden';
-      }
-    })
-  }
+for(btn of menuBtn) {
+  btn.addEventListener('click', () => {
+    console.log('click ok');
+    navMain.classList.toggle('hide');
+
+    if(navMain.classList.contains('hide')) {
+      document.querySelector('body').style.overflow = 'unset';
+    } else {
+      document.querySelector('body').style.overflow = 'hidden';
+    }
+  })
+}
