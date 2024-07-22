@@ -39,7 +39,7 @@
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg2"/></div>
-                <div class="h4"><squarespace:block-field id="gridTitle2"/></div>
+                <div class="h4 line-break"><squarespace:block-field id="gridTitle2"/></div>
                 <div class="p"><squarespace:block-field id="gridText2"/></div>
             </div>
             <div class="value-grid-item">
@@ -59,7 +59,7 @@
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg6"/></div>
-                <div class="h4"><squarespace:block-field id="gridTitle6"/></div>
+                <div class="h4 line-break"><squarespace:block-field id="gridTitle6"/></div>
                 <div class="p"><squarespace:block-field id="gridText6"/></div>
             </div>
         </div>
