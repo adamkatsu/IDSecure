@@ -17,7 +17,7 @@
             <div class="contact-banner-bottom">
                 <div><squarespace:block-field id="contactBannerText"/></div>
                 <button type="button" class="button-primary button-white">
-                    <a class="cl-blue uppercase" href="{items.0.items.0.collection.fullUrl}">Contact Us</a>
+                    <a class="cl-blue uppercase" href="/contact">Contact Us</a>
                 </button>
             </div>
         </div>

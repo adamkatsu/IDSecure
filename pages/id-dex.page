@@ -16,7 +16,7 @@
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title">
+        <div class="block-blue-title uppercase">
             <squarespace:block-field id="idDexBlueTitle"/>
         </div>
         <div class="id-dex-content">
