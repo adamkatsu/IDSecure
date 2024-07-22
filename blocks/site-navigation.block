@@ -70,7 +70,7 @@
       </ul>
     </div>
     <div class="nav-btn-wrapper" id="nav-btn">
-      <button type="button" class="nav-menu-item button-primary nav-menu-contact">
+      <button type="button" class="nav-menu-item button-primary nav-menu-contact-dekstop">
         <a href="/contact">Contact Us</a>
       </button>
       <button type="button" class="nav-menu-btn">
@@ -85,9 +85,6 @@
         <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/e1fa2873-e517-4b06-8374-f60fe5781f13/idsecure-logo-white.png?content-type=image%2Fpng"/>
       </div>
       <div class="nav-btn-wrapper" id="nav-btn">
-        <button type="button" class="nav-menu-item button-primary button-main-menu nav-menu-contact">
-          <a href="/contact">Contact Us</a>
-        </button>
         <button type="button" class="nav-menu-btn menu-close-btn">
           <svg xmlns="http://www.w3.org/2000/svg" width="26" height="10" viewBox="0 0 26 10" fill="none">
             <path d="M1 1L25 9" stroke="white" stroke-width="2" stroke-linecap="round"/>
@@ -103,6 +100,9 @@
           <a href="/about-us">About Us</a>
           <a href="/login">Support</a>
           <a href="/press">Press</a>
+          <button type="button" class="nav-menu-item button-primary nav-menu-contact-mobile">
+        <a href="/contact" class="btn-contact-mobile">Contact Us</a>
+      </button>
         </div> 
         <div class="main-menu-wrapper main-menu-small">
           <span class="uppercase">Identity & Biometrics</span>
@@ -173,7 +173,7 @@
           </div>
           <div class="main-menu-content">
             <div class="submenu">
-              <span class="submenu-title">Hardware Solution</span>
+              <span class="submenu-title">Zero Trust Networks</span>
               <ul class="main-menu-list">
                 {.repeated section items.1.items}
                 

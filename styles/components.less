@@ -147,8 +147,8 @@
         width: 100%;
     }
     &-companies {
-        .flex-box(row, space-between, center, 48px);
-        // flex-wrap: wrap;
+        .flex-box(row, center, center, 72px);
+        flex-wrap: wrap;
 
         img {
             height: 50px;
@@ -524,6 +524,11 @@
             width: 100% !important;
         }
     }
+    .reference {
+        &-companies {
+            gap: 48px;
+        }
+    }
 }
 @media (max-width: 640px) {
     .hwd-timeline {
@@ -553,6 +558,11 @@
             &-item {
                 width: calc(50% - 8px);
             }
+        }
+    }
+    .reference {
+        &-companies {
+            gap: 32px;
         }
     }
 }
