@@ -150,7 +150,7 @@
           </div>
           <div class="main-menu-content">
             <div class="submenu submenu-contact">
-            <squarespace:block-field id="contactBannerText1"/>
+            <div>a<squarespace:block-field id="contactBannerText1"/></div>
               <span class="submenu-title max-full">Reach out for further information!</span>
               <ul class="main-menu-list">
                 <li class="nav-menu-item">
