@@ -79,7 +79,7 @@
     </div>
   </div> 
   
-  <div class="nav-main">
+  <div class="nav-main hide">
     <div class="nav-main-head">
       <div class="nav-logo">
         <a href="/"><img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/e1fa2873-e517-4b06-8374-f60fe5781f13/idsecure-logo-white.png?content-type=image%2Fpng"/></a>
@@ -150,16 +150,17 @@
           </div>
           <div class="main-menu-content">
             <div class="submenu submenu-contact">
-              <div class="submenu-title max-full"><squarespace:block-field id="menuContactTitle"/>Reach out for further information!</div>
+            <squarespace:block-field id="contactBannerText"/>
+              <span class="submenu-title max-full">Reach out for further information!</span>
               <ul class="main-menu-list">
                 <li class="nav-menu-item">
-                  <div><squarespace:block-field id="menuContactEmail"/>contact@idsecure.tech</div>
+                  <span>contact@idsecure.tech</span>
                 </li>
                 <li class="nav-menu-item">
-                  <div><squarespace:block-field id="menuContactNumber"/>(+1) 99273 007 880</div>
+                  <span>(+1) 99273 007 880</span>
                 </li>
                 <li class="nav-menu-item">
-                  <span><squarespace:block-field id="menuContactAddress"/>2118 Thornridge Cir. Syracuse, Connecticut 35624</span>
+                  <span>2118 Thornridge Cir. Syracuse, Connecticut 35624</span>
                 </li>
               </ul>
             </div>
