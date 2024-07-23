@@ -22,7 +22,10 @@
             <div class="home-grid-item">
                 <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage1"/></div>
                 <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText1"/></div>
-                <div class="home-grid-hover"></div>
+                <div class="home-grid-hover">
+                    <div class="home-grid-hover-h4 h4"><squarespace:block-field id="homeGridText1"/></div>
+                    <div class="home-grid-hover-text">Innovative security solutions that empower governments and businesses to achieve.</div>
+                </div>
             </div>
             <div class="home-grid-item">
                 <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage2"/></div>
