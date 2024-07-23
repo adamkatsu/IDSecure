@@ -55,29 +55,29 @@
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title">
-            <squarespace:block-field id="ztnWifiBlueTitle"/>a
+        <div class="block-blue-title uppercase">
+            <squarespace:block-field id="ztnWifiBlueTitle"/>
         </div>
         <div class="block-content block-grid-5">
             <div class="block-content-item block-grid-5-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon1"/>a</div>
-                <div class="h4"><squarespace:block-field id="ztnWifiBlockText1"/>a</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="ztnWifiBlockText1"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon2"/>a</div>
-                <div class="h4"><squarespace:block-field id="ztnWifiBlockText2"/>a</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon2"/></div>
+                <div class="h4"><squarespace:block-field id="ztnWifiBlockText2"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon3"/>a</div>
-                <div class="h4"><squarespace:block-field id="ztnWifiBlockText3"/>a</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon3"/></div>
+                <div class="h4"><squarespace:block-field id="ztnWifiBlockText3"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon4"/>a</div>
-                <div class="h4"><squarespace:block-field id="ztnWifiBlockText4"/>a</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon4"/></div>
+                <div class="h4"><squarespace:block-field id="ztnWifiBlockText4"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon5"/>a</div>
-                <div class="h4"><squarespace:block-field id="ztnWifiBlockText5"/>a</div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="ztnWifiBlockText5"/></div>
             </div>
         </div>
     </div>
