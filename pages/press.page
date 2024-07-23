@@ -1,10 +1,10 @@
 <section class="about-hero">
     <div class="container hero-cont about-hero-cont">
         <div class="h1-wrapper">
-            <h1><squarespace:block-field id="pressPageH1"/>Who’s talking about</h1>
+            <h1><squarespace:block-field id="pressPageH1"/></h1>
         </div>
         <div class="p-wrapper">
-            <p><squarespace:block-field id="pressPageSubTitle"/>Recent coverage</p>
+            <p><squarespace:block-field id="pressPageSubTitle"/></p>
         </div>
     </div>
 </section>
