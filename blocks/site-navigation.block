@@ -150,17 +150,17 @@
           </div>
           <div class="main-menu-content">
             <div class="submenu submenu-contact">
-            <div>a<squarespace:block-field id="contactBannerText1"/></div>
-              <span class="submenu-title max-full">Reach out for further information!</span>
+            <div></div>
+              <div class="submenu-title max-full">Reach out for further information!</div>
               <ul class="main-menu-list">
                 <li class="nav-menu-item">
-                  <span>contact@idsecure.tech</span>
+                  <div>contact@idsecure.tech</div>
                 </li>
                 <li class="nav-menu-item">
-                  <span>(+1) 99273 007 880</span>
+                  <div>(+1) 99273 007 880</div>
                 </li>
                 <li class="nav-menu-item">
-                  <span>2118 Thornridge Cir. Syracuse, Connecticut 35624</span>
+                  <div>2118 Thornridge Cir. Syracuse, Connecticut 35624</div>
                 </li>
               </ul>
             </div>
