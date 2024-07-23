@@ -13,10 +13,10 @@
         <div class="about-text-wrapper">
             <div class="p"><squarespace:block-field id="aboutUsText"/>
             </div>
-            <squarespace:block-field id="menuContactTitle"/>
-            <squarespace:block-field id="menuContactEmail"/>
-            <squarespace:block-field id="menuContactNumber"/>
-            <squarespace:block-field id="menuContactAddress"/>
+            <squarespace:block-field id="menuContactTitle"/>a
+            <squarespace:block-field id="menuContactEmail"/>a
+            <squarespace:block-field id="menuContactNumber"/>a
+            <squarespace:block-field id="menuContactAddress"/>a
         </div>
     </div>
 </section>
