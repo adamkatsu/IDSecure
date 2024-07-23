@@ -704,8 +704,17 @@ section, footer {
 
     &-item {
       width: calc(~"50% - 4px");
+      position: relative;
+
       &-small {
         width: 150px;
+      }
+      .home-grid-hover {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        background-color: #0F36F6;
+        z-index: 5;
       }
     }
   }
