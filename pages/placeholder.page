@@ -1,6 +1,11 @@
-<div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover1"/>Innovative security solutions that empower governments and businesses to achieve.</div>
-<div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover2"/>Innovative security solutions that empower governments and businesses to achieve.</div>
-<div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover3"/>Innovative security solutions that empower governments and businesses to achieve.</div>
-<div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover4"/>Innovative security solutions that empower governments and businesses to achieve.</div>
-<div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover5"/>Innovative security solutions that empower governments and businesses to achieve.</div>
-<div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover6"/>Innovative security solutions that empower governments and businesses to achieve.</div>
+
+<section>
+    <div class="container hero-cont">
+        <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover1"/>Innovative security solutions that empower governments and businesses to achieve.</div>
+        <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover2"/>Innovative security solutions that empower governments and businesses to achieve.</div>
+        <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover3"/>Innovative security solutions that empower governments and businesses to achieve.</div>
+        <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover4"/>Innovative security solutions that empower governments and businesses to achieve.</div>
+        <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover5"/>Innovative security solutions that empower governments and businesses to achieve.</div>
+        <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover6"/>Innovative security solutions that empower governments and businesses to achieve.</div>
+    </div>
+</section>
