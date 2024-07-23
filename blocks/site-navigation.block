@@ -150,16 +150,16 @@
           </div>
           <div class="main-menu-content">
             <div class="submenu submenu-contact">
-              <div class="submenu-title max-full"><squarespace:block-field id="navContactTitle"/>Reach out for further information!</div>
+              <div class="submenu-title max-full"><squarespace:block-field id="navContactTitle"/></div>
               <ul class="main-menu-list">
                 <li class="nav-menu-item">
-                  <div><squarespace:block-field id="navContactTitle"/>contact@idsecure.tech</div>
+                  <div><squarespace:block-field id="navContactTitle"/></div>
                 </li>
                 <li class="nav-menu-item">
-                  <div><squarespace:block-field id="navContactNumber"/>(+1) 99273 007 880</div>
+                  <div><squarespace:block-field id="navContactNumber"/></div>
                 </li>
                 <li class="nav-menu-item">
-                  <div><squarespace:block-field id="navContactAddress"/>2118 Thornridge Cir. Syracuse, Connecticut 35624</div>
+                  <div><squarespace:block-field id="navContactAddress"/></div>
                 </li>
               </ul>
             </div>
