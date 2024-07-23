@@ -153,13 +153,13 @@
               <div class="submenu-title max-full"><squarespace:block-field id="navContactTitle"/></div>
               <ul class="main-menu-list">
                 <li class="nav-menu-item">
-                  <div><squarespace:block-field id="navContactTitle"/></div>
+                  <squarespace:block-field id="secContactEmail"/>
                 </li>
                 <li class="nav-menu-item">
-                  <div><squarespace:block-field id="navContactNumber"/></div>
+                  <squarespace:block-field id="navContactNumber"/>
                 </li>
                 <li class="nav-menu-item">
-                  <div><squarespace:block-field id="navContactAddress"/></div>
+                  <squarespace:block-field id="navContactAddress"/>
                 </li>
               </ul>
             </div>
