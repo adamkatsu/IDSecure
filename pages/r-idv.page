@@ -6,6 +6,7 @@
         <div class="p-wrapper">
             <squarespace:block-field id="rIdvSubTitle"/>
         </div>
+        <div class="cont-bg-left"></div>
     </div>
 </section>
 <section class="page-desc">
@@ -68,6 +69,7 @@
                 <div class="h4"><squarespace:block-field id="rIdvGridText6"/></div>
             </div>
         </div>
+        <div class="cont-bg-right"></div>
     </div>
 </section>
 <section class="block-blue">

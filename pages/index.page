@@ -9,6 +9,7 @@
             <p><squarespace:block-field id="homeHeroDesc"/></p>
         </div>
         <div class="home-hero-bg"></div>
+        <div class="cont-bg-left"></div>
     </div>
 </section>
 <section class="home-grid">

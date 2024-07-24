@@ -3,6 +3,7 @@
         <div class="h1-wrapper">
             <h1><squarespace:block-field id="jumpKitsh1"/></h1>
         </div>
+        <div class="cont-bg-left"></div>
     </div>
 </section>
 <section class="page-desc">
@@ -93,6 +94,7 @@
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText9"/></div>
             </div>
         </div>
+        <div class="cont-bg-right"></div>
     </div>
 </section>
 {@|apply howwedoit.block}

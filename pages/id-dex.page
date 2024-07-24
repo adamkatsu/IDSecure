@@ -6,6 +6,7 @@
         <div class="p-wrapper">
             <squarespace:block-field id="idDexSubTitle"/>
         </div>
+        <div class="cont-bg-left"></div>
     </div>
 </section>
 <section class="page-desc">
@@ -87,6 +88,7 @@
                 </div>
             </div>
         </div>
+        <div class="cont-bg-right"></div>
     </div>
 </section>
 <section class="advantages">
