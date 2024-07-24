@@ -51,3 +51,23 @@ for(btn of menuBtn) {
     }
   })
 }
+
+
+// Infinite Marquee Animation
+
+const marqueeWrapper = document.querySelectorAll('.marquee-wrapper');
+
+for(x of marqueeWrapper) {
+  let gap = window.getComputedStyle(x).getPropertyValue('gap');
+  let itemWidth = x.querySelector('.marquee-item').offsetWidth;
+  let number = parseInt(gap.replace('px', ''));
+  console.log(itemWidth, number);
+
+  x.animate([
+    { transform: `translateX(0px)` },
+    { transform: `translateX(-${number + itemWidth}px)` }
+  ], {
+    duration: 15000,
+    iterations: Infinity
+  });
+}

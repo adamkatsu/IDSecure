@@ -71,7 +71,11 @@
         </div>
     </div>
 </section>
-{@|apply marquee-home.block}
+<section class="marquee-home">
+    <div class="marquee-overlay marquee-overlay-left"></div>
+        {@|apply marquee-company.block}
+    <div class="marquee-overlay marquee-overlay-right"></div>
+</section>
 <section class="home-main">
     <div class="container home-main-cont">
         <div class="home-main-item">

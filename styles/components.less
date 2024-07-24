@@ -356,7 +356,7 @@
     &-wrapper {
       position: relative;
       z-index: 1;
-      animation: homemarquee 20s linear infinite;
+    //   animation: homemarquee 20s linear infinite;
     }
     &-home {
       position: relative;
@@ -378,6 +378,12 @@
         right: 0;
         background: linear-gradient(90deg, rgba(13, 13, 21, 0.00) 0%, #0D0D15 100%);
       }
+    }
+    &-desktop {
+        display: block;
+    }
+    &-mobile {
+        display: none;
     }
   }
   
@@ -569,6 +575,14 @@
             gap: 48px;
         }
     }
+    .marquee {
+        &-desktop {
+            display: none;
+        }
+        &-mobile {
+            display: block;
+        }
+    }
 }
 @media (max-width: 640px) {
     .hwd-timeline {
@@ -601,6 +615,13 @@
         .block-content {
             &-item {
                 width: calc(50% - 8px);
+            }
+        }
+    }
+    .marquee {
+        &-item {
+            img {
+                height: 40px;
             }
         }
     }
