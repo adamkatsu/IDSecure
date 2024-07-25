@@ -34,8 +34,6 @@ navDropToggle.forEach((x) => {
 
 // Mega Menu Interaction 
 
-
-
 const menuBtn = document.querySelectorAll('.nav-menu-btn');
 const navMain = document.querySelector('.nav-main');
 

@@ -1,3 +1,4 @@
+<script>console.log({@|json-pretty})</script>
 
 {.section categoryFilter}
   <p class="filtered-by">Filtered by Category: {@|safe}</p>
@@ -22,7 +23,7 @@
       </a>
     {.end}
     <!-- post title -->
-    <h1 class="title" data-content-field="title">
+    <h1 class="title" data-content-field="title"> test
       {.passthrough?}
         <a href="{sourceUrl}" target="_blank">{title}</a>
       {.or}
@@ -30,12 +31,6 @@
       {.end}
     </h1>
     <!-- excerpt or body -->
-    {.if excerpt}
-      {excerpt}
-      <a class="link" href="{fullUrl}">Read More</a>
-    {.or}
-      {body}
-    {.end}
   </article>
 
 {.or}
