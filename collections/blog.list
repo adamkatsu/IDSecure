@@ -42,7 +42,7 @@
                 </svg>
               </div>
               <div class="press-grid-title">{title}</div>
-              <div class="press-grid-date">{addedOn|date %A, %B %d}</div>
+              <div class="press-grid-date">{addedOn|date %b %d, %Y}</div>
             </a>
           </div>
         {.end}

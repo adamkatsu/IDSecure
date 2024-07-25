@@ -100,7 +100,7 @@
           <a href="/">Home</a>
           <a href="/about-us">About Us</a>
           <a href="/login">Support</a>
-          <a href="/press">Press</a>
+          <a href="/blog">Press</a>
           <button type="button" class="nav-menu-item button-primary nav-menu-contact-mobile">
             <a href="/contact" class="btn-contact-mobile">Contact Us</a>
           </button>
