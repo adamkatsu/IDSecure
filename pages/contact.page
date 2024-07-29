@@ -17,10 +17,11 @@
 <script>
     
     // Contact Form Placeholder Input
-
-    const myTimeout = setTimeout(() => {
-        document.querySelector('[name="fname"]').placeholder = "First Name";
-        document.querySelector('[name="lname"]').placeholder = "Last Name";
-    }, 800);
+    window.addEventListener("load", (event) => {
+        const myTimeout = setTimeout(() => {
+            document.querySelector('[name="fname"]').placeholder = "First Name";
+            document.querySelector('[name="lname"]').placeholder = "Last Name";
+        }, 100);
+    });
     
 </script>
