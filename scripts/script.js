@@ -69,3 +69,12 @@ for(x of marqueeWrapper) {
     iterations: Infinity
   });
 }
+
+// Remove overflow for blog pages
+
+document.addEventListener("DOMContentLoaded", (event) => {
+  if(window.location.href.includes('blog')) {
+    console.log('url true')
+    document.querySelector('.site-container').style.overflow = "visible";
+  }
+});
