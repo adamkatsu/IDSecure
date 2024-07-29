@@ -8,17 +8,41 @@
       </svg>
       <span>Back</span>
     </button>
-    
-      
   </div>
 </section>
+
+
+
+
+{.section item}
+
+<section class="blog-head">
+  <div class="container blog-head-cont">
+    <img src="{assetUrl}" alt="">
+  </div>
+</section>
+
+<section class="blog-main">
+  <div class="container blog-main-cont">
+    <div class="blog-main-title">
+      <span class="blog-main-tag">{tags.0}</span>
+      <h1 class="h1">{title}</h1>
+      <span>{addedOn|date %b %d, %Y}</span>
+    </div>
+    <div class="blog-main-content">{body}</div>
+  </div>
+</section>
+
+{.end}
+
+
 {.section item}
 
   <!--WRAPPER-->
   <article id="post-{id}" class="{@|item-classes}" data-item-id="{id}">
 
     <!--POST TILE-->
-    <h1 class="title" data-content-field="title">test
+    <h1 class="title" data-content-field="title">
       {.passthrough?}
         <a href="{sourceUrl}" target="_blank">{title}</a>
       {.or}
@@ -90,3 +114,12 @@
 
   </nav>
 {.end}
+
+<script>
+  document.addEventListener("DOMContentLoaded", (event) => {
+    if(window.location.href.includes('blog')) {
+      console.log('url true')
+      document.querySelector('.site-container').style.overflow = "visible";
+    }
+  });
+</script>
