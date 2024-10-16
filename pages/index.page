@@ -3,13 +3,30 @@
         <div class="h1-wrapper">
             <h1 class="h1-gradient"><squarespace:block-field id="homeH1Gradient"/></h1>
             <h1><squarespace:block-field id="homeH11"/></h1>
-            <h1><squarespace:block-field id="homeH12"/></h1>
-        </div>
-        <div class="p-wrapper">
-            <p><squarespace:block-field id="homeHeroDesc"/></p>
         </div>
         <div class="home-hero-bg"></div>
         <div class="cont-bg-left"></div>
+        <div class="home-hero-block-wrapper">
+            <div class="home-hero-block">
+                <div class="home-hero-block-image">
+                    <!-- <squarespace:block-field id="homeHeroImage1"/> -->
+                </div>
+                <div class="home-hero-block-text uppercase">
+                    IDENTITY & BIOMETRIC Solutions
+                    <!-- <squarespace:block-field id="homeHeroCard1"/> -->
+                </div>
+            </div>
+            <div class="home-hero-block">
+                <div class="home-hero-block-image">
+                    a
+                    <!-- <squarespace:block-field id="homeHeroImage2"/> -->
+                </div>
+                <div class="home-hero-block-text uppercase">
+                    Private network solutions
+                    <!-- <squarespace:block-field id="homeHeroCard2"/> -->
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <section class="home-grid">
