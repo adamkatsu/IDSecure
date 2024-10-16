@@ -19,7 +19,7 @@
         flex-wrap: wrap;
     }
     &-grid-item {
-        width: 24%;
+        width: calc(~"33% - 8px");
         .flex-box(column, flex-start, flex-start, 24px);
         padding: 30px;
         border-radius: 32px;
@@ -358,10 +358,10 @@
       z-index: 1;
     //   animation: homemarquee 20s linear infinite;
     }
-    &-home {
-      position: relative;
-      padding: 144px !important;
-    }
+    // &-home {
+    //   position: relative;
+    //   padding: 72 !important;
+    // }
   
     &-overlay {
       position: absolute;

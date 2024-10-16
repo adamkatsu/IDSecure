@@ -9,8 +9,8 @@
         <div class="home-hero-block-wrapper">
             <div class="home-hero-block">
                 <div class="home-hero-block-image">
-                    a
-                    <squarespace:block-field id="homeHeroImage1"/>
+                    <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/116d7cc9-479e-4813-8811-495456d1c7b7/img-home-hero1.png?content-type=image%2Fpng" alt="image">
+                    <!-- <squarespace:block-field id="homeHeroImage1"/> -->
                 </div>
                 <div class="home-hero-block-text uppercase">
                     IDENTITY & BIOMETRIC Solutions
@@ -19,8 +19,8 @@
             </div>
             <div class="home-hero-block">
                 <div class="home-hero-block-image">
-                    a
-                    <squarespace:block-field id="homeHeroImage2"/>
+                    <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/35b5444f-dd49-4cbe-829f-ff43304b2a81/img-home-hero2.png?content-type=image%2Fpng" alt="image">
+                    <!-- <squarespace:block-field id="homeHeroImage2"/> -->
                 </div>
                 <div class="home-hero-block-text uppercase">
                     Private network solutions
@@ -30,70 +30,47 @@
         </div>
     </div>
 </section>
-<section class="home-grid">
-    <div class="container">
-        <div class="home-grid-wrapper">
-            <div class="home-grid-item home-grid-item-first">
-                {@|apply eyebrow-48.block}
-                <div class="home-grid-item-h3"><squarespace:block-field id="homeGrid1H3"/></div>
-                <div class="home-grid-item-p fs-14"><squarespace:block-field id="homeGrid1Paragraph"/></div>
+<section class="value-grid">
+    <div class="container value-grid-cont">
+        <div class="h2-wrapper gap-16">
+            <div class="h2 uppercase">Industries We Serve</div>
+            <div class="fs-14">WE ARE DEDICATED TO DEVELOPING AND DEPLOYING VALUE-DRIVEN TECHNOLOGY SOLUTIONS FOR THE FOLLOWING MARKETS:</div>
+        </div>
+        <div class="value-grid-wrapper">
+            <div class="value-grid-item">
+                <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle1"/></div>
+                <div class="p"><squarespace:block-field id="gridText1"/></div>
             </div>
-            <div class="home-grid-item">
-                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage1"/></div>
-                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText1"/></div>
-                <div class="home-grid-hover">
-                    <div class="home-grid-hover-h4 h4"><squarespace:block-field id="homeGridText1"/></div>
-                    <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover1"/></div>
-                </div>
+            <div class="value-grid-item">
+                <div class="value-grid-icon"><squarespace:block-field id="gridImg2"/></div>
+                <div class="h4 line-break"><squarespace:block-field id="gridTitle2"/></div>
+                <div class="p"><squarespace:block-field id="gridText2"/></div>
             </div>
-            <div class="home-grid-item">
-                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage2"/></div>
-                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText2"/></div>
-                <div class="home-grid-hover">
-                    <div class="home-grid-hover-h4 h4"><squarespace:block-field id="homeGridText2"/></div>
-                    <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover2"/></div>
-                </div>
+            <div class="value-grid-item">
+                <div class="value-grid-icon"><squarespace:block-field id="gridImg3"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle3"/></div>
+                <div class="p"><squarespace:block-field id="gridText3"/></div>
             </div>
-            <div class="home-grid-item">
-                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage3"/></div>
-                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText3"/></div>
-                <div class="home-grid-hover">
-                    <div class="home-grid-hover-h4 h4"><squarespace:block-field id="homeGridText3"/></div>
-                    <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover3"/></div>
-                </div>
+            <div class="value-grid-item">
+                <div class="value-grid-icon"><squarespace:block-field id="gridImg4"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle4"/></div>
+                <div class="p"><squarespace:block-field id="gridText4"/></div>
             </div>
-            <div class="home-grid-item">
-                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage4"/></div>
-                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText4"/></div>
-                <div class="home-grid-hover">
-                    <div class="home-grid-hover-h4 h4"><squarespace:block-field id="homeGridText4"/></div>
-                    <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover4"/></div>
-                </div>
+            <div class="value-grid-item">
+                <div class="value-grid-icon"><squarespace:block-field id="gridImg5"/></div>
+                <div class="h4"><squarespace:block-field id="gridTitle5"/></div>
+                <div class="p"><squarespace:block-field id="gridText5"/></div>
             </div>
-            <div class="home-grid-item">
-                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage5"/></div>
-                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText5"/></div>
-                <div class="home-grid-hover">
-                    <div class="home-grid-hover-h4 h4"><squarespace:block-field id="homeGridText5"/></div>
-                    <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover5"/></div>
-                </div>
-            </div>
-            <div class="home-grid-item">
-                <div class="home-grid-item-icon"><squarespace:block-field id="homeGridImage6"/></div>
-                <div class="home-grid-item-h4 h4"><squarespace:block-field id="homeGridText6"/></div>
-                <div class="home-grid-hover">
-                    <div class="home-grid-hover-h4 h4"><squarespace:block-field id="homeGridText6"/></div>
-                    <div class="home-grid-hover-text"><squarespace:block-field id="homeGridHover6"/></div>
-                </div>
+            <div class="value-grid-item">
+                <div class="value-grid-icon"><squarespace:block-field id="gridImg6"/></div>
+                <div class="h4 line-break"><squarespace:block-field id="gridTitle6"/></div>
+                <div class="p"><squarespace:block-field id="gridText6"/></div>
             </div>
         </div>
     </div>
 </section>
-<section class="marquee-home">
-    <div class="marquee-overlay marquee-overlay-left"></div>
-        {@|apply marquee-company.block}
-    <div class="marquee-overlay marquee-overlay-right"></div>
-</section>
+
 <section class="home-main">
     <div class="container home-main-cont">
         <div class="home-main-item">
@@ -173,4 +150,9 @@
             </div>
         </div>
     </div>
+</section>
+<section class="marquee-home">
+    <div class="marquee-overlay marquee-overlay-left"></div>
+        {@|apply marquee-company.block}
+    <div class="marquee-overlay marquee-overlay-right"></div>
 </section>
