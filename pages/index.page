@@ -9,7 +9,8 @@
         <div class="home-hero-block-wrapper">
             <div class="home-hero-block">
                 <div class="home-hero-block-image">
-                    <!-- <squarespace:block-field id="homeHeroImage1"/> -->
+                    a
+                    <squarespace:block-field id="homeHeroImage1"/>
                 </div>
                 <div class="home-hero-block-text uppercase">
                     IDENTITY & BIOMETRIC Solutions
@@ -19,7 +20,7 @@
             <div class="home-hero-block">
                 <div class="home-hero-block-image">
                     a
-                    <!-- <squarespace:block-field id="homeHeroImage2"/> -->
+                    <squarespace:block-field id="homeHeroImage2"/>
                 </div>
                 <div class="home-hero-block-text uppercase">
                     Private network solutions
