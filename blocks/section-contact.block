@@ -5,7 +5,6 @@
             <div class="h4 uppercase" id="sec-contact-title"><squarespace:block-field id="secContactTitle"/></div>
             <div class="flex-col-left flex-16">
                 <div class="grid-item-p fs-14"><squarespace:block-field id="secContactEmail"/></div>
-                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactPhone"/></div>
                 <div class="grid-item-p fs-14"><squarespace:block-field id="secContactAddress"/></div>
             </div>
             
@@ -15,7 +14,7 @@
                 <h2 class="fs-56 uppercase h2-contact"><squarespace:block-field id="contactBannerTitle"/></h2>
             </div>
             <div class="contact-banner-bottom">
-                <div><squarespace:block-field id="contactBannerText"/></div>
+                <div class="contact-banner-bottom-text"><squarespace:block-field id="contactBannerText"/></div>
                 <button type="button" class="button-primary button-white">
                     <a class="cl-blue uppercase" href="/contact">Contact Us</a>
                 </button>
