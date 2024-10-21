@@ -1,6 +1,6 @@
 <script>console.log({@|json-pretty})</script>
 
-<div class="container footer-cont">
+<div class="container footer footer-cont">
         <div class="footer-logo">
             <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/b3b80815-19fd-47b9-bc42-ad1223fa8595/nav-logo.png?content-type=image%2Fpng"/>
         </div>   

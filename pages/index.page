@@ -43,40 +43,28 @@
         </div>
         <div class="value-grid-wrapper">
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="gridTitle1"/></div>
                 <div class="value-grid-icon"><squarespace:block-field id="homeGridImg1"/></div>
-                <div class="h4 uppercase">a<squarespace:block-field id="homeGridTitle1"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="homeGridTitle1"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg2"/></div>
-                <div class="h4 uppercase line-break"><squarespace:block-field id="gridTitle2"/></div>
                 <div class="value-grid-icon"><squarespace:block-field id="homeGridImg2"/></div>
-                <div class="h4 uppercase">aa<squarespace:block-field id="homeGridTitle2"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="homeGridTitle2"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg3"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="gridTitle3"/></div>
                 <div class="value-grid-icon"><squarespace:block-field id="homeGridImg3"/></div>
-                <div class="h4 uppercase">aa<squarespace:block-field id="homeGridTitle3"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="homeGridTitle3"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg4"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="gridTitle4"/></div>
                 <div class="value-grid-icon"><squarespace:block-field id="homeGridImg4"/></div>
-                <div class="h4 uppercase">aa<squarespace:block-field id="homeGridTitle4"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="homeGridTitle4"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg5"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="gridTitle5"/></div>
                 <div class="value-grid-icon"><squarespace:block-field id="homeGridImg5"/></div>
-                <div class="h4 uppercase">aa<squarespace:block-field id="homeGridTitle5"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="homeGridTitle5"/></div>
             </div>
             <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="gridImg6"/></div>
-                <div class="h4 uppercase line-break"><squarespace:block-field id="gridTitle6"/></div>
                 <div class="value-grid-icon"><squarespace:block-field id="homeGridImg6"/></div>
-                <div class="h4 uppercase">aa<squarespace:block-field id="homeGridTitle6"/></div>
+                <div class="h4 uppercase">`<squarespace:block-field id="homeGridTitle6"/></div>
             </div>
         </div>
     </div>
@@ -152,6 +140,10 @@
                     <div class="home-grid-item home-grid-item-small">
                         <div class="icon-48"><squarespace:block-field id="networkIcon2"/></div>
                         <div><squarespace:block-field id="networkText2"/></div>
+                    </div>
+                    <div class="home-grid-item home-grid-item-small">
+                        <div class="icon-48"><squarespace:block-field id="networkIcon3"/>a</div>
+                        <div><squarespace:block-field id="networkText3"/>a</div>
                     </div>
                 </div>
                 <div><squarespace:block-field id="homeMainTxt3"/></div>
