@@ -298,6 +298,7 @@ section, footer {
     flex-direction: column;
     align-items: center;
     gap: 24px;
+    text-align: center;
   }
   .h2-wrapper.gap-16 {
     gap: 16px;
@@ -314,16 +315,15 @@ section, footer {
     z-index: 1;
   }
   &-cont {
-    padding-top: 80px;
     gap: 3rem;
   }
   
 }
 .home-hero {
   position: relative;
-  padding-top: 120px;
+  padding-top: 180px;
   background-image: url(https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/02238960-f15a-4b0e-a68a-84dbfc5b3a2a/img-bgpattern.png?content-type=image%2Fpng);
-  background-position: center center;
+  background-position: top;
   background-size: 1440px;
   background-repeat: no-repeat;
   
@@ -384,9 +384,26 @@ section, footer {
     background-position: center right;
     border-radius: 1rem;
     margin-top: 3rem;
+    position: relative;
+    z-index: 1;
+    display: block;
 
     p {
       max-width: 615px;
+    }
+    &::after {
+      content: '';
+      width: 50vw;
+      max-width: 648px;
+      height: 10vw;
+      max-height: 72px;
+      border-radius: 648px;
+      background: #0F36F6;
+      filter: blur(100px);
+      position: absolute;
+      left: 50%;
+      transform: translatex(-50%);
+      z-index: 0;
     }
   }
 }
@@ -763,6 +780,9 @@ section, footer {
       }
     }
   }
+  .home-hero-block-wrapper {
+    flex-direction: column;
+  }
   .home-main {
     &-cont {
       gap: 100px;
@@ -811,6 +831,9 @@ section, footer {
     .home-hero, .home-grid, .home-main {
       padding: 48px 32px;
     }
+  }
+  .home-hero {
+    padding-top: 120px !important;
   }
   footer {
     flex-direction: column;
@@ -891,6 +914,13 @@ section, footer {
     .home-hero, .home-grid, .home-main {
       padding: 48px 16px;
     }
+  }
+  .home-hero {
+    padding-top: 100px !important;
+  }
+  .home-hero-block-text {
+    font-size: 24px;
+    padding-bottom: 24px;
   }
   .home-grid {
     padding-bottom: 48px;

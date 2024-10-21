@@ -64,7 +64,7 @@
             </div>
             <div class="value-grid-item">
                 <div class="value-grid-icon"><squarespace:block-field id="homeGridImg6"/></div>
-                <div class="h4 uppercase">`<squarespace:block-field id="homeGridTitle6"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="homeGridTitle6"/></div>
             </div>
         </div>
     </div>
@@ -142,8 +142,8 @@
                         <div><squarespace:block-field id="networkText2"/></div>
                     </div>
                     <div class="home-grid-item home-grid-item-small">
-                        <div class="icon-48"><squarespace:block-field id="networkIcon3"/>a</div>
-                        <div><squarespace:block-field id="networkText3"/>a</div>
+                        <div class="icon-48"><squarespace:block-field id="networkIcon3"/></div>
+                        <div><squarespace:block-field id="networkText3"/></div>
                     </div>
                 </div>
                 <div><squarespace:block-field id="homeMainTxt3"/></div>
