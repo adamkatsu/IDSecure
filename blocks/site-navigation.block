@@ -79,7 +79,7 @@
     </div>
   </div> 
   
-  <div class="nav-main hide">
+  <div class="nav-main">
     <div class="nav-main-head">
       <div class="nav-logo">
         <a href="/"><img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/e1fa2873-e517-4b06-8374-f60fe5781f13/idsecure-logo-white.png?content-type=image%2Fpng"/></a>
@@ -151,16 +151,21 @@
           <div class="main-menu-content">
             <div class="submenu submenu-contact">
               <div class="submenu-title max-full"><squarespace:block-field id="navContactTitle"/></div>
-              <ul class="main-menu-list">
+              <div class="nav-contact-wrapper">
+                <squarespace:block-field id="secContactEmail"/>
+                <div class="nav-address-wrapper">
+                  <squarespace:block-field id="navContactImage"/>a
+                  <squarespace:block-field id="navContactAddress"/>a
+                </div>
+              </div>
+              <!-- <ul class="main-menu-list">
                 <li class="nav-menu-item">
-                  <squarespace:block-field id="secContactEmail"/>
                 </li>
                 <li class="nav-menu-item">
                   <squarespace:block-field id="navContactNumber"/>
                 </li>
                 <li class="nav-menu-item">
-                  <squarespace:block-field id="navContactAddress"/>
-                </li>
+                </li> -->
               </ul>
             </div>
           </div>
@@ -173,7 +178,7 @@
             <div class="menu-line line-three"></div>
           </div>
           <div class="main-menu-content">
-            <div class="submenu">
+            <div class="submenu submenu-full">
               <span class="submenu-title">Zero Trust Networks</span>
               <ul class="main-menu-list">
                 {.repeated section items.1.items}
