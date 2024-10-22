@@ -151,11 +151,12 @@
           <div class="main-menu-content">
             <div class="submenu submenu-contact">
               <div class="submenu-title max-full"><squarespace:block-field id="navContactTitle"/></div>
-              <div class="nav-contact-wrapper">
+              <div claxss="nav-contact-wrapper">
                 <squarespace:block-field id="secContactEmail"/>
+                <squarespace:block-field id="navContactImage"/>a
+                <squarespace:block-field id="navContactAddress"/>a
                 <div class="nav-address-wrapper">
-                  <squarespace:block-field id="navContactImage"/>a
-                  <squarespace:block-field id="navContactAddress"/>a
+                  
                 </div>
               </div>
               <!-- <ul class="main-menu-list">
