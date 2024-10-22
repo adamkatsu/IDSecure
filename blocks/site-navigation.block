@@ -154,7 +154,7 @@
               <div claxss="nav-contact-wrapper">
                 <squarespace:block-field id="secContactEmail"/>
                 <squarespace:block-field id="navContactImage"/>a
-                <squarespace:block-field id="navContactAddress"/>a
+                <squarespace:block-field id="secContactAddress"/>a
                 <div class="nav-address-wrapper">
                   
                 </div>
