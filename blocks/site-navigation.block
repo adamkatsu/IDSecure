@@ -157,7 +157,10 @@
                   <div class="nav-hq-image">
                   <squarespace:block-field id="secContactImage"/>
                   </div>
-                  <squarespace:block-field id="secContactAddress"/>
+                  <div class="nav-hq-address">
+                    <squarespace:block-field id="secContactAddress"/>
+                    <img class="icon-20" src="url(https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/07746637-e53f-4042-a3b8-040d52de8f1c/arrow-down-right.png?content-type=image%2Fpng)" alt="">
+                  </div>
                 </div>
               </div>
               <!-- <ul class="main-menu-list">
