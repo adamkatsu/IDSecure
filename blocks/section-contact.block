@@ -5,7 +5,7 @@
             <div class="h4 uppercase" id="sec-contact-title"><squarespace:block-field id="secContactTitle"/></div>
             <div class="flex-col-left flex-16">
                 <div class="grid-item-p fs-14"><squarespace:block-field id="secContactEmail"/></div>
-                <squarespace:block-field id="secContactImage"/>a
+                <div class="grid-item-p fs-14"><squarespace:block-field id="secContactImage"/>a</div>
                 <div class="grid-item-p fs-14"><squarespace:block-field id="secContactAddress"/></div>
             </div>
             
