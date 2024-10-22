@@ -154,7 +154,9 @@
               <div claxss="nav-contact-wrapper">
                 <squarespace:block-field id="secContactEmail"/>
                 <div class="nav-address-wrapper">
+                  <div class="nav-hq-image">
                   <squarespace:block-field id="secContactImage"/>
+                  </div>
                   <squarespace:block-field id="secContactAddress"/>
                 </div>
               </div>
