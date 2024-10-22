@@ -79,7 +79,7 @@
     </div>
   </div> 
   
-  <div class="nav-main">
+  <div class="nav-main hide">
     <div class="nav-main-head">
       <div class="nav-logo">
         <a href="/"><img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/e1fa2873-e517-4b06-8374-f60fe5781f13/idsecure-logo-white.png?content-type=image%2Fpng"/></a>
