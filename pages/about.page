@@ -1,8 +1,11 @@
 <section class="about-hero">
     <div class="container hero-cont about-hero-cont">
+        
         <div class="h1-wrapper txt-left">
             <squarespace:block-field id="aboutUsH1"/>
         </div>
+        <img class="about-hero-bg" src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/5ad44a05-c0e8-4c16-a0af-cc9031aa03a6/Mask+group.png?content-type=image%2Fpng" alt="">
+        <div class="about-hero-shadow"></div>
         <div class="about-main-cont">
             <div class="h2-wrapper">
                 <div class="h2 uppercase"><squarespace:block-field id="aboutUsTitle"/></div>
@@ -12,8 +15,7 @@
                 </div>
             </div>
         </div>
-        <img class="about-hero-bg" src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/5ad44a05-c0e8-4c16-a0af-cc9031aa03a6/Mask+group.png?content-type=image%2Fpng" alt="">
-        <div class="about-hero-shadow"></div>
+        
     </div>
 </section>
 <section class="about-vision">
@@ -67,6 +69,7 @@
 </section>
 <section class="about-mission">
     <div class="container about-mission-cont">
+        <img class="about-mission-bg" src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/6c10923f-25aa-46d0-b751-665ebe769a86/Frame+%281%29.png?content-type=image%2Fpng" alt="">
         <div class="about-mission-content">
             <div class="about-mission-title">
                 <div class="h3 uppercase"><squarespace:block-field id="missionTitle"/></div>
@@ -75,6 +78,5 @@
                 <div class="h2 uppercase"><squarespace:block-field id="aboutMissionText"/></div>
             </div>
         </div>
-        <img class="about-mission-bg" src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/6c10923f-25aa-46d0-b751-665ebe769a86/Frame+%281%29.png?content-type=image%2Fpng" alt="">
     </div>
 </section>
