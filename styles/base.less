@@ -118,6 +118,9 @@ body::-webkit-scrollbar {
 .txt-center {
   text-align: center;
 }
+.txt-left {
+  text-align: left !important;
+}
 .icon {
   &-48 {
     height: 48px !important;
@@ -555,8 +558,12 @@ section, footer {
 ***************************************************/
 
 .about {
+  &-hero {
+    padding-top: 220px;
+  }
   &-main-cont {
-    .flex-box(row, space-between, flex-start, 32px);
+    .flex-box(column, flex-start, flex-start, 20px);
+    align-self: flex-end;
   }
   &-text-wrapper {
     width: 100%;
