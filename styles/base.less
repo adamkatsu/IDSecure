@@ -570,10 +570,28 @@ section, footer {
       padding-bottom: 150px;
       border-bottom: 1px solid rgba(255,255,255, 0.2)
     }
+    &-bg {
+      width: 1200px;
+      position: absolute;
+      left: -50%;
+      bottom: 0;
+    }
+    &-shadow {
+      width: 677px;
+      height: 677px;
+      border-radius: 100%;
+      opacity: 0.2;
+      background: #0F36F6;
+      filter: blur(250px);
+      position: absolute;
+      left: -50%;
+      bottom: 0;
+    }
   }
   &-main-cont {
     .flex-box(column, flex-start, flex-start, 20px);
     align-self: flex-end;
+    position: relative;
     
     h2 {
       font-size: 40px;
@@ -593,16 +611,27 @@ section, footer {
       text-align: center;
     }
   }
-  &-mission-cont {
-    border-radius: 32px;
-    background: radial-gradient(117.36% 77.71% at 23.77% 31.08%, rgba(34, 40, 73, 0.60) 0%, rgba(20, 24, 46, 0.60) 100%);
-    backdrop-filter: blur(25px);
-    .flex-box(column, flex-start, center, 32px);
-    padding: 30px;
+  &-mission {
+    display: flex;
 
-    .h2 {
-      text-align: center;
+    &-cont {
+      width: 100%;
+      max-width: 1240px;
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-end;
+      position: relative;
     }
+    &-bg {
+      position: absolute;
+      right: 60%;
+      z-index: 0;
+    }
+  }
+  &-mission-content {
+    .flex-box(column, flex-start, flex-start, 24px);
+    width: 100%;
+    max-width: 720px;
   }
 }
 
