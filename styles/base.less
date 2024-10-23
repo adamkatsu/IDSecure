@@ -560,10 +560,24 @@ section, footer {
 .about {
   &-hero {
     padding-top: 220px;
+
+    h1 {
+      text-align: left !important;
+      font-size: 55px;
+    }
+    &-cont {
+      gap: 100px;
+      padding-bottom: 150px;
+      border-bottom: 1px solid rgba(255,255,255, 0.2)
+    }
   }
   &-main-cont {
     .flex-box(column, flex-start, flex-start, 20px);
     align-self: flex-end;
+    
+    h2 {
+      font-size: 40px;
+    }
   }
   &-text-wrapper {
     width: 100%;
@@ -572,9 +586,7 @@ section, footer {
   }
 
   &-vision-cont {
-    background-color: #0F36F6;
-    .flex-box(column, flex-start, center, 32px);
-    padding: 70px 40px 100px 40px;
+    .flex-box(column, flex-start, center, 34px);
     border-radius: 32px;
 
     .h2 {

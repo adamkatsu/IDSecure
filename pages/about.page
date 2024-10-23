@@ -1,7 +1,7 @@
 <section class="about-hero">
     <div class="container hero-cont about-hero-cont">
         <div class="h1-wrapper txt-left">
-            <h1><squarespace:block-field id="aboutUsH1"/></h1>
+            <squarespace:block-field id="aboutUsH1"/>
         </div>
         <div class="about-main-cont">
             <div class="h2-wrapper">
@@ -14,13 +14,10 @@
         </div>
     </div>
 </section>
-<section class="about-main">
-
-</section>
 <section class="about-vision">
     <div class="container about-vision-cont">
         <div class="about-vision-title">
-            <div class="uppercase"><squarespace:block-field id="visionTitle"/></div>
+            <div class="h3 uppercase"><squarespace:block-field id="visionTitle"/></div>
         </div>
         <div class="about-vision-text">
             <div class="h2 uppercase"><squarespace:block-field id="aboutVisionText"/></div>
