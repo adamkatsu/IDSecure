@@ -13,7 +13,14 @@
     <div class="container">
       <div class="press-grid-cont">
         {.repeated section items}
-          <div class="press-grid-item" style="background-image: url({assetUrl});">
+          {.section assetUrl}
+          <div 
+            class="press-grid-item" 
+            style="background-image: url({assetUrl});"
+          >
+          {.or}
+          <div class="press-grid-item">
+          {.end}
             <a href="{fullUrl}" class="press-grid-item-inner">
               <div class="press-grid-category">
                 <div class="p">{categories}</div>
