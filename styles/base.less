@@ -654,8 +654,9 @@ section, footer {
     }
   }
   &-grid {
+    padding-top: 0px;
     &-cont {
-      .flex-box(row, center, stretch, 8px);
+      .flex-box(row, flex-start, stretch, 8px);
       flex-wrap: wrap;
     }
     &-item-inner {
@@ -664,11 +665,15 @@ section, footer {
       padding: 30px;
       border-radius: 32px;
       background: radial-gradient(117.36% 77.71% at 23.77% 31.08%, rgba(34, 40, 73, 0.60) 0%, rgba(20, 24, 46, 0.60) 100%);
-      backdrop-filter: blur(25px);
     }
     &-item {
       height: auto;
       width: calc(~"33% - 8px");
+      background-size: cover;
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      backdrop-filter: blur(25px);
     }
     &-category {
       width: 100%;

@@ -1,5 +1,5 @@
 <section class="about-hero">
-    <div class="container hero-cont about-hero-cont">
+    <div class="container hero-cont">
         <div class="h1-wrapper">
             <h1><squarespace:block-field id="pressPageH1"/></h1>
         </div>
@@ -8,7 +8,8 @@
         </div>
     </div>
 </section>
-<section class="press-links">
+<!-- <section class="press-links">
+
     <div class="container press-links-cont">
         <div class="press-links-item">
             <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon1"/></div>
@@ -27,7 +28,8 @@
             <div class="press-links-text link-underline"><squarespace:block-field id="pressLinkText4"/></div>
         </div>
     </div>
-</section>
+</section> -->
+Hello
 <section class="press-grid">
     <div class="container press-grid-cont">
         <div class="press-grid-item">

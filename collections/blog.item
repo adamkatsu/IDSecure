@@ -23,7 +23,7 @@
   <div class="container blog-main-cont">
     <div class="blog-main-title">
       <span class="blog-main-tag">{tags.0}</span>
-      <h1 class="h1">{title}</h1>
+      <h1 class="h1 uppercase">{title}</h1>
       <span>{addedOn|date %b %d, %Y}</span>
     </div>
     <div class="blog-main-content">{body}</div>

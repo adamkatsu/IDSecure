@@ -1,6 +1,6 @@
-
+<!-- <script>console.log({@|json-pretty})</script> -->
 <section class="about-hero">
-    <div class="container hero-cont about-hero-cont">
+    <div class="container hero-cont">
         <div class="h1-wrapper">
             <h1><squarespace:block-field id="pressPageH1"/></h1>
         </div>
@@ -9,31 +9,11 @@
         </div>
     </div>
 </section>
-<section class="press-links">
-    <div class="container press-links-cont">
-        <div class="press-links-item">
-            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon1"/></div>
-            <div class="press-links-text"><squarespace:block-field id="pressLinkText1"/></div>
-        </div>
-        <div class="press-links-item">
-            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon2"/></div>
-            <div class="press-links-text link-underline"><squarespace:block-field id="pressLinkText2"/></div>
-        </div>
-        <div class="press-links-item">
-            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon3"/></div>
-            <div class="press-links-text"><squarespace:block-field id="pressLinkText3"/></div>
-        </div>
-        <div class="press-links-item">
-            <div class="press-links-icon"><squarespace:block-field id="pressLinkIcon4"/></div>
-            <div class="press-links-text link-underline"><squarespace:block-field id="pressLinkText4"/></div>
-        </div>
-    </div>
-</section>
 <section class="press-grid">
     <div class="container">
       <div class="press-grid-cont">
         {.repeated section items}
-          <div class="press-grid-item">
+          <div class="press-grid-item" style="background-image: url({assetUrl});">
             <a href="{fullUrl}" class="press-grid-item-inner">
               <div class="press-grid-category">
                 <div class="p">{categories}</div>
