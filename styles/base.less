@@ -276,6 +276,9 @@ section, footer {
     text-align: center;
   }
 }
+.section-hero {
+  padding-top: 200px;
+} 
 .container {
   width: 100%;
   max-width: 1240px;
@@ -692,7 +695,18 @@ section, footer {
 .contact {
   &-main-cont {
     width: 100%;
-    max-width: 824px;
+    max-width: 1240px;
+    .flex-box(row, flex-start, stretch, 16px);
+
+    img {
+      width: 50%;
+      min-height: 100%;
+      object-fit: cover;
+      border-radius: 2rem;
+    }
+    #contactForm {
+      width: 50%;
+    }
   }
   
 }
@@ -890,6 +904,7 @@ section, footer {
       padding: 48px 32px;
     }
   }
+  
   .home-hero {
     padding-top: 120px !important;
   }

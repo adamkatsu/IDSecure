@@ -1,4 +1,4 @@
-<section class="contact-hero">
+<section class="contact-hero section-hero">
     <div class="container hero-cont contact-hero-cont">
         <div class="h1-wrapper">
             <h1>Contact Us</h1>
@@ -10,6 +10,7 @@
 </section>
 <section class="contact-main">
     <div class="container contact-main-cont">
+        <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/52a37f5a-48d7-4339-a70e-b134440cf64c/Group+1261156615.png?content-type=image%2Fpng" alt="">
         <squarespace:block-field id="contactForm"/>
     </div>
 </section>
