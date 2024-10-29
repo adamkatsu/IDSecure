@@ -15,14 +15,13 @@
 }
 .site-navigation { 
   width: 100%;
-  max-width: 1600px;
   padding: 24px;
   position: fixed;
   top: 0;
   z-index: 99999;
   background: rgb(255,255,255);
   background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(13,13,21,1) 65%);
-  .flex-box(row, space-between, center, 0);
+  .flex-box(row, center, center, 0);
 
   .nav-btn-wrapper {
     .flex-box(row, center, center, 0);
@@ -178,6 +177,8 @@
 }
 .nav-fixed {
   width: 100%;
+  max-width: 1600px;
+
   .flex-box(row, space-between, center, 24px);
 }
 .nav-main {
