@@ -48,8 +48,7 @@
 </section>
 <section class="section-grid">
     <div class="container section-grid-cont bottom-divider">
-        <div class="section-grid-title h3">
-            <squarespace:block-field id="aboutValuesTitle"/>
+        <div class="section-grid-title h3 uppercase">
             <squarespace:block-field id="productFeaturesTitle"/>
         </div>
         <div class="section-grid-main">
