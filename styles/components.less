@@ -10,6 +10,47 @@
   }
 // Grid
 
+.section-grid {
+    &-cont {
+        .flex-box(column, flex-start, center, 24px);
+
+        &.bottom-divider {
+            padding-bottom: 150px;
+            border-bottom: 1px solid rgba(255,255,255, 0.2);
+        }
+    }
+    &-title {
+        font-size: 32px;
+    }
+    &-main {
+        .flex-box(row, space-between, stretch, 8px);
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    &-icon {
+        width: 90px !important;
+        height: 90px !important;
+    }
+    &-item {
+        border-radius: 32px;
+        .flex-box(column, flex-start, center, 24px);
+
+        &-content {
+            .flex-box(column, flex-start, center, 16px);  
+            text-align: center;
+        }
+        &.large {
+            padding: 32px;
+        }
+        &.blue {
+            background-color: #0F36F6;
+        }
+        &.w-33 {
+            width: calc(~'33% - 2px');
+        }
+    }
+}
+
 .value {
     &-grid-cont {
         .flex-box(column, flex-start, center, 24px);

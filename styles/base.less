@@ -103,6 +103,9 @@ body::-webkit-scrollbar {
 .fs-20 {
   font-size: 20px;
 }
+.fs-24 {
+  font-size: 24px;
+}
 .fs-56 {
   font-size: 56px;
 }
@@ -286,6 +289,9 @@ section, footer {
   gap: 60px;
   padding-top: 180px;
   padding-bottom: 100px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
 
   &-cont {
     display: flex;
@@ -746,12 +752,13 @@ section, footer {
 .id-dex {
   &-hero {
     background-image: url('https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/a4680c29-7e9a-420d-96a0-e4ca0a8f1691/Mask+group+%282%29-min.png?content-type=image%2Fpng');
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-size: cover;
+    
+  }
+  &-workflow-cont {
+    .flex-box(column, flex-start, center, 24px);
   }
   &-content {
-    .flex-box(row, space-between, flex-start, 24px);
+    .flex-box(row, space-between, stretch, 8px);
 
     .dex-flow-icon {
       height: 126px;
@@ -764,28 +771,35 @@ section, footer {
     }
   }
   &-item {
-    width: 32%;
-    .flex-box(column, flex-start, flex-start, 24px);
+    width: calc(~'33% - 8px');
+    .flex-box(column, flex-start, center, 32px);
+    text-align: center;
+    border-radius: 32px;
+    padding: 30px;
+    background: radial-gradient(117.36% 77.71% at 23.77% 31.08%, rgba(34, 40, 73, 0.60) 0%, rgba(20, 24, 46, 0.60) 100%);
+    backdrop-filter: blur(25px);
+
+    &-content {
+      .flex-box(column, flex-start, center, 16px);
+    }
   }
 }
 .advantages {
   &-cont {
     .flex-box(row, space-between, flex-start, 80px);
+    position: relative;
+
+    &-bg {
+      width: 791px;
+      position: absolute;
+      left: -480px;
+      top: -200px;
+    }
   }
   &-title {
     width: 100%;
     max-width: 314px;
     position: relative;
-
-    &:after {
-      content: '(4)';
-      color: #5C6794;
-      font-size: 24px;
-      position: absolute;
-      left: 290px;
-      top: 40%;
-      transform: translatey(-50%);
-    }
   }
   &-list {
     width: 100%;
@@ -901,9 +915,9 @@ section, footer {
   
 }
 @media (max-width: 768px) {
-  .section-hero {
+  .section-hero, .inner-hero {
     padding-top: 160px;
-  } 
+  }
   body {
     font-size: 14px;
   }
@@ -1041,8 +1055,8 @@ section, footer {
       padding: 48px 16px;
     }
   }
-  .home-hero {
-    padding-top: 100px !important;
+  .home-hero, .inner-hero {
+    padding-top: 120px !important;
   }
   .home-hero-block-text {
     font-size: 24px;

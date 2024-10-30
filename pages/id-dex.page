@@ -13,84 +13,106 @@
         <div class="page-desc-text"><squarespace:block-field id="idDexDesc2"/></div>
     </div>
 </section>
-<section class="block-blue">
-    <div class="container block-blue-cont">
-        <div class="block-blue-title uppercase">
+<section class="id-dex-workflow">
+    <div class="container id-dex-workflow-cont">
+        <div class="id-dex-workflow-title h3 uppercase">
             <squarespace:block-field id="idDexBlueTitle"/>
         </div>
         <div class="id-dex-content">
             <div class="id-dex-item">
                 <div class="dex-flow-icon"><squarespace:block-field id="dexFlowIcon1"/></div>
-                <div class="h3"><squarespace:block-field id="dexFlowTitle1"/></div>
-                <div><squarespace:block-field id="dexFlowText1"/></div>
+                <div class="id-dex-item-content">
+                    <span class="fs-24">01</span>
+                    <div class="h4"><squarespace:block-field id="dexFlowTitle1"/></div>
+                    <div><squarespace:block-field id="dexFlowText1"/></div>
+                </div>
             </div>
             <div class="id-dex-item">
                 <div class="dex-flow-icon"><squarespace:block-field id="dexFlowIcon2"/></div>
-                <div class="h3"><squarespace:block-field id="dexFlowTitle2"/></div>
-                <div><squarespace:block-field id="dexFlowText2"/></div>
+                <div class="id-dex-item-content">
+                    <span class="fs-24">02</span>
+                    <div class="h4"><squarespace:block-field id="dexFlowTitle2"/></div>
+                    <div><squarespace:block-field id="dexFlowText2"/></div>
+                </div>
             </div>
             <div class="id-dex-item">
                 <div class="dex-flow-icon"><squarespace:block-field id="dexFlowIcon3"/></div>
-                <div class="h3"><squarespace:block-field id="dexFlowTitle3"/></div>
-                <div><squarespace:block-field id="dexFlowText3"/></div>
+                <div class="id-dex-item-content">
+                    <span class="fs-24">03</span>
+                    <div class="h4"><squarespace:block-field id="dexFlowTitle3"/></div>
+                    <div><squarespace:block-field id="dexFlowText3"/></div>
+                </div>
             </div>
         </div>
     </div>
 </section>
-<section class="value-grid">
-    <div class="container value-grid-cont">
-        <div class="h2-wrapper">
-            <div class="h2 uppercase"><squarespace:block-field id="aboutValuesTitle"/></div>
+<section class="section-grid">
+    <div class="container section-grid-cont bottom-divider">
+        <div class="section-grid-title h3">
+            <squarespace:block-field id="aboutValuesTitle"/>
+            <squarespace:block-field id="productFeaturesTitle"/>
         </div>
-        <div class="value-grid-wrapper">
-            <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg1"/></div>
-                <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="aboutGridTitle1"/></div>
-                    <div class="p"><squarespace:block-field id="aboutGridText1"/></div>
+        <div class="section-grid-main">
+            <div class="section-grid-item w-33 large blue">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="aboutGridImg1"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <squarespace:block-field id="aboutGridTitle1"/>
+                    <squarespace:block-field id="aboutGridText1"/>
                 </div>
             </div>
-            <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg2"/></div>
-                <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="aboutGridTitle2"/></div>
-                    <div class="p"><squarespace:block-field id="aboutGridText2"/></div>
+            <div class="section-grid-item w-33 large blue">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="aboutGridImg3"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <squarespace:block-field id="aboutGridTitle3"/>
+                    <squarespace:block-field id="aboutGridText3"/>
                 </div>
             </div>
-            <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg3"/></div>
-                <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="aboutGridTitle3"/></div>
-                    <div class="p"><squarespace:block-field id="aboutGridText3"/></div>
+            <div class="section-grid-item w-33 large blue">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="aboutGridImg2"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <squarespace:block-field id="aboutGridTitle2"/>
+                    <squarespace:block-field id="aboutGridText2"/>
                 </div>
             </div>
-            <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg4"/></div>
-                <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="aboutGridTitle4"/></div>
-                    <div class="p"><squarespace:block-field id="aboutGridText4"/></div>
+            <div class="section-grid-item w-33 large blue">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="aboutGridImg4"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <squarespace:block-field id="aboutGridTitle4"/>
+                    <squarespace:block-field id="aboutGridText4"/>
                 </div>
             </div>
-            <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg5"/></div>
-                <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="aboutGridTitle5"/></div>
-                    <div class="p"><squarespace:block-field id="aboutGridText5"/></div>
+            <div class="section-grid-item w-33 large blue">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="aboutGridImg5"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <squarespace:block-field id="aboutGridTitle5"/>
+                    <squarespace:block-field id="aboutGridText5"/>
                 </div>
             </div>
-            <div class="value-grid-item value-grid-3">
-                <div class="value-grid-icon "><squarespace:block-field id="aboutGridImg6"/></div>
-                <div class="value-grid-content">
-                    <div class="h3"><squarespace:block-field id="aboutGridTitle6"/></div>
-                    <div class="p"><squarespace:block-field id="aboutGridText6"/></div>
+            <div class="section-grid-item w-33 large blue">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="aboutGridImg6"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <squarespace:block-field id="aboutGridTitle6"/>
+                    <squarespace:block-field id="aboutGridText6"/>
                 </div>
             </div>
         </div>
-        <div class="cont-bg-right"></div>
     </div>
 </section>
 <section class="advantages">
     <div class="container advantages-cont">
+        <img class="advantages-cont-bg" src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/91670330-b331-4c01-8612-2c0f30fe4114/id-dex-adv-bg.png?content-type=image%2Fpng" alt="">
         <div class="advantages-title h2 uppercase"><squarespace:block-field id="advantagesSectionTitle"/></div>
         <div class="advantages-list">
             <div class="advantages-item advantages-item-show">
