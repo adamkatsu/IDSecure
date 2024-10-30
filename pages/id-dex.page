@@ -15,7 +15,7 @@
 </section>
 <section class="id-dex-workflow">
     <div class="container id-dex-workflow-cont">
-        <div class="id-dex-workflow-title h3 uppercase">
+        <div class="id-dex-workflow-title txt-center h3 uppercase">
             <squarespace:block-field id="idDexBlueTitle"/>
         </div>
         <div class="id-dex-content">

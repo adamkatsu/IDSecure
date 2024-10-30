@@ -48,7 +48,7 @@
             background-color: #0F36F6;
         }
         &.w-33 {
-            width: calc(~'33% - 2px');
+            width: calc(~'33% - 4px');
         }
     }
 }
@@ -588,6 +588,11 @@
 }
 
 @media (max-width: 768px) {
+    .section-grid {
+        &-item {
+            width: calc(~'50% - 4px') !important;
+        }
+    }
     .value {
         &-grid-item {
             width: calc(~"50% - 8px");
