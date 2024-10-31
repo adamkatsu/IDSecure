@@ -72,7 +72,6 @@
 <section class="section-grid">
     <div class="container section-grid-cont">
         <div class="section-grid-title h3 uppercase">
-            <squarespace:block-field id="productFeaturesTitle"/>
             <squarespace:block-field id="rIdvGrid2Ttile"/>
         </div>
         <div class="section-grid-main">
