@@ -1,5 +1,5 @@
-<section class="about-hero">
-    <div class="container hero-cont about-hero-cont">
+<section class="inner-hero r-idv-hero">
+    <div class="container inner-hero-cont">
         <div class="h1-wrapper">
             <h1><squarespace:block-field id="rIdvh1"/></h1>
         </div>
@@ -8,16 +8,14 @@
         </div>
         <div class="cont-bg-left"></div>
     </div>
-</section>
-<section class="page-desc">
     <div class="container page-desc-cont">
         <div class="page-desc-title"><squarespace:block-field id="rIdvDesc1"/></div>
-        <div class="page-desc-text"><squarespace:block-field id="rIdvDesc2"/></div>
+        <div class="page-desc-"><squarespace:block-field id="rIdvDesc2"/></div>
     </div>
 </section>
 <section class="statistics">
     <div class="container statistics-cont">
-        <div class="statistics-head uppercase txt-center"><squarespace:block-field id="rIdvStatsTitle"/></div>
+        <div class="statistics-head section-grid-title h3 uppercase"><squarespace:block-field id="rIdvStatsTitle"/></div>
         <div class="statistics-content">
             <div class="statistics-item">
                 <div class="statistics-item-number"><squarespace:block-field id="rIdvStatsTitle1"/></div>
@@ -36,40 +34,6 @@
                 <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="rIdvStatsText4"/></div>
             </div>
         </div>
-    </div>
-</section>
-<section class="value-grid">
-    <div class="container value-grid-cont">
-        <div class="h2-wrapper">
-            <div class="h2 uppercase"><squarespace:block-field id="aboutValuesTitle"/></div>
-        </div>
-        <div class="value-grid-wrapper">
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg1"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvGridText1"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg2"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvGridText2"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg3"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvGridText3"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg4"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvGridText4"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg5"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvGridText5"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvGridImg6"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvGridText6"/></div>
-            </div>
-        </div>
-        <div class="cont-bg-right"></div>
     </div>
 </section>
 <section class="block-blue">
@@ -101,6 +65,99 @@
             <div class="block-content-item block-grid-6-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon6"/></div>
                 <div class="h4"><squarespace:block-field id="rIdvBlockText6"/></div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section-grid">
+    <div class="container section-grid-cont">
+        <div class="section-grid-title h3 uppercase">
+            <squarespace:block-field id="productFeaturesTitle"/>
+        </div>
+        <div class="section-grid-main">
+            <div class="section-grid-item w-33 large">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="rIdvGridImg1"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <div class="h5 uppercase">
+                        <squarespace:block-field id="rIdvGridText1"/>
+                    </div>
+                    <div class="fs-14">
+                        <squarespace:block-field id="aboutGridText1"/>
+                        <squarespace:block-field id="rIdvGridDetails1"/>
+                    </div>
+                </div>
+            </div>
+            <div class="section-grid-item w-33 large">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="rIdvGridImg2"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <div class="h5 uppercase">
+                        <squarespace:block-field id="rIdvGridText2"/>
+                    </div>
+                    <div class="fs-14">
+                        <squarespace:block-field id="aboutGridText2"/>
+                        <squarespace:block-field id="rIdvGridDetails2"/>
+                    </div>
+                </div>
+            </div>
+            <div class="section-grid-item w-33 large">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="rIdvGridImg3"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <div class="h5 uppercase">
+                        <squarespace:block-field id="rIdvGridText3"/>
+                    </div>
+                    <div class="fs-14">
+                        <squarespace:block-field id="aboutGridText3"/>
+                        <squarespace:block-field id="rIdvGridDetails3"/>
+                    </div>
+                </div>
+            </div>
+            <div class="section-grid-item w-33 large">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="rIdvGridImg4"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <div class="h5 uppercase">
+                        <squarespace:block-field id="rIdvGridText4"/>
+                    </div>
+                    <div class="fs-14">
+                        <squarespace:block-field id="aboutGridText4"/>
+                        <squarespace:block-field id="rIdvGridDetails4"/>
+                    </div>
+                </div>
+            </div>
+            <div class="section-grid-item w-33 large">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="rIdvGridImg5"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <div class="h5 uppercase">
+                        <squarespace:block-field id="rIdvGridText5"/>
+                    </div>
+                    <div class="fs-14">
+                        <squarespace:block-field id="aboutGridText5"/>
+                        <squarespace:block-field id="rIdvGridDetails5"/>
+                    </div>
+                </div>
+            </div>
+            <div class="section-grid-item w-33 large">
+                <div class="section-grid-icon">
+                    <squarespace:block-field id="rIdvGridImg6"/>
+                </div>
+                <div class="section-grid-item-content">
+                    <div class="h5 uppercase">
+                        <squarespace:block-field id="rIdvGridText6"/>
+                    </div>
+                    <div class="fs-14">
+                        <squarespace:block-field id="aboutGridText6"/>
+                        <squarespace:block-field id="rIdvGridDetails6"/>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
