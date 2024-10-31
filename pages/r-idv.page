@@ -84,7 +84,6 @@
                         <squarespace:block-field id="rIdvGridText1"/>
                     </div>
                     <div class="fs-14">
-                        <squarespace:block-field id="aboutGridText1"/>
                         <squarespace:block-field id="rIdvGridDetails1"/>
                     </div>
                 </div>
@@ -98,7 +97,6 @@
                         <squarespace:block-field id="rIdvGridText2"/>
                     </div>
                     <div class="fs-14">
-                        <squarespace:block-field id="aboutGridText2"/>
                         <squarespace:block-field id="rIdvGridDetails2"/>
                     </div>
                 </div>
@@ -112,7 +110,6 @@
                         <squarespace:block-field id="rIdvGridText3"/>
                     </div>
                     <div class="fs-14">
-                        <squarespace:block-field id="aboutGridText3"/>
                         <squarespace:block-field id="rIdvGridDetails3"/>
                     </div>
                 </div>
@@ -126,7 +123,6 @@
                         <squarespace:block-field id="rIdvGridText4"/>
                     </div>
                     <div class="fs-14">
-                        <squarespace:block-field id="aboutGridText4"/>
                         <squarespace:block-field id="rIdvGridDetails4"/>
                     </div>
                 </div>
@@ -140,7 +136,6 @@
                         <squarespace:block-field id="rIdvGridText5"/>
                     </div>
                     <div class="fs-14">
-                        <squarespace:block-field id="aboutGridText5"/>
                         <squarespace:block-field id="rIdvGridDetails5"/>
                     </div>
                 </div>
@@ -154,7 +149,6 @@
                         <squarespace:block-field id="rIdvGridText6"/>
                     </div>
                     <div class="fs-14">
-                        <squarespace:block-field id="aboutGridText6"/>
                         <squarespace:block-field id="rIdvGridDetails6"/>
                     </div>
                 </div>
