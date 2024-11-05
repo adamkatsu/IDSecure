@@ -1,12 +1,10 @@
-<section class="about-hero">
-    <div class="container hero-cont about-hero-cont">
+<section class="inner-hero bio-kiosk-hero">
+    <div class="container inner-hero-cont">
         <div class="h1-wrapper">
             <h1><squarespace:block-field id="biokiosksDesc1"/></h1>
         </div>
         <div class="cont-bg-left"></div>
     </div>
-</section>
-<section class="page-desc">
     <div class="container page-desc-cont">
         <div class="page-desc-title"><squarespace:block-field id="kiosksDesc1"/></div>
         <div class="page-desc-text"><squarespace:block-field id="kiosksDesc2"/></div>
@@ -19,30 +17,24 @@
                 <squarespace:block-field id="kiosksGridImg1"/>
             </div>
             <div class="h4"><squarespace:block-field id="kiosksGridTitle1"/></div>
-            <div class="p"><squarespace:block-field id="kiosksGridText1"/></div>
-            <div class="hardware-grid-item-bg"></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img">
                 <squarespace:block-field id="kiosksGridImg2"/>
             </div>
             <div class="h4"><squarespace:block-field id="kiosksGridTitle2"/></div>
-            <div class="p"><squarespace:block-field id="kiosksGridText2"/></div>
-            <div class="hardware-grid-item-bg"></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img">
                 <squarespace:block-field id="kiosksGridImg3"/>
             </div>
             <div class="h4"><squarespace:block-field id="kiosksGridTitle3"/></div>
-            <div class="p"><squarespace:block-field id="kiosksGridText3"/></div>
-            <div class="hardware-grid-item-bg"></div>
         </div>
     </div>
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title">
+        <div class="section-grid-title h3 uppercase">
             <squarespace:block-field id="kiosksBlueTitle"/>
         </div>
         <div class="block-content block-grid-6">
@@ -96,45 +88,53 @@
         </div>
     </div>
 </section>
-<section class="about-main">
-    <div class="container about-main-cont">
-        <div class="h2-wrapper">
-            <div class="h2 uppercase"><squarespace:block-field id="kiosksSupportTitle"/></div>
-        </div>
-        <div class="about-text-wrapper">
-            <div class="p fs-20 fw-500"><squarespace:block-field id="kiosksSupportText1"/></div>
-            <div class="p"><squarespace:block-field id="kiosksSupportText2"/>
+<section class="about-mission bio-kiosk-mission">
+    <div class="container about-mission-cont">
+        <div class="cont-bg-left"></div>
+        <img class="bio-kiosk-mission-bg" src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/7f661f12-3fa5-4ce4-a53f-ae5804d54180/Frame+1261156944.png?content-type=image%2Fpng" alt="">
+        <div class="about-mission-content">
+            <div class="about-mission-title">
+                <div class="h2 uppercase"><squarespace:block-field id="kiosksSupportTitle"/></div>
+            </div>
+            <div class="about-text-wrapper">
+                <div class="p fs-20 fw-500"><squarespace:block-field id="kiosksSupportText1"/></div>
+                <div class="p"><squarespace:block-field id="kiosksSupportText2"/>
+                </div>
             </div>
         </div>
     </div>
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title">
+        <div class="section-grid-title h3 uppercase">
             <squarespace:block-field id="kiosksBlueTitle"/>
         </div>
         <div class="block-content block-grid-6">
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon1"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text1"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon2"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text2"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon3"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text3"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon4"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text4"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon5"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text5"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
+                <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon6"/></div>
+                <div class="h4"><squarespace:block-field id="kiosksBlock2Text6"/></div>
+            </div>
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon6"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text6"/></div>
             </div>

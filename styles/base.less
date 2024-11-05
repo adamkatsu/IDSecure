@@ -449,7 +449,6 @@ section, footer {
   h1{
     font-size: 56px;
     line-height: 110%;
-    text-transform: uppercase;
     text-align: center;
   }
   .h1-gradient, .h1-gradient h1 {
@@ -739,11 +738,11 @@ section, footer {
 
   &-cont {
     .flex-box(column, flex-start, center, 16px);
-    // max-width: 820px;
+    max-width: 1036px;
   }
   &-title {
     text-align: center;
-    font-size: 20px;
+    font-size: 32px;
     font-weight: 500;
     line-height: 140%;
   }
@@ -791,10 +790,28 @@ section, footer {
     background-image: url('https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/ee6ebf90-5ee7-4bb3-94cb-b638ad0c3bbb/r-idv-bg-min.png?content-type=image%2Fpng');
   }
 }
+.bio-kiosk {
+  &-hero {
+    background-image: url('https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/393c11b0-2579-4041-a5a9-6038b895bda3/bio-kiosk-bg.png?content-type=image%2Fpng');
+  }
+  &-mission-bg {
+    position: absolute;
+    right: 60%;
+    z-index: 0;
+    width: 528px;
+  }
+  &-mission {
+    .cont-bg-left {
+      z-index: 2;
+    }
+  }
+}
+
 .advantages {
   &-cont {
     .flex-box(row, space-between, flex-start, 80px);
     position: relative;
+    cursor: pointer;
 
     &-bg {
       width: 791px;
@@ -961,6 +978,10 @@ section, footer {
   }
   .page-desc {
     padding-top: 48px;
+
+    &-title {
+      font-size: 24px;
+    }
   }
   .home-grid {
     padding-bottom: 48px;
@@ -1002,6 +1023,13 @@ section, footer {
     &-mission-bg {
       position: relative;
       right: 0%;
+    }
+  }
+  .bio-kiosk {
+    &-mission-bg {
+      position: relative;
+      left: -32px;
+      width: 90vw;
     }
   }
   .press {
@@ -1102,7 +1130,7 @@ section, footer {
       margin-bottom: -24px;
       margin-top: 0px;
     }
-    &-vision-cont, &-mission-cont {
+    &-vision-cont {
       padding: 48px 20px;
     }
     

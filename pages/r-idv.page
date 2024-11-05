@@ -10,7 +10,7 @@
     </div>
     <div class="container page-desc-cont">
         <div class="page-desc-title"><squarespace:block-field id="rIdvDesc1"/></div>
-        <div class="page-desc-"><squarespace:block-field id="rIdvDesc2"/></div>
+        <div class="page-desc-text"><squarespace:block-field id="rIdvDesc2"/></div>
     </div>
 </section>
 <section class="statistics">
@@ -38,33 +38,45 @@
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title">
+        <div class="section-grid-title h3 uppercase">
             <squarespace:block-field id="rIdvBlueTitle"/>
         </div>
         <div class="block-content block-grid-6">
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon1"/></div>
                 <div class="h4"><squarespace:block-field id="rIdvBlockText1"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvBlockText2"/></div>
-            </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon3"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvBlockText3"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText3"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon4"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvBlockText4"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText4"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon5"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvBlockText5"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText5"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon6"/></div>
-                <div class="h4"><squarespace:block-field id="rIdvBlockText6"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText6"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item">
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText2"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item">
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText2"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item">
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText2"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item">
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText2"/></div>
             </div>
         </div>
     </div>
