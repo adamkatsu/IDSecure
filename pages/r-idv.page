@@ -19,19 +19,19 @@
         <div class="statistics-content">
             <div class="statistics-item">
                 <div class="statistics-item-number"><squarespace:block-field id="rIdvStatsTitle1"/></div>
-                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="rIdvStatsText1"/></div>
+                <div class="statistics-item-text txt-center"><squarespace:block-field id="rIdvStatsText1"/></div>
             </div>
             <div class="statistics-item">
                 <div class="statistics-item-number"><squarespace:block-field id="rIdvStatsTitle2"/></div>
-                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="rIdvStatsText2"/></div>
+                <div class="statistics-item-text txt-center"><squarespace:block-field id="rIdvStatsText2"/></div>
             </div>
             <div class="statistics-item">
                 <div class="statistics-item-number"><squarespace:block-field id="rIdvStatsTitle3"/></div>
-                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="rIdvStatsText3"/></div>
+                <div class="statistics-item-text txt-center"><squarespace:block-field id="rIdvStatsText3"/></div>
             </div>
             <div class="statistics-item">
                 <div class="statistics-item-number"><squarespace:block-field id="rIdvStatsTitle4"/></div>
-                <div class="statistics-item-text uppercase txt-center"><squarespace:block-field id="rIdvStatsText4"/></div>
+                <div class="statistics-item-text txt-center"><squarespace:block-field id="rIdvStatsText4"/></div>
             </div>
         </div>
     </div>
@@ -47,8 +47,8 @@
                 <div class="h4"><squarespace:block-field id="rIdvBlockText1"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon3"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText3"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon7"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText7"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon4"/></div>
@@ -59,24 +59,24 @@
                 <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText5"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon8"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText8"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item">
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText2"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item">
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon3"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText3"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item">
+                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon9"/></div>
+                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText9"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon6"/></div>
                 <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText6"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText2"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText2"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText2"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item">
-                <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText2"/></div>
             </div>
         </div>
     </div>
