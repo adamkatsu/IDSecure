@@ -1,4 +1,4 @@
-<section class="inner-hero private-wifi-hero">
+<section class="section-hero inner-hero private-wifi-hero">
     <div class="container inner-hero-cont">
         <div class="h1-wrapper">
             <h1><squarespace:block-field id="ztnWifih1"/></h1>
@@ -16,6 +16,40 @@
     </div>
     <div class="container ztn-img-cont mobile">
         <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/bd44b2b2-6787-453c-b684-4003739746ab/ztn-img-mobile.png?content-type=image%2Fpng" alt="">
+    </div>
+</section>
+<section class="block-blue">
+    <div class="container block-blue-cont">
+        <div class="block-blue-title">
+            <squarespace:block-field id="section-grid-title h3 uppercase"/>
+        </div>
+        <div class="block-content">
+            <div class="block-content-item block-grid-3-item">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText1"/></div>
+            </div>
+            <div class="block-content-item block-grid-3-item">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon2"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText2"/></div>
+            </div>
+            <div class="block-content-item block-grid-3-item">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon3"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText3"/></div>
+            </div>
+            <div class="block-content-item block-grid-3-item">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon4"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText4"/></div>
+            </div>
+            <div class="block-content-item block-grid-3-item">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
+            </div>
+            <div class="block-content-item block-grid-3-item">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
+            </div>
+        </div>
+        <div class="cont-bg-right"></div>
     </div>
 </section>
 <section class="value-grid">
@@ -54,27 +88,31 @@
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title uppercase">
+        <div class="section-grid-title h3 uppercase">
             <squarespace:block-field id="ztnWifiBlueTitle"/>
         </div>
-        <div class="block-content block-grid-5">
-            <div class="block-content-item block-grid-5-item">
+        <div class="block-content">
+            <div class="block-content-item block-grid-6-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon1"/></div>
                 <div class="h4"><squarespace:block-field id="ztnWifiBlockText1"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item">
+            <div class="block-content-item block-grid-6-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon2"/></div>
                 <div class="h4"><squarespace:block-field id="ztnWifiBlockText2"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item">
+            <div class="block-content-item block-grid-6-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon3"/></div>
                 <div class="h4"><squarespace:block-field id="ztnWifiBlockText3"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item">
+            <div class="block-content-item block-grid-6-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon4"/></div>
                 <div class="h4"><squarespace:block-field id="ztnWifiBlockText4"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item">
+            <div class="block-content-item block-grid-6-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="ztnWifiBlockText5"/></div>
+            </div>
+            <div class="block-content-item block-grid-6-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon5"/></div>
                 <div class="h4"><squarespace:block-field id="ztnWifiBlockText5"/></div>
             </div>

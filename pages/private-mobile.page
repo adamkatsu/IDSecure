@@ -1,4 +1,4 @@
-<section class="inner-hero private-mobile-hero">
+<section class="section-hero inner-hero private-mobile-hero">
     <div class="container inner-hero-cont">
         <div class="h1-wrapper">
             <h1><squarespace:block-field id="ztnMobileh1"/></h1>
@@ -21,7 +21,7 @@
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="block-blue-title">
-            <squarespace:block-field id="ztnMobileBlueTitle"/>
+            <squarespace:block-field id="section-grid-title h3 uppercase"/>
         </div>
         <div class="block-content block-grid-5">
             <div class="block-content-item block-grid-5-item">
@@ -41,6 +41,48 @@
                 <div class="h4"><squarespace:block-field id="ztnMobileBlockText4"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
+            </div>
+        </div>
+        <div class="cont-bg-right"></div>
+    </div>
+</section>
+<section class="block-blue">
+    <div class="container block-blue-cont">
+        <div class="section-grid-title h3 uppercase">
+            <squarespace:block-field id="ztnMobileBlueTitle"/>
+        </div>
+        <div class="block-content">
+            <div class="block-content-item block-grid-4-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon1"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText1"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon2"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText2"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon3"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText3"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon4"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText4"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
+                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
+            </div>
+            <div class="block-content-item block-grid-4-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
             </div>
@@ -98,44 +140,44 @@
         <div class="block-blue-title">
             <squarespace:block-field id="ztnMobileBlueTitle"/>
         </div>
-        <div class="block-content block-grid-6">
-            <div class="block-content-item block-grid-6-item">
+        <div class="block-content">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon1"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text1"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon2"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text2"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon3"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text3"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon4"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text4"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon5"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text5"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon6"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text6"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon7"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text7"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon8"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text8"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon9"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text9"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlock2Icon10"/></div>
                 <div class="h4"><squarespace:block-field id="ztnMobileBlock2Text10"/></div>
             </div>

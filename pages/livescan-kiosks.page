@@ -17,7 +17,6 @@
                 <squarespace:block-field id="kiosksGridImg1"/>
             </div>
             <div class="h4"><squarespace:block-field id="kiosksGridTitle1"/></div>
-            <div class="p"><squarespace:block-field id="kiosksGridText1"/></div>
             <div class="hardware-grid-item-bg"></div>
         </div>
         <div class="hardware-grid-item w-30">
@@ -25,7 +24,6 @@
                 <squarespace:block-field id="kiosksGridImg2"/>
             </div>
             <div class="h4"><squarespace:block-field id="kiosksGridTitle2"/></div>
-            <div class="p"><squarespace:block-field id="kiosksGridText2"/></div>
             <div class="hardware-grid-item-bg"></div>
         </div>
         <div class="hardware-grid-item w-30">
@@ -33,14 +31,13 @@
                 <squarespace:block-field id="kiosksGridImg3"/>
             </div>
             <div class="h4"><squarespace:block-field id="kiosksGridTitle3"/></div>
-            <div class="p"><squarespace:block-field id="kiosksGridText3"/></div>
             <div class="hardware-grid-item-bg"></div>
         </div>
     </div>
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title">
+        <div class="section-grid-title h3 uppercase">
             <squarespace:block-field id="kiosksBlueTitle"/>
         </div>
         <div class="block-content block-grid-6">
@@ -94,8 +91,8 @@
         </div>
     </div>
 </section>
-<section class="about-main">
-    <div class="container about-main-cont">
+<section class="deliv-support">
+    <div class="container deliv-support-cont">
         <div class="h2-wrapper">
             <div class="h2 uppercase"><squarespace:block-field id="kiosksSupportTitle"/></div>
         </div>
@@ -108,31 +105,35 @@
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title">
+        <div class="section-grid-title h3 uppercase">
             <squarespace:block-field id="kiosksBlueTitle"/>
         </div>
         <div class="block-content block-grid-6">
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon1"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text1"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon2"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text2"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon3"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text3"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon4"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text4"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon5"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text5"/></div>
             </div>
-            <div class="block-content-item block-grid-6-item">
+            <div class="block-content-item bg-dark block-grid-4-item">
+                <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon6"/></div>
+                <div class="h4"><squarespace:block-field id="kiosksBlock2Text6"/></div>
+            </div>
+            <div class="block-content-item bg-dark block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="kiosksBlock2Icon6"/></div>
                 <div class="h4"><squarespace:block-field id="kiosksBlock2Text6"/></div>
             </div>
