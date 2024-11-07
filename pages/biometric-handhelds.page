@@ -19,16 +19,16 @@
             <div class="h4">a<squarespace:block-field id="handHeldGridTitle5"/></div>
         </div>
         <div class="hardware-grid-item w-30">
-            <div class="hardware-grid-img grid-img-center">a
+            <div class="hardware-grid-img grid-img-center">
                 <squarespace:block-field id="handHeldGridImg6"/>
             </div>
             <div class="h4">a<squarespace:block-field id="handHeldGridTitle6"/></div>
         </div>
         <div class="hardware-grid-item w-30">
-            <div class="hardware-grid-img grid-img-center">a
+            <div class="hardware-grid-img grid-img-center">
                 <squarespace:block-field id="handHeldGridImg7"/>
             </div>
-            <div class="h4">a<squarespace:block-field id="handHeldGridTitle7"/></div>
+            <div class="h4">aaaaaaa<squarespace:block-field id="handHeldGridTitle7"/></div>
         </div>
         <div class="hardware-grid-item w-25">
             <div class="hardware-grid-img grid-img-center">
