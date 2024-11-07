@@ -32,21 +32,21 @@
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
-                <squarespace:block-field id="jumpKitssGridImg4"/>
-            </div>
-            <div class="h4"><squarespace:block-field id="jumpKitssGridTitle4"/></div>
-        </div>
-        <div class="hardware-grid-item w-30">
-            <div class="hardware-grid-img grid-img-center">
                 <squarespace:block-field id="jumpKitssGridImg5"/>
             </div>
             <div class="h4"><squarespace:block-field id="jumpKitssGridTitle5"/></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
+                <squarespace:block-field id="jumpKitssGridImg4"/>
+            </div>
+            <div class="h4"><squarespace:block-field id="jumpKitssGridTitle4"/></div>
+        </div>
+        <div class="hardware-grid-item w-30">
+            <div class="hardware-grid-img grid-img-center">
                 <squarespace:block-field id="jumpKitssGridImg6"/>
             </div>
-            <div class="h4">a<squarespace:block-field id="jumpKitssGridTitle6"/></div>
+            <div class="h4"><squarespace:block-field id="jumpKitssGridTitle6"/></div>
         </div>
     </div>
 </section>
@@ -89,8 +89,8 @@
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText8"/></div>
             </div>
             <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon9"/></div>
-                <div class="h4"><squarespace:block-field id="jumpKitssBlockText9"/></div>
+                <div class="value-grid-icon" style="height: 200px"><squarespace:block-field id="jumpKitssBlockIcon9"/></div>
+                <div class="h4" style="height: 200px"><squarespace:block-field id="jumpKitssBlockText9"/></div>
             </div>
         </div>
         <div class="cont-bg-right"></div>
