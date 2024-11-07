@@ -89,8 +89,8 @@
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText8"/></div>
             </div>
             <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon" style="height: 200px"><squarespace:block-field id="jumpKitssBlockIcon9"/></div>
-                <div class="h4" style="height: 200px"><squarespace:block-field id="jumpKitssBlockText9"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon9"/></div>
+                <div class="h4"><squarespace:block-field id="jumpKitssBlockText9"/></div>
             </div>
         </div>
         <div class="cont-bg-right"></div>
