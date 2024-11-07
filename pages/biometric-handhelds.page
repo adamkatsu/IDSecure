@@ -13,22 +13,22 @@
 <section class="hardware-grid">
     <div class="container hardware-grid-cont">
         <div class="hardware-grid-item w-30">
-            <div class="hardware-grid-img grid-img-center">a
+            <div class="hardware-grid-img grid-img-center">
                 <squarespace:block-field id="handHeldGridImg5"/>
             </div>
-            <div class="h4">a<squarespace:block-field id="handHeldGridTitle5"/></div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle5"/></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
                 <squarespace:block-field id="handHeldGridImg6"/>
             </div>
-            <div class="h4">a<squarespace:block-field id="handHeldGridTitle6"/></div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle6"/></div>
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
                 <squarespace:block-field id="handHeldGridImg7"/>
             </div>
-            <div class="h4">a<squarespace:block-field id="handHeldGridTitle7"/></div>
+            <div class="h4"><squarespace:block-field id="handHeldGridTitle7"/></div>
         </div>
         <div class="hardware-grid-item w-25">
             <div class="hardware-grid-img grid-img-center">
@@ -79,8 +79,8 @@
                 <div class="h4"><squarespace:block-field id="handHeldBlockText4"/></div>
             </div>
             <div class="block-content-item block-grid-5-item bg-dark">
-                <div class="value-grid-icon" style="height: 480px !important;">a<squarespace:block-field id="handHeldBlockIcon9"/></div>
-                <div class="h4" style="height: 480px !important;"><squarespace:block-field id="handHeldBlockText9"/>a</div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon9"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText9"/></div>
             </div>
             <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon5"/></div>
@@ -99,8 +99,8 @@
                 <div class="h4"><squarespace:block-field id="handHeldBlockText8"/></div>
             </div>
             <div class="block-content-item block-grid-5-item bg-dark">
-                <div class="value-grid-icon" style="height: 480px !important;">a<squarespace:block-field id="handHeldBlockIcon10"/></div>
-                <div class="h4" style="height: 480px !important;"><squarespace:block-field id="handHeldBlockText10"/>a</div>
+                <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon10"/></div>
+                <div class="h4"><squarespace:block-field id="handHeldBlockText10"/></div>
             </div>
         </div>
         <div class="cont-bg-right"></div>
