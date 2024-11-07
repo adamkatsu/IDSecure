@@ -44,9 +44,9 @@
         </div>
         <div class="hardware-grid-item w-30">
             <div class="hardware-grid-img grid-img-center">
-                <squarespace:block-field id="jumpKitssGridImg5"/>
+                <squarespace:block-field id="jumpKitssGridImg6"/>
             </div>
-            <div class="h4"><squarespace:block-field id="jumpKitssGridTitle5"/></div>
+            <div class="h4">a<squarespace:block-field id="jumpKitssGridTitle6"/></div>
         </div>
     </div>
 </section>
@@ -74,15 +74,15 @@
             </div>
             <div class="block-content-item block-grid-5-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon5"/></div>
-                <div class="h4"> Scanners<squarespace:block-field id="jumpKitssBlockText5"/></div>
+                <div class="h4"><squarespace:block-field id="jumpKitssBlockText5"/></div>
             </div>
             <div class="block-content-item block-grid-4-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon6"/></div>
-                <div class="h4"> Card Printers<squarespace:block-field id="jumpKitssBlockText6"/></div>
+                <div class="h4"><squarespace:block-field id="jumpKitssBlockText6"/></div>
             </div>
             <div class="block-content-item block-grid-4-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon7"/></div>
-                <div class="h4"> Printers<squarespace:block-field id="jumpKitssBlockText7"/></div>
+                <div class="h4"><squarespace:block-field id="jumpKitssBlockText7"/></div>
             </div>
             <div class="block-content-item block-grid-4-item bg-dark">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon8"/></div>
