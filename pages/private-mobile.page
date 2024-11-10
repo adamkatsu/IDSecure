@@ -21,7 +21,8 @@
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="block-blue-title">
-            <squarespace:block-field id="section-grid-title h3 uppercase"/>
+            <squarespace:block-field id="ztnCoverageTitle"/>
+            Global private network coverage
         </div>
         <div class="block-content block-grid-5">
             <div class="block-content-item block-grid-5-item">
@@ -48,52 +49,13 @@
         <div class="cont-bg-right"></div>
     </div>
 </section>
-<section class="block-blue">
-    <div class="container block-blue-cont">
-        <div class="section-grid-title h3 uppercase">
-            <squarespace:block-field id="ztnMobileBlueTitle"/>
-        </div>
-        <div class="block-content">
-            <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon1"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText1"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon2"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText2"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon3"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText3"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon4"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText4"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
-            </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnMobileBlockIcon5"/></div>
-                <div class="h4"><squarespace:block-field id="ztnMobileBlockText5"/></div>
-            </div>
-        </div>
-        <div class="cont-bg-right"></div>
-    </div>
-</section>
 <section class="value-grid">
     <div class="container value-grid-cont">
         <div class="h2-wrapper">
-            <div class="h2 uppercase"><squarespace:block-field id="aboutValuesTitle"/></div>
+            <div class="h2 uppercase">
+                <squarespace:block-field id="ztnUseCasesTitle"/>
+                Use Cases
+            </div>
         </div>
         <div class="value-grid-wrapper">
             <div class="value-grid-item">
@@ -138,7 +100,8 @@
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="block-blue-title">
-            <squarespace:block-field id="ztnMobileBlueTitle"/>
+            <squarespace:block-field id="ztnSolutionFeaturesTitle"/>
+            Solution Features
         </div>
         <div class="block-content">
             <div class="block-content-item block-grid-5-item bg-dark">
