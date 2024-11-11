@@ -58,7 +58,6 @@
   <div class="container block-blue-cont">
       <div class="section-grid-title h3 uppercase">
           <squarespace:block-field id="cloudcoreSecureTitle"/>
-          hello
       </div>
       <div class="block-content">
           <div class="block-content-item block-grid-6-item bg-dark">
