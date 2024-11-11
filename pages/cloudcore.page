@@ -60,19 +60,19 @@
           <squarespace:block-field id="cloudcoreSecureTitle"/>hello
       </div>
       <div class="block-content">
+        <div class="block-content-item block-grid-6-item bg-dark">
+            <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon10"/>hello</div>
+            <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText10"/>hello</div>
+        </div>
+        <div class="block-content-item block-grid-6-item bg-dark">
+            <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon11"/>hello</div>
+            <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText11"/>hello</div>
+        </div>
+        <div class="block-content-item block-grid-6-item bg-dark">
+            <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon12"/>hello</div>
+            <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText12"/>hello</div>
+        </div>
           <div class="block-content-item block-grid-6-item bg-dark">
-            <div class="block-content-item block-grid-6-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon10"/>hello</div>
-                <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText10"/>hello</div>
-            </div>
-            <div class="block-content-item block-grid-6-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon11"/>hello</div>
-                <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText11"/>hello</div>
-            </div>
-            <div class="block-content-item block-grid-6-item bg-dark">
-                <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon12"/>hello</div>
-                <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText12"/>hello</div>
-            </div>
               <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon1"/>hello</div>
               <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText1"/>hello</div>
           </div>
