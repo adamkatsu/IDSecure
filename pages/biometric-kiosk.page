@@ -67,6 +67,7 @@
     </div>
 </section>
 {@|apply howwedoit.block}
+{@|apply certifications.block}
 <section class="reference">
     <div class="container reference-cont">
         <div class="reference-title uppercase">

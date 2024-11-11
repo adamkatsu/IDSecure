@@ -141,6 +141,7 @@
       text-transform: uppercase;
   }
 
+
   // Blue Block
 
   .block-blue {
@@ -202,6 +203,22 @@
         text-align: center;
     }
   }
+
+
+// Certifications
+
+.certification {
+    &-cont {
+        .flex-box(column, flex-start, center, 32px);
+    }
+    &-item-list {
+        .flex-box(row, space-between, center, 32px); 
+        flex-wrap: wrap;
+        & > * {
+            height: 60px;
+        }
+    }
+}
 
 
   // Reference
