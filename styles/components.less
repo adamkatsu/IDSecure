@@ -311,7 +311,6 @@
         }
     }
     &-img {
-        height: 343px;
         width: 100%;
         object-fit: contain;
         position: relative;
@@ -670,10 +669,10 @@
     }
     .hardware-grid {
         &-cont {
-            flex-direction: column;
+            flex-direction: row;
         }
         &-item {
-            width: 100% !important;
+            width: calc(~"50% - 8px")!important;
         }
     }
     .reference {
@@ -727,6 +726,19 @@
     }
 }
 @media (max-width: 480px) {
+    .hardware-grid {
+        &-cont {
+            flex-direction: column;
+        }
+        &-item {
+            width: 100% !important;
+        }
+    }
+    .block-blue {
+        .mobile-full {
+            width: 100%;
+        }
+    }
     .section-grid {
         &-item {
             width: 100%!important;
