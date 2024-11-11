@@ -5,9 +5,6 @@
     </div>
     <div class="certification-item-list">
       <div class="certification-item">
-        <squarespace:block-field id="certification7"/>
-      </div>
-      <div class="certification-item">
         <squarespace:block-field id="certification1"/>
       </div>
       <div class="certification-item">
@@ -24,6 +21,9 @@
       </div>
       <div class="certification-item">
         <squarespace:block-field id="certification6"/>
+      </div>
+      <div class="certification-item">
+        <squarespace:block-field id="certification7"/>
       </div>
     </div>
   </div>
