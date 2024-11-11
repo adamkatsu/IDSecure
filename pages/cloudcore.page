@@ -13,7 +13,7 @@
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="block-blue-title">
-            <squarespace:block-field id="cloudcorePortalTitle"/>
+            <squarespace:block-field id="cloudcorePortalTitle"/>hello
         </div>
         <div class="block-content">
             <div class="block-content-item block-grid-3-item">
@@ -57,10 +57,22 @@
 <section class="block-blue">
   <div class="container block-blue-cont">
       <div class="section-grid-title h3 uppercase">
-          <squarespace:block-field id="cloudcoreSecureTitle"/>
+          <squarespace:block-field id="cloudcoreSecureTitle"/>hello
       </div>
       <div class="block-content">
           <div class="block-content-item block-grid-6-item bg-dark">
+            <div class="block-content-item block-grid-6-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon10"/>hello</div>
+                <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText10"/>hello</div>
+            </div>
+            <div class="block-content-item block-grid-6-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon11"/>hello</div>
+                <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText11"/>hello</div>
+            </div>
+            <div class="block-content-item block-grid-6-item bg-dark">
+                <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon12"/>hello</div>
+                <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText12"/>hello</div>
+            </div>
               <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon1"/>hello</div>
               <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText1"/>hello</div>
           </div>
@@ -81,16 +93,8 @@
               <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText5"/>hello</div>
           </div>
           <div class="block-content-item block-grid-6-item bg-dark">
-              <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon5"/>hello</div>
-              <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText5"/>hello</div>
-          </div>
-          <div class="block-content-item block-grid-6-item bg-dark">
             <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon6"/>hello</div>
             <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText6"/>hello</div>
-          </div>
-          <div class="block-content-item block-grid-6-item bg-dark">
-              <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon2"/>hello</div>
-              <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText2"/>hello</div>
           </div>
           <div class="block-content-item block-grid-6-item bg-dark">
               <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon7"/>hello</div>
@@ -103,10 +107,6 @@
           <div class="block-content-item block-grid-6-item bg-dark">
               <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon9"/>hello</div>
               <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText9"/>hello</div>
-          </div>
-          <div class="block-content-item block-grid-6-item bg-dark">
-              <div class="value-grid-icon"><squarespace:block-field id="cloudcoreSecureBlockIcon10"/>hello</div>
-              <div class="h4"><squarespace:block-field id="cloudcoreSecureBlockText10"/>hello</div>
           </div>
       </div>
   </div>
