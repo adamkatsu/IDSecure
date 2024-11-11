@@ -20,9 +20,8 @@
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title">
+        <div class="section-grid-title h3 uppercase">
             <squarespace:block-field id="ztnWifiUseCasesTitle"/>
-            Use Cases
         </div>
         <div class="block-content">
             <div class="block-content-item block-grid-3-item">
@@ -54,41 +53,6 @@
         <div class="cont-bg-right"></div>
     </div>
 </section>
-<section class="value-grid">
-    <div class="container value-grid-cont">
-        <div class="h2-wrapper">
-            lorem
-            <div class="h2 uppercase"><squarespace:block-field id="aboutValuesTitle"/></div>
-        </div>
-        <div class="value-grid-wrapper">
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiGridImg1"/></div>
-                <div class="h4"><squarespace:block-field id="ztnWifiGridText1"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiGridImg2"/></div>
-                <div class="h4"><squarespace:block-field id="ztnWifiGridText2"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiGridImg3"/></div>
-                <div class="h4"><squarespace:block-field id="ztnWifiGridText3"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiGridImg4"/></div>
-                <div class="h4"><squarespace:block-field id="ztnWifiGridText4"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiGridImg5"/></div>
-                <div class="h4"><squarespace:block-field id="ztnWifiGridText5"/></div>
-            </div>
-            <div class="value-grid-item">
-                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiGridImg6"/></div>
-                <div class="h4"><squarespace:block-field id="ztnWifiGridText6"/></div>
-            </div>
-        </div>
-        <div class="cont-bg-right"></div>
-    </div>
-</section>
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="section-grid-title h3 uppercase">
@@ -116,8 +80,8 @@
                 <div class="h4"><squarespace:block-field id="ztnWifiBlockText5"/></div>
             </div>
             <div class="block-content-item block-grid-6-item bg-dark">
-                <div class="value-grid-icon">asdf<squarespace:block-field id="ztnWifiBlockIcon6"/></div>
-                <div class="h4">asdf<squarespace:block-field id="ztnWifiBlockText6"/></div>
+                <div class="value-grid-icon"><squarespace:block-field id="ztnWifiBlockIcon6"/></div>
+                <div class="h4"><squarespace:block-field id="ztnWifiBlockText6"/></div>
             </div>
         </div>
     </div>
