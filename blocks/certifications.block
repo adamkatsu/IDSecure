@@ -4,13 +4,13 @@
       Solutions Certifications
     </div>
     <div class="certification-item-list">
-      <squarespace:block-field id="certification1"/>
-      <squarespace:block-field id="certification2"/>
-      <squarespace:block-field id="certification3"/>
-      <squarespace:block-field id="certification4"/>
-      <squarespace:block-field id="certification5"/>
-      <squarespace:block-field id="certification6"/>
-      <squarespace:block-field id="certification7"/>
+      a<squarespace:block-field id="certification1"/>
+      a<squarespace:block-field id="certification2"/>
+      a<squarespace:block-field id="certification3"/>
+      a<squarespace:block-field id="certification4"/>
+      a<squarespace:block-field id="certification5"/>
+      a<squarespace:block-field id="certification6"/>
+      a<squarespace:block-field id="certification7"/>
     </div>
   </div>
 </section>
