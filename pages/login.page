@@ -25,10 +25,11 @@
         >
         <button class="button-primary" type="submit" style="width: 120px;">Login</button>
     </form>
-    </div>
     <div class="login-wrapper">
       <squarespace:block-field id="loginBlock"/>
       a
     </div>
+    </div>
   </div>
+  
 </section>
