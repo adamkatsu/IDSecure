@@ -1,0 +1,19 @@
+<section class="login">
+  <div class="container login-cont">
+    <div class="login-head">
+      <h2 class="uppercase">Login For Support</h2>
+      <p>Customer login to submit and track support requests.</p>
+    </div>
+    <div class="login-form-wrapper">
+      <form action="/api/auth/login" method="POST">
+        <label for="email">Email*</label>
+        <input type="email" id="email" name="email" required>
+        
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required>
+        
+        <button class="btn-primary" type="submit">Login</button>
+    </form>
+    </div>
+  </div>
+</section>

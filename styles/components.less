@@ -218,7 +218,6 @@
     }
     &-item {
         height: 60px;
-
     }
 }
 
@@ -368,6 +367,21 @@
         transform: unset
     }
   }
+
+//   Login
+
+.login {
+    width: 100%;
+    min-height: 100vh;
+    height: 100%;
+
+    &-cont {
+        .flex-box(row, space-between, flex-start, 64px);
+    }
+    &-head {
+        .flex-box(column, flex-start, center, 24px);
+    }
+}
 
   // How We Do It
 
@@ -670,6 +684,15 @@
 @media (max-width: 768px) {
     .hwd-timeline-cont {
         gap: 48px;
+    }
+    .certification {
+        &-item-list {
+            justify-content: center;
+            gap: 48px;
+        }
+        &-item {
+            height: 48px;
+        }
     }
     .section-grid {
         &-item {
