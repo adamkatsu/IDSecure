@@ -6,7 +6,7 @@
       <p>Customer login to submit and track support requests.</p>
     </div>
     <div class="login-form-wrapper">
-      <form action="/api/auth/login" method="POST">
+      <form action="/login" method="get">
         <label for="email">Email*</label>
         <input 
           type="email" 
