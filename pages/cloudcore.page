@@ -6,7 +6,7 @@
         <div class="cont-bg-left"></div>
     </div>
     <div class="container page-desc-cont">
-        <div class="page-desc-title"><squarespace:block-field id="cloudcoreiDesc1"/></div>
+        <div class="page-desc-title fs-20"><squarespace:block-field id="cloudcoreiDesc1"/></div>
         <div class="page-desc-text"><squarespace:block-field id="cloudcoreiDesc2"/></div>
     </div>
 </section>

@@ -1,7 +1,7 @@
 <section class="contact-hero section-hero">
     <div class="container hero-cont contact-hero-cont">
         <div class="h1-wrapper">
-            <h1>Contact Us</h1>
+            <h1 class="uppercase">Contact Us</h1>
         </div>
         <div class="p-wrapper">
             <p>Reach out to us using this form and specify which Solution you are interested in.</p>
