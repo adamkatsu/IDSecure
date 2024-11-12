@@ -118,6 +118,12 @@
   .flex-box(row, space-between, flex-start, 32px);
 }
 
+@media(max-width: 900px) {
+  .footer-menu-list {
+    width: calc(~"50% - 16px");
+  }
+}
+
 @media (max-width: 768px) {
   .section-contact-cont {
       flex-direction: column;
@@ -150,6 +156,9 @@
     &-menu {
       flex-wrap: wrap;
       gap: 24px;
+    }
+    &-menu-list {
+      width: calc(~"50% - 12px");
     }
   }
 }
