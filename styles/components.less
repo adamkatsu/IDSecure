@@ -372,14 +372,60 @@
 
 .login {
     width: 100%;
-    min-height: 100vh;
-    height: 100%;
+    align-items: flex-start;
+    padding-top: 280px;
+    padding-bottom: 280px;
 
     &-cont {
         .flex-box(row, space-between, flex-start, 64px);
+        max-width: 1035px;
+        position: relaive;
     }
     &-head {
-        .flex-box(column, flex-start, center, 24px);
+        .flex-box(column, flex-start, flex-start, 24px);
+        width: 50%;
+        position: relative;
+        z-index: 1;
+        h2 {
+            max-width: 360px;
+        }
+    }
+    &-form-wrapper {
+        width: 50%;
+        max-width: 420px;
+        position: relative;
+        z-index: 1;
+    }
+    &-form-wrapper form{
+        .flex-box(column, flex-start, flex-start, 24px);
+        
+        input {
+            width: 100%;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 32px;
+            background: rgba(45, 63, 139, .2);
+            backdrop-filter: blur(25px);
+            color: #fff;
+        }
+        button {
+            margin-top: 8px;
+        }
+    }
+}
+@media(max-width: 640px) {
+    .login {
+        padding-top: 120px !important;
+        padding-bottom: 80px;
+        padding-top: 72px;
+        &-cont {
+            flex-direction: column;
+        }
+        &-head,
+        &-form-wrapper {
+            width: 100%;
+            max-width: 100%;
+        }
     }
 }
 
