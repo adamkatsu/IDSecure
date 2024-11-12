@@ -48,7 +48,7 @@
             </div>
             <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon7"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText7"/></div>
+                <div class="h4 uppercase"a><squarespace:block-field id="rIdvBlockText7"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon4"/></div>
@@ -60,7 +60,7 @@
             </div>
             <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon8"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText8"/></div>
+                <div class="h4 uppercase">a<squarespace:block-field id="rIdvBlockText8"/></div>
             </div>
             <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon2"/></div>
@@ -72,9 +72,9 @@
             </div>
             <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon9"/></div>
-                <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText9"/></div>
+                <div class="h4 uppercase">a<squarespace:block-field id="rIdvBlockText9"/></div>
             </div>
-            <div class="block-content-item block-grid-4-item">3
+            <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon6"/></div>
                 <div class="h4 uppercase"><squarespace:block-field id="rIdvBlockText6"/></div>
             </div>
