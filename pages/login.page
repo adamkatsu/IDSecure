@@ -6,7 +6,7 @@
       <p>Customer login to submit and track support requests.</p>
     </div>
     <div class="login-form-wrapper">
-      <form action="/login" method="get">
+      <form action="/api/auth/login" method="POST">
         <label for="email">Email*</label>
         <input 
           type="email" 
@@ -25,10 +25,6 @@
         >
         <button class="button-primary" type="submit" style="width: 120px;">Login</button>
     </form>
-    <div class="login-wrapper">
-      <squarespace:block-field id="loginBlock"/>
-      a
-    </div>
     </div>
   </div>
   
