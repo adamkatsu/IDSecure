@@ -48,7 +48,7 @@
             </div>
             <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon7"/></div>
-                <div class="h4 uppercase"a><squarespace:block-field id="rIdvBlockText7"/></div>
+                <div class="h4 uppercase">a<squarespace:block-field id="rIdvBlockText7"/></div>
             </div>
             <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="rIdvBlockIcon4"/></div>
