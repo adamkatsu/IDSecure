@@ -87,7 +87,6 @@
 <section class="block-blue">
     <div class="container block-blue-cont">
         <div class="section-grid-title h3 uppercase">
-            <squarespace:block-field id="kiosksBlueTitle"/>
             <squarespace:block-field id="kiosksBgTitle"/>
         </div>
         <div class="block-content block-grid-6">
