@@ -1,6 +1,7 @@
 <script>console.log({@|json-pretty})</script>
 <section class="press-hero">
     <div class="container hero-cont">
+      <div class="cont-bg-left"></div>
         <div class="h1-wrapper">
             <h1 class="txt-center" style="text-align: center !important"><squarespace:block-field id="pressPageH1"/></h1>
         </div>
@@ -11,7 +12,7 @@
 </section>
 <section class="press-grid">
     <div class="container">
-      <div class="press-grid-cont">
+      <div class="press-grid-cont" style="z-index: 1;">
         {.repeated section items}
           {.section assetUrl}
           <div 

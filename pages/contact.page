@@ -1,5 +1,6 @@
 <section class="contact-hero section-hero">
     <div class="container hero-cont contact-hero-cont">
+        <div class="cont-bg-left" style="z-index: -1"></div>
         <div class="h1-wrapper">
             <h1 class="uppercase">Contact Us</h1>
         </div>

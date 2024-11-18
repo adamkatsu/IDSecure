@@ -23,7 +23,7 @@
           placeholder="Password"
           required
         >
-        <button class="button-primary" type="submit" style="width: 120px;">Login</button>
+        <button class="button-primary" type="submit" style="width: 120px;">LOGIN</button>
     </form>
     </div>
   </div>

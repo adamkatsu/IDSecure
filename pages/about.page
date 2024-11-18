@@ -3,7 +3,10 @@
         <div class="h1-wrapper txt-left">
             {#  <squarespace:block-field id="aboutUsH1"/>  }
             <h1 class="h1-56 h1-gradient">
-                CURIOSITY, CREATIVITY, 
+                CURIOSITY
+                <span class="h1-white">, </span>
+                CREATIVITY
+                <span class="h1-white">, </span> 
                 <span class="h1-white">AND </span>
                 INDUSTRY KNOWLEDGE 
                 <span class="h1-white">DRIVE OUR PASSION AND PURPOSE</span>
@@ -26,7 +29,7 @@
 <section class="about-vision">
     <div class="container about-vision-cont">
         <div class="about-vision-title">
-            <div class="h3 uppercase"><squarespace:block-field id="visionTitle"/></div>
+            <div class="h3 uppercase">Our Vision</div>
         </div>
         <div class="about-vision-text">
             <div class="h2 uppercase">
@@ -50,12 +53,12 @@
         <div class="block-content">
             <div class="block-content-item block-grid-3-item bg-dark mobile-full">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg1"/></div>
-                <div class="txt-center"><squarespace:block-field id="gridTitle1"/></div>
+                <div class="txt-center fs-24"><squarespace:block-field id="gridTitle1"/></div>
                 <div class="p txt-center"><squarespace:block-field id="gridText1"/></div>
             </div>
             <div class="block-content-item block-grid-3-item bg-dark mobile-full">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg2"/></div>
-                <div class="txt-center"><squarespace:block-field id="gridTitle2"/></div>
+                <div class="txt-center fs-24"><squarespace:block-field id="gridTitle2"/></div>
                 <div class="p txt-center"><squarespace:block-field id="gridText2"/></div>
             </div>
             <div class="block-content-item block-grid-3-item bg-dark mobile-full">
@@ -65,17 +68,17 @@
             </div>
             <div class="block-content-item block-grid-3-item bg-dark mobile-full">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg4"/></div>
-                <div class="txt-center"><squarespace:block-field id="gridTitle4"/></div>
+                <div class="txt-center fs-24"><squarespace:block-field id="gridTitle4"/></div>
                 <div class="p txt-center"><squarespace:block-field id="gridText4"/></div>
             </div>
             <div class="block-content-item block-grid-3-item bg-dark mobile-full">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg5"/></div>
-                <div class="txt-center"><squarespace:block-field id="gridTitle5"/></div>
+                <div class="txt-center fs-24"><squarespace:block-field id="gridTitle5"/></div>
                 <div class="p txt-center"><squarespace:block-field id="gridText5"/></div>
             </div>
             <div class="block-content-item block-grid-3-item bg-dark mobile-full">
                 <div class="value-grid-icon"><squarespace:block-field id="gridImg6"/></div>
-                <div class="txt-center"><squarespace:block-field id="gridTitle6"/></div>
+                <div class="txt-center fs-24"><squarespace:block-field id="gridTitle6"/></div>
                 <div class="p txt-center"><squarespace:block-field id="gridText6"/></div>
             </div>
         </div>

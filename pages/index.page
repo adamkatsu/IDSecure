@@ -131,17 +131,17 @@
             <div class="home-main-content">
                 {@|apply eyebrow-100.block}
                 <div class="uppercase"><squarespace:block-field id="homeMainSub3"/></div>
-                <div class="uppercase"><squarespace:block-field id="homeMainTitle3"/></div>
+                <div class="uppercase" style="white-space: nowrap"><squarespace:block-field id="homeMainTitle3"/></div>
                 <div class="home-main-grid-small">
-                    <div class="home-grid-item home-grid-item-small">
+                    <div class="home-grid-item home-grid-item-small" style="justify-content: flex-start">
                         <div class="icon-48"><squarespace:block-field id="networkIcon1"/></div>
                         <div><squarespace:block-field id="networkText1"/></div>
                     </div>
-                    <div class="home-grid-item home-grid-item-small">
+                    <div class="home-grid-item home-grid-item-small" style="justify-content: flex-start">
                         <div class="icon-48"><squarespace:block-field id="networkIcon2"/></div>
                         <div><squarespace:block-field id="networkText2"/></div>
                     </div>
-                    <div class="home-grid-item home-grid-item-small">
+                    <div class="home-grid-item home-grid-item-small" style="justify-content: flex-start">
                         <div class="icon-48"><squarespace:block-field id="networkIcon3"/></div>
                         <div><squarespace:block-field id="networkText3"/></div>
                     </div>

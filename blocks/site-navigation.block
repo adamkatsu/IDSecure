@@ -8,7 +8,7 @@
     <div class="nav-menu-default">
       <ul class="nav-menu-list">
         <li class="nav-menu-item nav-menu-toggle">
-          <a href="/identity-biometrics">Identity & Biometrics</a>
+          <a href="#">Identity & Biometrics</a>
           <svg width="8" height="4" viewBox="0 0 8 4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 4L0 0H8L4 4Z" fill="white"/></svg>
           <div class="nav-menu-dropdown">
             <div class="nav-inner-wrapper">
@@ -40,7 +40,7 @@
           </div>
         </li>
         <li class="nav-menu-item nav-menu-toggle">
-          <a href="/private-network">Private Network</a>
+          <a href="#">Private Network</a>
           <svg width="8" height="4" viewBox="0 0 8 4" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 4L0 0H8L4 4Z" fill="white"/></svg>
           <div class="nav-menu-dropdown">
             <div class="nav-inner-wrapper">
