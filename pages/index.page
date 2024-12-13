@@ -96,7 +96,7 @@
                 </div>
                 <div><squarespace:block-field id="homeMainTxt1"/></div>
                 <button type="button" class="button-primary">
-                    <a class="uppercase" href="/biometric-kiosk">Learn More</a>
+                    <a class="uppercase" href="/biometric-kiosks">Learn More</a>
                 </button>
             </div>
         </div>
