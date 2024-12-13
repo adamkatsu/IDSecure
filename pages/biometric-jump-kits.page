@@ -52,43 +52,43 @@
 </section>
 <section class="block-blue">
     <div class="container block-blue-cont">
-        <div class="block-blue-title">
+        <div class="section-grid-title h3 uppercase">
             <squarespace:block-field id="jumpKitssBlueTitle"/>
         </div>
         <div class="block-content block-grid-6">
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon1"/></div>
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText1"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon2"/></div>
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText2"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon3"/></div>
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText3"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon4"/></div>
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText4"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon5"/></div>
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText5"/></div>
             </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
+            <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon6"/></div>
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText6"/></div>
             </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
+            <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon7"/></div>
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText7"/></div>
             </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
+            <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon8"/></div>
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText8"/></div>
             </div>
-            <div class="block-content-item block-grid-4-item bg-dark">
+            <div class="block-content-item block-grid-4-item">
                 <div class="value-grid-icon"><squarespace:block-field id="jumpKitssBlockIcon9"/></div>
                 <div class="h4"><squarespace:block-field id="jumpKitssBlockText9"/></div>
             </div>
