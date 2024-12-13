@@ -62,43 +62,43 @@
             <squarespace:block-field id="handHeldBlueTitle"/>
         </div>
         <div class="block-content block-grid-6">
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon1"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText1"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon2"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText2"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon3"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText3"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon4"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText4"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon9"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText9"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon5"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText5"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon6"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText6"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon7"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText7"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon8"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText8"/></div>
             </div>
-            <div class="block-content-item block-grid-5-item bg-dark">
+            <div class="block-content-item block-grid-5-item">
                 <div class="value-grid-icon"><squarespace:block-field id="handHeldBlockIcon10"/></div>
                 <div class="h4"><squarespace:block-field id="handHeldBlockText10"/></div>
             </div>
