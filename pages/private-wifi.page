@@ -7,7 +7,6 @@
     </div>
     <div class="container page-desc-cont">
         <div class="page-desc-title fs-20"><squarespace:block-field id="ztnWifiDesc1"/></div>
-        <div class="page-desc-text"><squarespace:block-field id="ztnWifiDesc2"/></div>
     </div>
 </section>
 <section class="ztn-img">
@@ -15,6 +14,11 @@
         <div class="video-wrapper">
             <squarespace:block-field id="ztnMobileVideo"/>
         </div>
+    </div>
+</section>
+<section>
+    <div class="container">
+        <div class="home-hero-quote-wrapper w-full"><squarespace:block-field id="ztnWifiDesc2"/></div>
     </div>
 </section>
 <section class="block-blue">
