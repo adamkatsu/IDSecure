@@ -1,7 +1,9 @@
 <section class="home-hero">
     <div class="container hero-cont home-hero-cont">
         <div class="h1-wrapper">
-            <h1 class="h1-56 h1-gradient"><squarespace:block-field id="homeH1Gradient"/></h1>
+            <h1 class="h1-56 h1-gradient h1-animation">
+
+            </h1>
             <h1 class="h1-56"><squarespace:block-field id="homeH11"/></h1>
         </div>
         <div class="home-hero-bg"></div>
@@ -157,3 +159,21 @@
         {@|apply marquee-company.block}
     <div class="marquee-overlay marquee-overlay-right"></div>
 </section>
+
+
+<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+<script>
+    // const h1height = document.querySelector('.h1-animation p').offsetHeight;
+    // document.querySelector('.h1-animation').style.height = h1height;
+
+    var typed = new Typed('.h1-animation', {
+        strings: ["CONFIGURABLE", "TACTICAL", "MULTIMODAL", "ZERO TRUST"],
+        typeSpeed: 100,
+        backSpeed: 50,
+        startDelay: 50,
+        loop: true,
+        loopCount: Infinity,
+        showCursor: false,
+    });
+
+</script>

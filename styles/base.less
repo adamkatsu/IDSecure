@@ -431,7 +431,7 @@ section, footer {
   }
   &-quote-wrapper {
     width: 100%;
-    padding: 30px;
+    padding: 30px 8px;
     background-image: url(https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/1378770b-544c-4378-8730-40ba547f78a6/banner-bg.png?content-type=image%2Fpng);
     background-color: #0F36F6;
     background-size: cover;
@@ -442,8 +442,7 @@ section, footer {
     position: relative;
     z-index: 1;
     display: block;
-    font-size: 18px;
-    line-height: 120%;
+    font-size: 20px;
 
     &.w-full p {
       max-width: none;
@@ -454,6 +453,7 @@ section, footer {
     }
     p {
       max-width: 615px;
+      line-height: 120%;
     }
     &::after {
       content: '';
@@ -486,6 +486,9 @@ section, footer {
       text-align: center;
     }
   } 
+}
+.h1-animation {
+  min-height: 61.6px;
 }
 .h1-gradient, .h1-gradient p {
   background: linear-gradient(90deg, #0F36F6 0%, #0FF6F6 100%);
