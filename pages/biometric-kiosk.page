@@ -67,7 +67,7 @@
     </div>
 </section>
 {@|apply howwedoit.block}
-{@|apply certifications.block}
+{@|apply certifications_usa.block}
 <section class="about-mission bio-kiosk-mission">
     <div class="container about-mission-cont">
         <div class="cont-bg-left opacity-06"></div>

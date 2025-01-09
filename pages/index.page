@@ -30,7 +30,7 @@
                 </div>
             </div>
         </div>
-        <div class="home-hero-quote-wrapper w-full txt-32">
+        <div class="home-hero-quote-wrapper w-full">
             <squarespace:block-field id="homeQuote"/>
         </div>
     </div>
