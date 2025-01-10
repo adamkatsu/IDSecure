@@ -344,10 +344,26 @@ section, footer {
     &.opacity-06 {
       opacity: 0.6;
     }
+    &.privacy-1 {
+      top: 2%;
+    }
+    &.privacy-3 {
+      top: 40%;
+    }
+    &.privacy-5 {
+      top: 72%;
+    }
   }
   .cont-bg-right {
     right: -30%;
     top: 20%;
+
+    &.privacy-2 {
+      top: 22%;
+    }
+    &.privacy-4 {
+      top: 60%;
+    }
   }
   .h2-wrapper {
     display: flex;
@@ -814,7 +830,31 @@ section, footer {
     text-align: center;
   }
 }
+.privacy {
+  &-hero {
+    background-image: url('https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/8cda5029-904e-49fc-89fc-02eeac1d6cbd/privacy-bg.png?content-type=image%2Fpng');
+    background-size: contain;
+    background-position: top;
+  }
+  &-cont {
+    gap: 114px;
+  }
+  &-content-wrapper {
+    max-width: 616px;
 
+    h3 {
+      font-size: 24px !important; 
+    }
+    p {
+      color: rgba(254, 254, 254, 0.8);
+      line-height: 140%;
+    }
+    ul {
+      margin-left: 16px;
+      color: #fefefe;
+    }
+  }
+}
 .id-dex {
   &-hero {
     background-image: url('https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/a4680c29-7e9a-420d-96a0-e4ca0a8f1691/Mask+group+%282%29-min.png?content-type=image%2Fpng');
@@ -1197,11 +1237,7 @@ section, footer {
       }
     }
   }
-  .privacy {
-    &-hero {
-      background-image: url('https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/8cda5029-904e-49fc-89fc-02eeac1d6cbd/privacy-bg.png?content-type=image%2Fpng');
-    }
-  }
+  
   .cloudcore {
     &-image-cont {
       height: 80vw;
@@ -1292,6 +1328,19 @@ section, footer {
       align-items: flex-start;
       p {
         text-align: left;
+      }
+    }
+  }
+  .privacy {
+    &-hero {
+      background-size: 300%;
+    }
+    &-cont {
+      gap: 64px;
+    }
+    &-content-wrapper {
+      h3 {
+        font-size: 20px !important; 
       }
     }
   }
