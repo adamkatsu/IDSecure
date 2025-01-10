@@ -1,0 +1,8 @@
+<section class="section-hero inner-hero privacy-hero">
+    <div class="container inner-hero-cont">
+        <div class="h1-wrapper">
+            <h1><squarespace:block-field id="ztnMobileh1"/></h1>
+        </div>
+        <div class="cont-bg-left"></div>
+    </div>
+</section>
