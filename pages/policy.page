@@ -4,6 +4,8 @@
             <h1><squarespace:block-field id="privacyPolicyH1"/>a</h1>
         </div>
         <div class="cont-bg-left"></div>
+            <div class="privacy-policy-wrapper">
+        <squarespace:block-field id="privacyPolicyRichText"/>a
+      </div>
     </div>
-    <squarespace:block-field id="privacyPolicyRichText"/>a
 </section>
