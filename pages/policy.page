@@ -1,7 +1,7 @@
 <section class="section-hero inner-hero privacy-hero">
     <div class="container inner-hero-cont privacy-cont">
         <div class="h1-wrapper">
-            <h1><squarespace:block-field id="privacyPolicyH1"/>a</h1>
+            <h1><squarespace:block-field id="privacyPolicyH1"/></h1>
         </div>
         <div class="cont-bg-left privacy-1"></div>
         <div class="cont-bg-right privacy-2"></div>
@@ -9,7 +9,7 @@
         <div class="cont-bg-right privacy-4"></div>
         <div class="cont-bg-left privacy-5"></div>
         <div class="privacy-content-wrapper">
-          <squarespace:block-field id="privacyPolicyRichText"/>a
+          <squarespace:block-field id="privacyPolicyRichText"/>
         </div>
     </div>
 </section>
