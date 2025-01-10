@@ -5,4 +5,5 @@
         </div>
         <div class="cont-bg-left"></div>
     </div>
+    <squarespace:block-field id="privacyPolicyRichText"/>
 </section>
