@@ -83,5 +83,6 @@ document.addEventListener("DOMContentLoaded", (event) => {
 // Prevent Right Click on Images
 
 document.querySelectorAll('img').forEach((image) => {
-  image.addEventListener('contextmenu', event => event.preventDefault())
+  image.addEventListener('contextmenu', event => event.preventDefault());
+  image.setAttribute('draggable', false);
 })
