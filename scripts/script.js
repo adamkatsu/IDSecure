@@ -78,3 +78,10 @@ document.addEventListener("DOMContentLoaded", (event) => {
     document.querySelector('.site-container').style.overflow = "visible";
   }
 });
+
+
+// Prevent Right Click on Images
+
+document.querySelectorAll('img').forEach((image) => {
+  image.addEventListener('contextmenu', event => event.preventDefault())
+})
