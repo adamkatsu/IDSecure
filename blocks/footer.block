@@ -1,52 +1,56 @@
 <script>console.log({@|json-pretty})</script>
 
 <div class="container footer footer-cont">
-        <div class="footer-logo">
-            <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/b3b80815-19fd-47b9-bc42-ad1223fa8595/nav-logo.png?content-type=image%2Fpng"/>
-        </div>   
-        <div class="footer-menu">
-            <div class="footer-menu-list">
-                <span class="fs-14 cl-grey uppercase">Navigations</span>
-                    <ul class="footer-ul">
-                        <li class="foot-menu-item uppercase">
-                        <a href="{website.internalUrl}">Home</a>
-                        </li>
-                        {.repeated section items.0.items}
-                        <li class="foot-menu-item uppercase">
-                        <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
-                        </li>
-                        {.end}
-                    </ul>
-            </div>
-            <div class="footer-menu-list">
-                <span class="fs-14 cl-grey uppercase">Hardware Solution</span>
+    <div class="footer-logo">
+        <img src="https://images.squarespace-cdn.com/content/6625ebbf1b804068858b53b4/b3b80815-19fd-47b9-bc42-ad1223fa8595/nav-logo.png?content-type=image%2Fpng"/>
+    </div>   
+    <div class="footer-menu">
+        <div class="footer-menu-list">
+            <span class="fs-14 cl-grey uppercase">Navigations</span>
                 <ul class="footer-ul">
-                        {.repeated section items.2.items}
-                        <li class="foot-menu-item uppercase">
-                        <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
-                        </li>
-                        {.end}
-                    </ul>
-            </div>
-            <div class="footer-menu-list">
-                <span class="fs-14 cl-grey uppercase">Software Solution</span>
-                <ul class="footer-ul">
-                        {.repeated section items.3.items}
-                        <li class="foot-menu-item uppercase">
-                        <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
-                        </li>
-                        {.end}
-                    </ul>
-            </div>
-            <div class="footer-menu-list">
-                <span class="fs-14 cl-grey uppercase">Zero Trust Networks</span>
-                <ul class="footer-ul">
-                        {.repeated section items.1.items}
-                        <li class="foot-menu-item uppercase">
-                        <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
-                        </li>
-                        {.end}
-                    </ul>
-            </div>
+                    <li class="foot-menu-item uppercase">
+                    <a href="{website.internalUrl}">Home</a>
+                    </li>
+                    {.repeated section items.0.items}
+                    <li class="foot-menu-item uppercase">
+                    <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                    </li>
+                    {.end}
+                </ul>
+        </div>
+        <div class="footer-menu-list">
+            <span class="fs-14 cl-grey uppercase">Hardware Solution</span>
+            <ul class="footer-ul">
+                    {.repeated section items.2.items}
+                    <li class="foot-menu-item uppercase">
+                    <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                    </li>
+                    {.end}
+                </ul>
+        </div>
+        <div class="footer-menu-list">
+            <span class="fs-14 cl-grey uppercase">Software Solution</span>
+            <ul class="footer-ul">
+                    {.repeated section items.3.items}
+                    <li class="foot-menu-item uppercase">
+                    <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                    </li>
+                    {.end}
+                </ul>
+        </div>
+        <div class="footer-menu-list">
+            <span class="fs-14 cl-grey uppercase">Zero Trust Networks</span>
+            <ul class="footer-ul">
+                    {.repeated section items.1.items}
+                    <li class="foot-menu-item uppercase">
+                    <a href="{collection.fullUrl}">{collection.navigationTitle}</a>
+                    </li>
+                    {.end}
+                </ul>
         </div>
     </div>
+    
+</div>
+<div class="container copyright-cont">
+    <span class="txt-footer-copyright">Copyright © 2025, ID Secure. All Rights Reserved.</span>
+</div>
